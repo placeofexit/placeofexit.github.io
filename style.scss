@@ -147,6 +147,18 @@ img {
 /*********************/
 
 //
+//	front
+//
+
+#front .site-title {
+    position: fixed;
+    font-size: 5em;
+    top: 50%;
+    left: 50%;
+	transform: translate(-50%, -50%);
+  }
+
+//
 // .masthead
 //
 
