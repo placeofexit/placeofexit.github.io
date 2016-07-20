@@ -66,6 +66,7 @@ prose:
           - _site
           - blog.html
           - index.html
+	  - .gitignore
         media: images
         metadata:
                 _posts:
