@@ -52,7 +52,7 @@ baseurl: ""
 # Prose configuration
 
 prose:
-        rooturl: placeofexit.github.io
+        rooturl:
         siteurl: http://www.placeofexit.com
         ignore:
           - LICENSE
