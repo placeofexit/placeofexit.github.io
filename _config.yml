@@ -49,6 +49,51 @@ url: "http://www.placeofexit.com"
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
+# Prose configuration
+
+prose:
+        rooturl: http://github.com/placeofexit/placeofexit.github.io
+        siteurl: http://www.placeofexit.com
+        ignore:
+          - LICENSE
+          - _config.yml
+          - _layouts
+          - _sass
+          - images
+          - style.scss
+          - CNAME
+          - _includes
+          - _site
+          - blog.html
+          - index.html
+        media: images
+        metadata:
+                _posts:
+                  - name: layout
+                    field:
+                        element: hidden
+                        value: post
+                  - name: title
+                    field:
+                        element: text
+                        label: Title
+                        placeholder: New Post
+                  - name: date
+                    field:
+                        element: text
+                        label: Date
+                        value: CURRENT_DATETIME
+                  - name: author
+                    field:
+                        element: text
+                        label: Author
+                        placeholder: XX
+                  - name: published
+                    field:
+                        element: checkbox
+                        label: Published
+                        value: false
+
 #
 # !! You don't need to change any of the configuration flags below !!
 #
