@@ -49,6 +49,8 @@ url: "http://www.placeofexit.com"
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
+excerpt_separator: <!--more-->
+
 # Prose configuration
 
 prose:
