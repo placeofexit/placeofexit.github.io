@@ -7,11 +7,19 @@ author: JG
 ---
 There is an ancient and fundamental moral dispute in ethical philosophy, which can be roughly characterized thusly:
 
-Socrates: No person knowingly does bad; evil is synonymous with ignorance.
+####Socrates:
+No person knowingly does bad; evil is synonymous with ignorance. [Expand](http://www.gutenberg.org/files/1672/1672-h/1672-h.htm)
 
-Christianity: We are all in sin, and sin is the existential state of knowingly rejecting the good (often God or Christ).
+[Augustine](http://www.ellopos.net/elpenor/greeks-us/augustine_plato-socrates.asp?pg=2)
 
-This distinction is often brushed off as overly reductive, for several reasons. First, neither Socrates nor the Christian framework holds this position as a
+[Aquinus](http://www.todayscatholicworld.com/willful-ignorance.htm)
+
+####Christianity:
+We are all in sin, and sin is [the existential state of] knowingly rejecting the good (often God or Christ).
+
+This distinction might be brushed off as overly reductive for several reasons. First, neither Socrates nor the Christian tradition holds their position as an empirical claim. Rather, these are pragmatic ways of framing evil which encourage different ways of thinking about it and addressing it.
+
+Second, we might protest that we are dealing here with two different conceptions of knowledge (or else of "wrong").
 
 Kierkegaard brings these into direct dialogue, lands himself on a pretty orthodox interpretation of sin, but interprets it into a responsive/spontaneous ethic, which I find interesting.
 
