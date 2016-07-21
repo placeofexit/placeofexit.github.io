@@ -160,6 +160,9 @@ img {
     top: 45%;
     left: 50%;
 	transform: translate(-50%, -50%);
+	cursor: default;
+	user-select: none;
+	user-focus: normal;
     & a:hover {
         display: inline-block;
         height: 100%;
@@ -167,6 +170,8 @@ img {
         background-image: url('/images/opened-door-aperture.png');
         background-repeat: no-repeat;
         background-size: 100%;
+        cursor: pointer;
+        user-select: none;
       }
   }
 
