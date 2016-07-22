@@ -4,7 +4,13 @@ title: Opening
 author: XX
 published: true
 ---
-Summer has hit the city, popping windows open, laying laundry out on lines and beds out on balconies. Buildings drip sweat from a thousand air conditioners that sputter and strain to cool their insides. In the middle hours of the day, when the high sun burns away any hope of homeostasis, they eject their occupants to the parks, where the poor things squint and jostle and trip over each other. Slowly, pupils contract and eyes open up to a scene that can only be described as a mass social dissection—all the innards and inner workings laid out in the light. The whole skin of the city runs clear as butter in a hot pan.
+Summer has hit the city, popping windows open, laying laundry out on lines and beds out on balconies. 
+Buildings drip sweat from a thousand air conditioners that sputter and strain to cool their insides. In 
+the middle hours of the day, when the high sun burns away any hope of homeostasis, they eject their 
+occupants to the parks, where the poor things squint and jostle and trip over each other. Slowly, pupils 
+contract and eyes open up to a scene that can only be described as a mass social dissection—all the 
+innards and inner workings laid out in the light. The whole skin of the city runs clear as butter in a 
+hot pan. <!--more-->
 
 Yet sundown sees these occupants scooped up and sewn back into the boiling bowels. Sidewalks are sanitized and streets scrubbed of their detritus. What hand enforces this curfew? Who does it pass over? Should we expect the same tomorrow?
 
