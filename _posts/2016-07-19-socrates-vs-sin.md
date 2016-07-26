@@ -49,7 +49,7 @@ Kierkegaard brings these into direct dialogue, lands himself on a pretty orthodo
 
 -------------
 
-However, even when we fail to properly attribute it [to Socrates and the Christian tradition], this dynamic pervades all our attempts to address injustice. Do we simply rehabilitate the wrongdoer or--failing that--educate others so that this…
+However, even when we fail to properly attribute it [to Socrates and the Christian tradition], this dynamic pervades all of our attempts to address injustice. Do we simply rehabilitate the wrongdoer or--failing that--educate others so that this…
 
 ----------
 
@@ -71,21 +71,40 @@ Tentative solution: it's not about the policies or points made, it's about the r
 
 I raise this distinction (and forgive me for setting it out in such diametrical opposition, but it serves my purposes) because I believe this core disagreement over how we explain (and thereafter address) wrong action is especially relevant to the ethics of oppression. How should we understand oppressive action? Who can be held accountable for systemic injustices? What approach is best for assuring accountability and addressing this action? These questions are relevant to the framework we use…[like those above.]
 
-In Between the World and Me, Ta-Nehisi Coates explicitly raises this issue in the context of American racism. [a certain story]...
+Ta-Nehisi Coates's _Between the World and Me_, takes up this dichotomy in the context of American racism. ...he recalls leaving a movie theater in the Upper West Side, his son running ahead into a restless crowd, and a white woman stepping forward and pushing him out of her way. "Come on!" Coates devotes a significant part of the section to analyzing his reaction to this (stepping in to protect his son, calling her out) and the racial dynamics of the situation.
 
-At first, he takes what I believe is the popular approach to this...
-
-the way that an impossible ideal of racism (an individual knowingly denying a person’s personhood, analogous to sin) obscures the operations of systematic racism.
- 
->There was my sense that this woman was pulling rank. I knew for instance, that she would not have pushed a black child out on my part of Flatbush, because she would be afraid there and would sense, if not know, that there would be a penalty for such an action (94).
+At first, he takes what I would call the popular approach to the situation--roughly in line with Socratic ethical premises--and specifically to the issue of how to explain and contextualize [eh] this woman's action. He shows how emphasizing _intention_ as a defining element of "true racism" turns it into an impossible ideal (an individual knowingly denying a person’s personhood, analogous to sin). 
 
 >But my experience in this world has been that the people who believe themselves to be white are obsessed with the politics of personal exoneration. And the word racist, to them, conjures, if not a tobacco-spitting oaf, then something just as fantastic—an orc, troll, or gorgon. "I’m not a racist," an entertainer once insisted after being filmed repeatedly yelling at a heckler: "He’s a nigger! He’s a nigger!" (97).
+
+This impossible ideal then obscures the operations of systematic racism, by making individual injustices suspect to an extraordinary... As long as there [[find a snippet]] "no racial epithets were uttered"--as long as the white woman didn't proclaim her racism loudly to the world [[after quote]], then ...in fact, even raising the racial dimension of a situation like that becomes insulting; insinuating a deliberate dimension that was not there.
+
+The "tobacco-spitting oaf" becomes the sinner, and sin becomes something we cannot see or acknowledge in ourselves because it is so foreign and extreme. The very defining feature of sin--its deliberate, intentional feature--is what makes sin so unbelievable...and thereby makes repenting impossible.
+
+-----------------------
+
+
+
+
+
+
+
+
+
+
 
 Followed by Nixon to Strom Thurmond: “Strom is no racist.” Inability to find blame in lynch mobs: “persons unknown.”
 
 >In 1957, the white residents of Levittown, Pennsylvania, argued for their right to keep their town segregated. "As moral, religious and law-abiding citizens," the group wrote, "we feel that we are unprejudiced and undiscriminating in our wish to keep our community a closed community." This was the attempt to commit a shameful act while escaping all sanction, and I raise it to show you that there was no golden era when evildoers did their business and loudly proclaimed it as such (p.98).
 
-The way oppression influences this discussion is interesting to me. [Worth revisiting the feminist Kantian from Elise’s class.] I generally want to fall somewhere in the middle between Socrates and Sin. I am convinced that there is some kind of knowledge involved here: the knowledge that Coates describes as the white woman ‘pulling rank’ in the Upper West Side, knowing she would never do that on Flatbush. A very unrefined kind of knowledge, this sensing-if-not-knowing, generally unexpressed, arguably unconscious, but one which a little bit of Socratic questioning could bring one to recollect.
+The way oppression influences this discussion is interesting to me. [Worth revisiting the feminist Kantian from Elise’s class.] I generally want to fall somewhere in the middle between Socrates and Sin. I am convinced that there is some kind of knowledge involved here: the knowledge that Coates describes as his "sense that this woman was pulling rank:"
+
+>I knew for instance, that she would not have pushed a black child out on my part of Flatbush, because she would be afraid there and would sense, if not know, that there would be a penalty for such an action (94).
+
+This is a very unrefined kind of knowledge we're describing here, this sensing-if-not-knowing. It would not pass muster for Socratic knowledge: it is generally unexpressed, and likely unconscious. Yet it is still there. The Socratic name for it would be _unrecollected_ knowledge; we have forgotten that we know it. But a little bit of Socratic interrogation would bring one to affirm it, provided the will to face the basic truth that "no, I would not have pushed your kid out on your part of Flatbush."
+
+This kind of knowledge strikes me as awfully close to the Christian model of sin. It does not require intention, consciousness, or even any unconscious mental content. It is simply demonstrated by a fact of character/action. This knowledge just _is_ the way we (would) conduct ourselves...since our conduct reveals implicit knowledge about our values...it reveals an understanding of what is beneficial/permissable and in what contexts.
+Just as our sin _is_ the fact that, were we alive in Christs time, we would eagerly nail him to the cross. It is a fact of the refusal to love...even if the _opportunity_ to express that fact--whether in Christ or Socrates--has not arisen yet. The opportunity is incidental to sin. Living in the Upper West Side, a white person may commit less actual microaggressions for sheer lack of opportunity. Their sins are no less for this.
 
 ----------
 
