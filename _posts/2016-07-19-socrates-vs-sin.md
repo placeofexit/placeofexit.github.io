@@ -1,6 +1,6 @@
 ---
 layout: post
-date: '2016-07-19 23:09 -0400'
+date: '2016-07-19'
 published: false
 title: Socrates vs Sin
 author: JG
@@ -71,17 +71,17 @@ Tentative solution: it's not about the policies or points made, it's about the r
 
 I raise this distinction (and forgive me for setting it out in such diametrical opposition, but it serves my purposes) because I believe this core disagreement over how we explain (and thereafter address) wrong action is especially relevant to the ethics of oppression. How should we understand oppressive action? Who can be held accountable for systemic injustices? What approach is best for assuring accountability and addressing this action? These questions are relevant to the framework we use…[like those above.]
 
-Ta-Nehisi Coates's _Between the World and Me_, takes up this dichotomy in the context of American racism. ...he recalls leaving a movie theater in the Upper West Side, his son running ahead into a restless crowd, and a white woman stepping forward and pushing him out of her way. "Come on!" Coates devotes a significant part of the section to analyzing his reaction to this (stepping in to protect his son, calling her out) and the racial dynamics of the situation.
+Ta-Nehisi Coates's _Between the World and Me_ takes up this dichotomy in the context of American racism. ...he recalls leaving a movie theater in the Upper West Side, his son running ahead into a restless crowd, and a white woman stepping forward and pushing him out of her way. "Come on!" Coates devotes a significant part of the section to analyzing his reaction to this (stepping in to protect his son, calling her out) and the racial dynamics of the situation.
 
 At first, he takes what I would call the popular approach to the situation--roughly in line with Socratic ethical premises--and specifically to the issue of how to explain and contextualize [eh] this woman's action. He shows how emphasizing _intention_ as a defining element of "true racism" turns it into an impossible ideal (an individual knowingly denying a person’s personhood, analogous to sin). 
 
->But my experience in this world has been that the people who believe themselves to be white are obsessed with the politics of personal exoneration. And the word racist, to them, conjures, if not a tobacco-spitting oaf, then something just as fantastic—an orc, troll, or gorgon. "I’m not a racist," an entertainer once insisted after being filmed repeatedly yelling at a heckler: "He’s a nigger! He’s a nigger!" (97).
+>But my experience in this world has been that the people who believe themselves to be white are obsessed with the politics of personal exoneration. And the word racist, to them, conjures, if not a tobacco-spitting oaf, then something just as fantastic—an orc, troll, or gorgon. "I'm not a racist," an entertainer once insisted after being filmed repeatedly yelling at a heckler: "He's a nigger! He's a nigger!" (97).
 
 This impossible ideal then obscures the operations of systematic racism, by making individual injustices suspect to an extraordinary... As long as there [[find a snippet]] "no racial epithets were uttered"--as long as the white woman didn't proclaim her racism loudly to the world [[after quote]], then ...in fact, even raising the racial dimension of a situation like that becomes insulting; insinuating a deliberate dimension that was not there.
 
 The "tobacco-spitting oaf" becomes the sinner, and sin becomes something we cannot see or acknowledge in ourselves because it is so foreign and extreme. The very defining feature of sin--its deliberate, intentional feature--is what makes sin so unbelievable...and thereby makes repenting impossible.
 
------------------------
+Coates points out that this is not just a theoretical consideration. His all-too-brief historical examples of these "politics of personal exoneration" span the entire twentieth century [[or more? lynching examples]], from Michael Richards to Strom Thurmond to the segregationist residents of Levittown, PA. To each of them--no matter how explicit their white supremacy--
 
 
 
@@ -97,7 +97,7 @@ Followed by Nixon to Strom Thurmond: “Strom is no racist.” Inability to find
 
 >In 1957, the white residents of Levittown, Pennsylvania, argued for their right to keep their town segregated. "As moral, religious and law-abiding citizens," the group wrote, "we feel that we are unprejudiced and undiscriminating in our wish to keep our community a closed community." This was the attempt to commit a shameful act while escaping all sanction, and I raise it to show you that there was no golden era when evildoers did their business and loudly proclaimed it as such (p.98).
 
-The way oppression influences this discussion is interesting to me. [Worth revisiting the feminist Kantian from Elise’s class.] I generally want to fall somewhere in the middle between Socrates and Sin. I am convinced that there is some kind of knowledge involved here: the knowledge that Coates describes as his "sense that this woman was pulling rank:"
+Yet I am convinced that there is some kind of knowledge involved here. Ignoring the role of intention in systematic racism seems just as problematic to ignore as insisting on it; to ignore the role of intention is, in a way, to accept the account of racism as a kind of natural phenomenon, where nobody can be held any more accountable than another, where lynchings are carried out by "persons unknown"--the account that turns an _outrageous_ act into a _tragic_ one.
 
 >I knew for instance, that she would not have pushed a black child out on my part of Flatbush, because she would be afraid there and would sense, if not know, that there would be a penalty for such an action (94).
 
