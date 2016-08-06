@@ -1,8 +1,8 @@
 ---
 layout: post
-date: '2016-07-19'
 published: false
 title: Socrates vs Sin
+date: '2016-07-19'
 author: JG
 ---
 There is an ancient and fundamental moral dispute in ethical philosophy, which can be roughly characterized thusly:
@@ -117,7 +117,9 @@ Perhaps this is really all the knowledge that is required for sin, and we should
 
 Coates implies a kind of knowledge, even while denying the helpfulness of ‘racism’ as understood by the people that think they are white:
 
->The mettle that it takes to look away from the horror of our prison system, from police forces transformed into armies, from the long war against the black body, is not forged overnight. This is the practiced habit of jabbing out one’s eyes and forgetting the work of one’s hands. To acknowledge these horrors means turning away from the brightly rendered version of your country as it has always declared itself and turning toward something murkier and unknown. It is still too difficult for most // Americans to do this (p.98-99).
+>The mettle that it takes to look away from the horror of our prison system, from police forces transformed into armies, from the long war against the black body, is not forged overnight. This is the practiced habit of jabbing out one’s eyes and forgetting the work of one’s hands (p.98).
+
+This is not the simple ignorance of those watching the shadows in Plato's cave. It is not an arduous climb to see the surface. There is television in this cave, and we are neither chained to the wall nor any single channel. One needs to *will* to remain ignorant, and the act of jabbing out one's eyes betrays an awareness of what they might otherwise see.
 
 “forgetting the work of one’s hands,” literally obscuring one’s agency in the whole thing (Heideggerian conscience), forgetting that we killed Christ
 
