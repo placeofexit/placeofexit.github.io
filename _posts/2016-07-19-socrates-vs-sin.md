@@ -5,19 +5,21 @@ title: Socrates vs Sin
 date: '2016-07-19'
 author: JG
 ---
-There is an ancient and fundamental moral dispute in ethical philosophy, which can be roughly characterized thusly:
+### Background
 
-###Socrates:
-No person knowingly does bad; evil is synonymous with ignorance. [Expand](http://www.gutenberg.org/files/1672/1672-h/1672-h.htm)
+There is an ancient and fundamental dispute in ethical philosophy, which can be roughly characterized thusly:
+
+#### Socrates:
+No person knowingly does bad; evil is synonymous with ignorance. What the evildoer is ignorant of is her self---specifically the nature of her soul.[Expand](http://www.gutenberg.org/files/1672/1672-h/1672-h.htm)
 
 [Augustine](http://www.ellopos.net/elpenor/greeks-us/augustine_plato-socrates.asp?pg=2)
 
 [Aquinus](http://www.todayscatholicworld.com/willful-ignorance.htm)
 
-###Christianity:
+#### Christianity:
 We are all in sin, and sin is [the existential state of] knowingly rejecting the good (often God or Christ).
 
-This distinction might be brushed off as overly reductive for several reasons. First, neither Socrates nor the Christian tradition holds their position as an empirical claim. Rather, these are pragmatic ways of framing evil which encourage different ways of thinking about it and addressing it.
+This distinction might be brushed off as overly reductive for several reasons. First, neither Socrates nor the Christian tradition holds their position as an empirical claim. These are pragmatic ways of framing evil which encourage different ways of thinking about it and addressing it.
 
 Second, we might protest that we are dealing here with two different conceptions of knowledge (or else of "wrong").
 
@@ -69,6 +71,8 @@ Tentative solution: it's not about the policies or points made, it's about the r
 
 ------------
 
+### The Problem
+
 I raise this distinction (and forgive me for setting it out in such diametrical opposition, but it serves my purposes) because I believe this core disagreement over how we explain (and thereafter address) wrong action is especially relevant to the ethics of oppression. How should we understand oppressive action? Who can be held accountable for systemic injustices? What approach is best for assuring accountability and addressing this action? These questions are relevant to the framework we use…[like those above.]
 
 Ta-Nehisi Coates's _Between the World and Me_ takes up this dichotomy in the context of American racism. ...he recalls leaving a movie theater in the Upper West Side, his son running ahead into a restless crowd, and a white woman stepping forward and pushing him out of her way. "Come on!" Coates devotes a significant part of the section to analyzing his reaction to this (stepping in to protect his son, calling her out) and the racial dynamics of the situation.
@@ -105,7 +109,7 @@ This is a very unrefined kind of knowledge we're describing here, this sensing-i
 
 This kind of knowledge strikes me as awfully close to the Christian model of sin. It does not require intention, consciousness, or even any unconscious mental content. It is simply demonstrated by a fact of character/action. This knowledge just _is_ the way we (would) conduct ourselves...since our conduct reveals implicit knowledge about our values...it reveals an understanding of what is beneficial/permissable and in what contexts.
 
-Just as our sin _is_ the fact that, were we alive in Christs time, we would eagerly nail him to the cross. It is a fact of the refusal to love...even if the _opportunity_ to express that fact---whether in Christ or Socrates---has not arisen yet. The opportunity is incidental to sin. Living in the Upper West Side, a white person may commit less actual microaggressions for sheer lack of opportunity. Their sins are no less for this.
+Just as our sin _is_ the fact that, were we alive in Christs time, we would eagerly nail him to the cross. It is a fact of the refusal to love...even if the _opportunity_ to express that fact---whether in Christ or Socrates---has not arisen yet. The opportunity is incidental to sin. Living in the Upper West Side, a white person may commit less actual microaggressions for sheer lack of opportunity. Their sins [[and their ignorance as well]] are no less for this.
 
 ------------
 
@@ -147,15 +151,13 @@ The Christian framework accepts that dialogue is necessary to atone as a nation,
 [[The christian framework calls on white America to repent.]]
 ......
 
-I want to bring Kierkegaard back in here because his work in synthesizing the two traditions has interesting implications for our purposes. Dialogue is insufficient, yet it also *must* precede repentance and accountability; it is a necessary condition for acknowledging one's priviledge and taking responsibility for one's actions.
+I want to bring Kierkegaard back in here because his work in synthesizing the two traditions has interesting implications for our purposes. Dialogue is insufficient, yet it also *must* precede repentance; it is a necessary condition for acknowledging one's priviledge and taking responsibility for systemic injustice.
 
-Police officers cannot be held accountable until they understand that they are in the wrong. Indictments are important for *instilling* this understanding, but an indictment here and there does not provide that. A convicted officer recieves punishment, but this is not the same as being held accountable. Until we get to that point, punishment is just another ordeal; a threat on blue lives. It is something suffered for the cause, and I fear that such suffering actually increases in-group loyalty: it mobilizes the police; it arms and armors them.
+Police officers cannot be held accountable until they understand that they are in the wrong. Indictments are important for *instilling* this understanding and rectifying the brutal arrogance that comes with impunity, but an indictment alone cannot provide that understanding. A convicted officer recieves punishment, but this is not the same as being held accountable. Until we get to that point, punishment is just another ordeal; a threat on blue lives. It is something suffered for the cause, and I fear that such suffering actually increases in-group loyalty: it mobilizes the police; it arms and armors them.
 
-We need not be worried that this will be an exact mirror image of the BLM movement and the way each tradgedy reinforces it. The police cannot organize in the same way; their situation is not the same; their history is not the same. And their inability to organize betrays that---in some remote way---they understand this. This is where true knowledge can arise.
+We need not be worried that this will be an exact mirror image of the BLM movement and the way each tradgedy reinforces it. The police cannot organize in the same way; their situation is not the same; their history is not the same. And their inability to organize betrays that---in some remote way---they understand this difference. This is where true knowledge can arise.
 
 Police departments cannot be held accountable until they are brought to an understanding of their role in systematic racism. America cannot be held accountable until it understands its history. Demands for accountability might be good teaching tools, but until the understanding is there, that is all they are.
-
-This kind of knowledge is very much 
 
 
 
