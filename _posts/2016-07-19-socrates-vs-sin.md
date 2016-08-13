@@ -178,12 +178,30 @@ Pain and harm (the Socratic roots of shame) are agent-relative, and here questio
 
 ---------
 
-The Christian framework accepts that dialogue is necessary to atone as a nation, but it is not sufficient---it is not itself atonement. This is approach is necessary for understanding our sin---America's sin---but following this understanding, the Christian calls on white America to *repent*. The Christian believes that there are some (and now we are probably looking at the cultural elites) who fully understand both the nature of systematic racism *and* the way it disadvantages whites and deprives oppressors of virtue/humanity. And yet even this understanding does not prevent them from taking advantage of their priviledge---from permitting and reinforcing racism.
+Plato openly worried that the absense of a proper sense of shame made not just moral conduct [[accountability to actions]], but *rational discourse* [[accountability for speech]] impossible. Two of his most infamous characters---Callicles of the *Gorgias* and Thrasymachus [[sp?]] of the *Republic*---lack exactly this basic sense of shame. When Socrates points out contradictions in their views, they embrace them, taking the opportunity to deride his method as childish and unrealistic. In both cases, Socrates and his interlocutors leave without resolving anything; they don't even arrive at *aporia*, just frustration and confusion. Even Socrates cannot correct their false beliefs, and when wrong action ammounts to false beliefs, this lack of shame seems to be a prerequisit for moral reform; without it, we cannot get better.
+
+If my assessment is accurate that white supremacy is quickly becoming less shameful among white Americans [[or has never been truly shameful]], then how is anti-racist progress possible? (I am committed, along with Coates, that we need to *believe* it is possible; we need to take up the struggle for its own sake [[is that the same thing?]].) But where do we start; where can white America find a toehold to pull itself up and out of its own filth? [[eh, maybe cut whole pp]]
+
+Luckily, this is where Christianity sees all of us; this state of shameless, willful helplessness, this active turning away from truth, reason and light, is *exactly* the state of sin. (Kierkegaard's claim that Socrates could point this out to us, but that he could not in fact help us out of it, seems to be anticipated already in Plato.) Sin is the turning away from Truth and the Good; a misrelation between oneself and the source of oneself. While it has otherwise been called "idle talk" (Heidegger) or "bullshit" (LOOKUP), this state is in fact sin; it is the state in which one trades love of others for love of oneself, and in doing so, turns inward and arrives at a place in which one is unreceptive to the love of others---in which the loving engagement of others must be repeatedly rejected in order to maintain the absolute rightness of one's own atomic self. That I am trading the "love of God" or "love of Christ" for the "love of others" will, I hope, not throw my readers off the central point: that the *attitude* and the existential *state* required for rejecting these loves is one and the same. Metaphysical theories as to the identity of the love of others with the love of God, while exciting, need not distract us from the task at hand.
+
+
+CONTINUE HERE
+
+
+
+[[Augustine: the idea that we would have acted appropriately if we had known is a matter of human *pride*: a failure to take responsibility for one's sin (*On Grace and Free Will*, chpt. II).]]
+
+[[Augustice: "It is one thing to be ignorant, and another thing to be unwilling to know. For the will is at fault in the case of the man of whom it is said, 'He is not inclined to understand, so as to do good'" (OGaFW, chpt. V).]]
+
+The Christian framework accepts that dialogue is necessary to atone as a nation, but it is not sufficient---it is not itself atonement. This approach is necessary for understanding our sin---America's sin---but following this understanding, the Christian calls on white America to *repent*. The Christian believes that there are some (and now we are probably looking at the cultural elites) who fully understand both the nature of systematic racism *and* the way it disadvantages whites and deprives oppressors of virtue/humanity. And yet even this understanding does not prevent them from taking advantage of their priviledge---from permitting and reinforcing racism.
 
 [[The christian framework calls on white America to repent.]]
 ......
 
 I want to bring Kierkegaard back in here because his work in synthesizing the two traditions has interesting implications for our purposes. Dialogue is insufficient, yet it also *must* precede repentance; it is a necessary condition for acknowledging one's priviledge and taking responsibility for systemic injustice.
+
+[[BIG NOTE: knowledge here is not actually attained: Socrates never *convinces* Callicles through rational argument that he is in sin, but he continues to engage him in dialogue *so as to forcibly draw his attention to his denial*---so as to make the active denial of truth, reason and the good (which is always active) *explicit*, so as to make it an issue and force it into consideration. Success here is not important; one does not need to convert the racist crowd. One engages in this way purely out of love (*eros*), as Socrates did. This is what it means to love your enemy: to [[QUOTE]]]]
+"If I had not come and spoken unto them, they would not have sin; but now they have no excuse for their sin." (John 15:22)
 
 Police officers cannot be held accountable until they understand that they are in the wrong. Indictments are important for *instilling* this understanding and rectifying the brutal arrogance that comes with impunity, but an indictment alone cannot provide that understanding. A convicted officer recieves punishment, but this is not the same as being held accountable. Until we get to that point, punishment is just another ordeal; a threat on blue lives. It is something suffered for the cause, and I fear that such suffering actually increases in-group loyalty: it mobilizes the police; it arms and armors them.
 
