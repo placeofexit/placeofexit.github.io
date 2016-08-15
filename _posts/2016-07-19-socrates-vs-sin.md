@@ -19,14 +19,17 @@ We are all in sin, and sin is a state of *knowingly* rejecting truth and  the go
 
 This framework encourages **holding the wrongdoer accountable** as the means of moral reform; calling on the wrongdoer to **repent**.
 
-CONTINUE
---------
+This is, of course, a simplification of two very rich (and, in Christianity's case, long and convoluted) traditions. More can be (and has been) said on either side, but for the sake of expediency, I invite you to consider them as laid out.
 
-However, even when we fail to properly attribute it [to Socrates and the Christian tradition], this dynamic pervades all of our attempts to address injustice. Do we simply rehabilitate the wrongdoer or---failing that---educate others so that this…
+In their barest form, these ethical frameworks are *incompatible* with one another. One cannot endorse them both at once. and---going by the principle of non-contradiction---neither can one employ their dictates simultaneously. One might use each of them in a single situation, but at some point one must make the transition from education to accountability or vice versa.
+
+These traditions have a long been aware of eachother and even intermingled, but no one has brought them so directly to bear on one another as S&#248;ren Kierkegaard. Reacting against Hegel's claims on Christianity, he sought to set these apart from one another, and in doing so clarified their relationship in such a way as to finally bring them into authentic contact. I primarily have his *Philosophical Fragments* to thank for the above formulation.
+
+However, even when we fail to properly attribute our ethical frameworks [to Socrates and the Christian tradition], this dynamic underlies all of our attempts to actually *do* ethics---that is, to address injustice. Do we simply rehabilitate the wrongdoer or---failing that---educate others so that this…
 
 ### The Problem
 
-I raise this distinction (and forgive me for setting it out in such diametrical opposition, but it serves my purposes) because I believe this core disagreement over how we explain (and thereafter address) wrong action is especially relevant to the ethics of oppression. How should we understand oppressive action? Who can be held accountable for systemic injustices? What approach is best for assuring accountability and addressing this action? These questions are relevant to the framework we use…[like those above.]
+I raise this distinction [and forgive me for setting it out in such diametrical opposition, but it serves my purposes] because I believe this core disagreement over how we explain (and thereafter address) wrong action is especially relevant to the ethics of oppression. How should we understand oppressive action? Who can be held accountable for systemic injustices? What approach is best for assuring accountability and addressing this action? These questions are relevant to the framework we use…[like those above.]
 
 Ta-Nehisi Coates's _Between the World and Me_ takes up this dichotomy in the context of American racism. ...he recalls leaving a movie theater in the Upper West Side, his son running ahead into a restless crowd, and a white woman stepping forward and pushing him out of her way. "Come on!" Coates devotes a significant part of the section to analyzing his reaction to this (stepping in to protect his son, calling her out) and the racial dynamics of the situation.
 
@@ -136,6 +139,8 @@ I want to bring Kierkegaard back in here because his work in synthesizing the tw
 
 [[BIG NOTE: knowledge here is not actually attained: Socrates never *convinces* Callicles through rational argument that he is in sin, but he continues to engage him in dialogue *so as to forcibly draw his attention to his denial*---so as to make the active denial of truth, reason and the good (which is always active) *explicit*, so as to make it an issue and force it into consideration. Success here is not important; one does not need to convert the racist crowd. One engages in this way purely out of love (*eros*), as Socrates did. This is what it means to love your enemy: to [[QUOTE]]]]
 "If I had not come and spoken unto them, they would not have sin; but now they have no excuse for their sin." (John 15:22)
+
+In either case [[failed or successful reasoning]] this act *shows* the other their error, their sin. If their intention was involved in it (if they sinned), then they will not be able to accept this; racism (like sin) must obscure its own activity in order to propperly (or impropperly) operate. If their intention was not there---if their belief was truly unexamined---then they may be more open to it. But *in either case*, the key function of reasoning is to offer an *opportunity* to move towards accountability by exposing the function (or lack thereof) of the self, intention, knowledge.
 
 Police officers cannot be held accountable until they understand that they are in the wrong. Indictments are important for *instilling* this understanding and rectifying the brutal arrogance that comes with impunity, but an indictment alone cannot provide that understanding. A convicted officer recieves punishment, but this is not the same as being held accountable. Until we get to that point, punishment is just another ordeal; a threat on blue lives. It is something suffered for the cause, and I fear that such suffering actually increases in-group loyalty: it mobilizes the police; it arms and armors them.
 
