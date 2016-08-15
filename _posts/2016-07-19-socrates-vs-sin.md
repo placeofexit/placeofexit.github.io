@@ -25,13 +25,24 @@ In their barest form, these ethical frameworks are *incompatible* with one anoth
 
 These traditions have a long been aware of eachother and even intermingled, but no one has brought them so directly to bear on one another as S&#248;ren Kierkegaard. Reacting against Hegel's claims on Christianity, he sought to set these apart from one another, and in doing so clarified their relationship in such a way as to finally bring them into authentic contact. I primarily have his *Philosophical Fragments* to thank for the above formulation.
 
-However, even when we fail to properly attribute our ethical frameworks [to Socrates and the Christian tradition], this dynamic underlies all of our attempts to actually *do* ethics---that is, to address injustice. Do we simply rehabilitate the wrongdoer or---failing that---educate others so that this…
+However, even when we fail to properly attribute our ethical frameworks [to Socrates and the Christian tradition], this dynamic underlies all of our attempts to actually address injustice. Do we simply rehabilitate the wrongdoer or---failing that---educate others so that this…
 
 ### The Problem
 
-I raise this distinction [and forgive me for setting it out in such diametrical opposition, but it serves my purposes] because I believe this core disagreement over how we explain (and thereafter address) wrong action is especially relevant to the ethics of oppression. How should we understand oppressive action? Who can be held accountable for systemic injustices? What approach is best for assuring accountability and addressing this action? These questions are relevant to the framework we use…[like those above.]
+I raise this distinction [and forgive me for setting it out in such diametrical opposition, but it serves my purposes] because I believe this core disagreement over how we explain (and thereafter address) wrong action is especially relevant to the ethics of oppression. How should we understand oppressive action? Who can be held accountable for systemic injustices? What approach is best for creating a more-equal society? These questions are relevant to the framework we use…[like those above.]
 
-Ta-Nehisi Coates's _Between the World and Me_ takes up this dichotomy in the context of American racism. ...he recalls leaving a movie theater in the Upper West Side, his son running ahead into a restless crowd, and a white woman stepping forward and pushing him out of her way. "Come on!" Coates devotes a significant part of the section to analyzing his reaction to this (stepping in to protect his son, calling her out) and the racial dynamics of the situation.
+Ta-Nehisi Coates's _Between the World and Me_ takes up this dichotomy in the context of American racism 
+
+Coates recalls leaving a movie theater in the Upper West Side, after taking his son to see *Howl's Moving Castle*.
+
+>The theater was crowded, and when we came out...[we rode a set of escalators down to the ground floor. As we came off,]...you were moving at the dawdling speed of a small child. A white woman pushed you and said, "Come on!" (p.93-4).
+
+Shocked, Coates called out this woman: "my words were hot with all of the moment and all of my history" (p.94). A white man stands up for her, things escalate culminate in the man telling Coates "I could have you arrested!"
+
+Coates spends a significant amount of time here, unpacking the dynamics at play. He sees the whole history of American racism: the contrast of his blackness in the white Upper West Side, the way a threat of arrest translates into a threat on his life, the power to steal his body. But most interesting is when Coates begins to wonder how he could communicate this to the white woman that pushed his son; could he bring her to see her microaggression as such---to see her own actions in the way he did, with all their historical coloring.
+
+How do we reform people? How do we make them better, more virtuous? How do we address racism in all its particularity---in the specific actions performed by specific people? American racism (and other forms of structural oppression) seem especially hard to know how to handle: its roots are systemic---they are bigger than us and sometimes beyond our reckoning---but it makes contact on people only in discrete instances.
+
 
 At first, he takes what I would call the popular approach to the situation---roughly in line with Socratic ethical premises---and specifically to the issue of how to explain and contextualize [eh] this woman's action. He shows how emphasizing _intention_ as a defining element of "true racism" turns it into an impossible ideal (an individual knowingly denying a person’s personhood, analogous to sin). 
 
@@ -147,6 +158,13 @@ Police officers cannot be held accountable until they understand that they are i
 We need not be worried that this will be an exact mirror image of the BLM movement and the way each tradgedy reinforces it. The police cannot organize in the same way; their situation is not the same; their history is not the same. And their inability to organize betrays that---in some remote way---they understand this difference. This is where true knowledge can arise.
 
 Police departments cannot be held accountable until they are brought to an understanding of their role in systematic racism. America cannot be held accountable until it understands its history. Demands for accountability might be good teaching tools, but until the understanding is there, that is all they are.
+
+------------
+
+### Quotes
+
+- Coates
+	- "History is not soley in our hands. And still you are called to struggle, not because it assures you victory but because it assures you an honorable and sane life" (p.97).
 
 -------------
 
