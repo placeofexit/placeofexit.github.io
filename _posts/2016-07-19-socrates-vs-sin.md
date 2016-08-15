@@ -5,29 +5,6 @@ title: Socrates vs Sin
 date: '2016-07-19'
 author: JG
 ---
-### Background
-
-There is an ancient and fundamental dispute in ethical philosophy, which can be roughly characterized thusly:
-
-#### Socrates
-No person *knowingly* does wrong. What appears to be malice is in fact ignorance, and this ignorance is primarily an ignorance of the nature of one's soul.
-
-This framework encourages **reasoning with the wrongdoer** as the means of moral reform; calling on the wrongdoer to **examine** their error.
-
-#### Christianity
-We are all in sin, and sin is a state of *knowingly* rejecting truth and  the good. Individual sins are acts in which one knowingly does wrong, or else fails to do what one is called to.
-
-This framework encourages **holding the wrongdoer accountable** as the means of moral reform; calling on the wrongdoer to **repent**.
-
-This is, of course, a simplification of two very rich (and, in Christianity's case, long and convoluted) traditions. More can be (and has been) said on either side, but for the sake of expediency, I invite you to consider them as laid out.
-
-In their barest form, these ethical frameworks are *incompatible* with one another. One cannot endorse them both at once. and---going by the principle of non-contradiction---neither can one employ their dictates simultaneously. One might use each of them in a single situation, but at some point one must make the transition from education to accountability or vice versa.
-
-These traditions have a long been aware of eachother and even intermingled, but no one has brought them so directly to bear on one another as S&#248;ren Kierkegaard. Reacting against Hegel's claims on Christianity, he sought to set these apart from one another, and in doing so clarified their relationship in such a way as to finally bring them into authentic contact. I primarily have his *Philosophical Fragments* to thank for the above formulation.
-
-However, even when we fail to properly attribute our ethical frameworks [to Socrates and the Christian tradition], this dynamic underlies all of our attempts to actually address injustice. Do we simply rehabilitate the wrongdoer or---failing that---educate others so that this…
-
-### The Problem
 
 I raise this distinction [and forgive me for setting it out in such diametrical opposition, but it serves my purposes] because I believe this core disagreement over how we explain (and thereafter address) wrong action is especially relevant to the ethics of oppression. How should we understand oppressive action? Who can be held accountable for systemic injustices? What approach is best for creating a more-equal society? These questions are relevant to the framework we use…[like those above.]
 
@@ -43,6 +20,29 @@ Coates spends a significant amount of time here, unpacking the dynamics at play.
 
 How do we reform people? How do we make them better, more virtuous? How do we address racism in all its particularity---in the specific actions performed by specific people? American racism (and other forms of structural oppression) seem especially hard to know how to handle: its roots are systemic---they are bigger than us and sometimes beyond our reckoning---but it makes contact on people only in discrete instances.
 
+### Background
+
+There two ethical frameworks here that are particularly relevant to the question at hand:
+
+#### Socrates
+No person *knowingly* does wrong. What appears to be malice is in fact ignorance, and this ignorance is primarily an ignorance of the nature of one's soul.
+
+This framework encourages **reasoning with the wrongdoer** as the means of moral reform; calling on the wrongdoer to **examine** their error.
+
+#### Christianity
+We are all in sin, and sin is a state of *knowingly* rejecting truth and  the good. Individual sins are acts in which one knowingly does wrong, or else fails to do what one is called to.
+
+This framework encourages **holding the wrongdoer accountable** as the means of moral reform; calling on the wrongdoer to **repent**.
+
+This is, of course, a simplification of two very rich (and long and convoluted) traditions. More can be (and has been) said on either side, but for the sake of expediency, I invite you to consider them as laid out.
+
+In their barest form, these ethical frameworks are *incompatible* with one another. One cannot endorse them both at once. and---going by the principle of non-contradiction---neither can one employ their dictates simultaneously. One might use each of them in a single situation, but at some point one must make the transition from education to accountability or vice versa. The dynamic of these two competing, incompatible interpretive frameworks underlies all of our normative talk and our attempts to actually address injustice.
+
+These traditions have a long been aware of eachother and even intermingled, but no one has brought them so directly to bear on one another as S&#248;ren Kierkegaard. Reacting against Hegel's claims on Christianity, he sought to set these apart from one another, and in doing so clarified their relationship in such a way as to finally bring them into authentic contact. I primarily have his *Philosophical Fragments* to thank for the above formulation.
+
+[[it's not about the policies or points made, it's about the reasons used and the ways they are articulated and championed.]]
+
+-------------
 
 At first, he takes what I would call the popular approach to the situation---roughly in line with Socratic ethical premises---and specifically to the issue of how to explain and contextualize [eh] this woman's action. He shows how emphasizing _intention_ as a defining element of "true racism" turns it into an impossible ideal (an individual knowingly denying a person’s personhood, analogous to sin). 
 
