@@ -38,37 +38,35 @@ This is, of course, a simplification of two very rich (and long and convoluted) 
 
 In their barest form, these ethical frameworks are *incompatible* with one another. One cannot endorse them both at once. and---going by the principle of non-contradiction---neither can one employ their dictates simultaneously. One might use each of them in a single situation, but at some point one must make the transition from education to accountability or vice versa. The dynamic of these two competing, incompatible interpretive frameworks underlies all of our normative talk and our attempts to actually address injustice.
 
-These traditions have a long been aware of eachother and even intermingled, but no one has brought them so directly to bear on one another as S&#248;ren Kierkegaard. Reacting against Hegel's claims on Christianity, he sought to set these apart from one another, and in doing so clarified their relationship in such a way as to finally bring them into authentic contact. I primarily have his *Philosophical Fragments* to thank for the above formulation.
-
 [[it's not about the policies or points made, it's about the reasons used and the ways they are articulated and championed.]]
 
--------------
+### The Problem
 
-At first, he takes what I would call the popular approach to the situation---roughly in line with Socratic ethical premises---and specifically to the issue of how to explain and contextualize [eh] this woman's action. He shows how emphasizing _intention_ as a defining element of "true racism" turns it into an impossible ideal (an individual knowingly denying a person’s personhood, analogous to sin). 
+At the theater, Coates considers the Socratic approach accordingly:
 
->But my experience in this world has been that the people who believe themselves to be white are obsessed with the politics of personal exoneration. And the word racist, to them, conjures, if not a tobacco-spitting oaf, then something just as fantastic—an orc, troll, or gorgon. "I'm not a racist," an entertainer once insisted after being filmed repeatedly yelling at a heckler: "He's a nigger! He's a nigger!" (97).
+>Had I informed this woman that when she pushed my son, she was acting according to a tradition that held black bodies as lesser, her response would likely have been, "I am not racist." Or maybe not. But my experience in this world has been that the people who believe themselves to be white are obsessed with the politics of personal exoneration. And the word racist, to them, conjures, if not a tobacco-spitting oaf, then something just as fantastic---an orc, troll, or gorgon (97).
 
-This impossible ideal then obscures the operations of systematic racism, by making individual injustices suspect to an extraordinary... As long as there [[find a snippet]] "no racial epithets were uttered"---as long as the white woman didn't proclaim her racism loudly to the world [[after quote]], then ...in fact, even raising the racial dimension of a situation like that becomes insulting; insinuating a deliberate dimension that was not there.
+The problem here is that we want to explain the situation, to reason with the wrong-doer, but---at least in such *discrete* and racially-charged encounters---what the wrong-doer *hears* is an accusation. We open with the Socratic, but the wrong-doer recieves the Christian---an accusation that they deliberately harbor contempt. I believe Coates is right in suspecting this kind of discourse to be unproductive.
+
+Coates goes on to situate these "politics of personal exoneration" historically. His examples span the entire twentieth century, from Michael Richards to Strom Thurmond to the segregationist residents of Levittown, PA. Each of them deny their racism, no matter how clearly their actions fit the structure and function of white supremacy.
+
+His lesson to his son: "there was no golden era when evildoers did their business and loudly proclaimed it as such" (p.98).
+
+One possible conclusion we could draw from this is roughly in line with the Socratic framework---and I would say is the more prominent view among politically-conscious young people today. This holds that the Christian framework---the idea that wrong acts are inherently bound up in intention---is precisely the problem. Proponents of this view might say that, actually, *all* white people are racist, while ammending racism to mean "unconsciously participating in structures that danger and disenfranchise people of color." This is an effort to remedy the way in which emphasizing _intention_ as a defining element of "true racism" turns it into an impossible ideal. This impossible ideal tends to obscure the operations of systematic racism, by making individual injustices suspect to an extraordinary and *un*reasonable doubt.
+
+CONTINUE
+------------
+
+ As long as there [[find a snippet]] "no racial epithets were uttered"---as long as the white woman didn't proclaim her racism loudly to the world, then...
+It makes even *raising* the racial dimension of a situation like that insulting, insinuating a deliberate dimension that was not there.
 
 The "tobacco-spitting oaf" becomes the sinner, and sin becomes something we cannot see or acknowledge in ourselves because it is so foreign and extreme. The very defining feature of sin---its deliberate, intentional nature---is what makes sin so unbelievable...and thereby makes repenting impossible.
 
-The key conceptual misunderstanding here is in confusing the act with the actor---a racist act becomes a racist *character*; the sin indicates a sinner.
+[At it's worst...] The key conceptual misunderstanding here is in confusing the act with the actor---a racist act becomes a racist *character*; the sin indicates a sinner.
 
-Coates points out that this is not just a theoretical consideration. His all-too-brief historical examples of these "politics of personal exoneration" span the entire twentieth century [[or more? lynching examples]], from Michael Richards to Strom Thurmond to the segregationist residents of Levittown, PA. Each of them deny their racism, no matter how explicit 
+[[this goes on too long]]
 
-
-
-
-
-
-
-
-
-
-
-Followed by Nixon to Strom Thurmond: “Strom is no racist.” Inability to find blame in lynch mobs: “persons unknown.”
-
->In 1957, the white residents of Levittown, Pennsylvania, argued for their right to keep their town segregated. "As moral, religious and law-abiding citizens," the group wrote, "we feel that we are unprejudiced and undiscriminating in our wish to keep our community a closed community." This was the attempt to commit a shameful act while escaping all sanction, and I raise it to show you that there was no golden era when evildoers did their business and loudly proclaimed it as such (p.98).
+------------
 
 Yet I am convinced that there is some kind of knowledge involved here. Ignoring the role of intention in systematic racism seems just as problematic to ignore as insisting on it; to ignore the role of intention is, in a way, to accept the account of racism as a kind of natural phenomenon, where nobody can be held any more accountable than another, where lynchings are carried out by "persons unknown"---the account that turns an _outrageous_ act into a _tragic_ one.
 
@@ -96,7 +94,15 @@ Real interesting part later:
 
 >By the time I visited those battlefields, I knew that they had been retrofitted as the staging ground for a great deception, and this was my only security, because they could no longer insult me by lying to me. I knew—and the most important thing I knew was that, somewhere deep with them [sic], they knew too. I like to think that knowing might have kept me from endangering you, that hav-//ing understood and acknowledged the anger, I could control it. I like to think that it could have allowed me to speak the needed words to the woman and then walk away. I like to think this, but I can’t promise it. The struggle is really all I have for you because it is the only portion of this world under your control (106-7).
 
+[[talk about the struggle]]
+
 ### Resolution
+
+I previously set up the Christian and Socratic ethical frameworks as opposite extremes. Through Coates, we can see that *both* extremes are problematic. Both vanish the concrete instances of racism, whether by chopping them off from their historical context or else by undermining the agency involved. Is there any productive alternative?
+
+For this view of these frameworks as conflicting interprative traditions, I mainly have to thank S&#248;ren Kierkegaard and his *Philosophical Fragments*. Reacting against Hegel's claims on Christianity, he sought to set Christianity and philosophy apart from one another. Ironically, in doing so he clarified their relationship in such a way as to finally bring them into authentic contact.
+
+[[Kierkegaard as synthesizer, ]]
 
 Does this knowledge properly qualify as Socratic? It's tempting to say no, simply because this knowledge is so often unarticulated. But that's not to say that it is truly _inarticulable_. This knowledge, indeed, accurately represents the structure of systematic racism---it _needs_ to in order for white people to be able to take advantage of their place in it so well and so frequently.
 
