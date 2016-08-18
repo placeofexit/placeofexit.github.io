@@ -68,39 +68,35 @@ Yet I am convinced that there is *some* kind of knowledge/intention involved her
 
 >I knew for instance, that she would not have pushed a black child out on my part of Flatbush, because she would be afraid there and would sense, if not know, that there would be a penalty for such an action (94).
 
-This is a very unrefined kind of knowledge we're describing here, this sensing-if-not-knowing. It would not pass muster for Socratic knowledge: it is generally unexpressed, and likely unconscious. Yet it is still there, and, as Coates notes, it influences people's action.
+This is a very unrefined kind of knowledge we're describing here, this sensing-if-not-knowing. On its own, then, this is still compatible with the Socratic framework and the popular view, outlined above. It would not pass muster for proper Socratic knowledge, the kind at stake in the claim that nobody knowingly does wrong. The Socratic term for this would be _unrecollected_ knowledge: knowledge that we have forgotten that we know. We need help remembering. And no doubt a little bit of Socratic interrogation could bring this woman to remember that "no, I would not have pushed your kid out on your part of Flatbush."
 
-On its own, the fact of this knowledge is still compatible with the Socratic framework and the popular view, outlined above. The Socratic term for this would be _unrecollected_ knowledge: knowledge that we have forgotten that we know. We need help remembering. And no doubt a little bit of Socratic interrogation could bring this woman to remember that "no, I would not have pushed your kid out on your part of Flatbush."
-
-Yet this kind of knowledge also strikes me as awfully close to the Christian model of sin. Like sin, it does not require intention, consciousness, or even any unconscious mental content. It is simply an active refusal of love.
-
-Just as our sin _is_ the fact that, were we alive in Christs time, we would eagerly nail him to the cross. 
-
-Coates could have offered that love, could have become the opportunity for this woman to acknowledge how far from love she had fallen. He didn't, knowing that she likely would have refused this love ("I'm not racist"). It really doesn't matter; the opportunity is incidental to sin. Living in the Upper West Side, a white person may commit less actual microaggressions for sheer lack of opportunity. Their sins are no less for this. We did not and will never recieve the *opportunity* to nail Christ to the cross; yet we are all implicated in it.
-
-Sin is precisely this rejection, 
-[[^Racism as a kind of *repressed memory*.]]
-
-Ignoring the role of intention in systematic racism seems just as problematic as insisting upon it; to ignore the role of intention is, in a way, to accept the account of racism as a kind of natural phenomenon, where nobody can be held any more accountable than another, where lynchings are carried out by "persons unknown"---the account that turns an _outrageous_ act into a _tragic_ one.
-
-Perhaps this is really all the knowledge that is required for sin, and we should follow Kierkegaard in decrying Christendom for preaching our innocence.
-
-The Intention
------
-
-Coates implies a kind of knowledge, even while denying the helpfulness of ‘racism’ as understood by the people that think they are white:
+Yet this kind of knowledge strikes me as closer to the Christian model of sin for a different reason. It is not *simply* forgotten, the way we have forgotten the forms through the exhaustion of eternity; this knowledge, like sin, is more akin to a *repressed memory*. Out of shame or terror or despair, we buried it in the past, in the unexamined anals of our country's history. Every now and again, given some opportunity, it threatens to arise, and rather than embrace this as a truth of the world that one is rediscovering, we stomp it back down. So with Coates's account of the politics of personal exhoneration:
 
 >The mettle that it takes to look away from the horror of our prison system, from police forces transformed into armies, from the long war against the black body, is not forged overnight. This is the practiced habit of jabbing out one’s eyes and forgetting the work of one’s hands (p.98).
 
-This is not the simple ignorance of those watching the shadows in Plato's cave. In our case, it is not an arduous climb to get to the surface. There is television in this cave, and we are neither chained to the wall nor any single channel. One needs to *will* to remain ignorant, and the act of jabbing out one's eyes betrays an awareness of what they might otherwise see.
+This is not the simple ignorance of those watching the shadows in Plato's cave. For white America, it is not an arduous climb to get to the surface. There is television in this cave, and we are neither chained to the wall nor any single channel. One needs to *will* to remain ignorant; the act of "jabbing out one's eyes" betrays an awareness of what they might otherwise see. The phrase “forgetting the work of one’s hands” is particularly interesting---nobody simply forgets the work of their hands. White Americans have *agency* in the construction and perpetuation of American racism. This agency is sufficient evidence for this repressed knowledge in the cases of supposed white ignorance; if this agency is not readily apparent, then it has been *obscured*. Is the act of obscuring similarly forgotten? Somewhere down the line, the act of repression is still unburied---still apparent---and this is precisely what the *opportunity* reveals.
 
-“forgetting the work of one’s hands,” literally obscuring one’s agency in the whole thing (Heideggerian conscience), forgetting that we killed Christ
+Given the opportunity, we cannot deny that, like sin, this kind of knowledge/agency ammounts to an active refusal of love. Coates could have offered that love to the woman in the theater; he could have become the opportunity for this woman to acknowledge how far from love she had fallen. He didn't, knowing that she likely would have refused this love ("I'm not racist"). But it ultimately doesn't matter, as the opportunity is incidental to the sin. Living in the Upper West Side, a white person may commit less actual microaggressions for sheer lack of opportunity. Their sins are no less for this. We did not and will never recieve the *opportunity* to crucify Christ; yet we are no better for that. We tend to imagine ourselves among the poor, the wretched and meek being blessed, if not among the disciples. Yet were we alive in Christ's time, we would have eagerly driven home the nails. We are guilty of this sin, but even more guilty of forgetting this sin.
 
-Real interesting part later:
+[[tonal change: turns into Anti-Climacus for a long while. That tonal shift is fine but shouldn't derail, should be shorter]]
 
->By the time I visited those battlefields, I knew that they had been retrofitted as the staging ground for a great deception, and this was my only security, because they could no longer insult me by lying to me. I knew—and the most important thing I knew was that, somewhere deep with them [sic], they knew too. I like to think that knowing might have kept me from endangering you, that hav-//ing understood and acknowledged the anger, I could control it. I like to think that it could have allowed me to speak the needed words to the woman and then walk away. I like to think this, but I can’t promise it. The struggle is really all I have for you because it is the only portion of this world under your control (106-7).
+----------------
 
-[[maaaaybe talk about the struggle]]
+Ignoring the role of intention in systematic and discrete racism seems just as problematic as insisting upon it; to ignore the role of intention is, in a way, to accept the account of racism as a kind of natural phenomenon, where nobody can be held any more accountable than another, where lynchings are carried out by "persons unknown"---the account that turns an _outrageous_ act into a _tragic_ one.
+
+Coates knows exactly how dangerous this misunderstanding is; how it *actively* manifests in failured accountability and a shrugged acceptance of racialized violence:
+
+>In this way, racism is rendered as the innocent daughter of Mother Nature, and one is left to deplore the Middle Passage or the Trail of Tears the way one deplores an earthquake, a tornado, or any other phenomenon that can be cast as beyond the handiwork of men (p.7).
+
+>...my death would not be the fault of any human but the fault of some unfortunate but immutable fact of ‘race,’ imposed upon an innocent country by the inscrutable judgment of invisible gods. The earthquake cannot be subpoenaed. The typhoon will not bend under indictment. They sent the killer of Prince Jones back to his work, because he was not a killer at all. He was a force of nature, the helpless agent of our world’s laws (p.83).
+
+[[This is the downfall of the Socratic framework, the view that no one knowingly does wrong, that racism is simply an unconscious participation in oppressive structures. Its downfall is *fatalism*. Yet we cannot forget that the Christian framework *also* has its downfall, insisting on a sense of racism that can *always* be denied. Its downfall is *essentialism*.]]
+
+When Coates slips, he seems to slip towards this fatalism, the annihilation of any concrete, graspable agencies in the vortex of white supremacy. __Yet he clearly understands the importance of holding onto these agencies, of understanding that white people *must* in some way understand why their racist beliefs are wrong---that they are not held for truth's sake but out of convenience.__ Much later, he describes visiting Gettysburg with his son, [[review context]]:
+
+>By the time I visited those battlefields, I knew that they had been retrofitted as the staging ground for a great deception, and this was my only security, because they could no longer insult me by lying to me. I knew—and the most important thing I knew was that, somewhere deep with them [sic], they knew too (106).
+
+Somewhere, *somewhere* in there, racists understand their racism. How then, do we bring this understanding out? Or is this just a fact for our own "security," that we might remain righteous, that we might not accept the myth of white supremacy as a great and faceless storm?
 
 ### Resolution
 
