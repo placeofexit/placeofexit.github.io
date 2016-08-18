@@ -102,7 +102,21 @@ Somewhere, *somewhere* in there, racists understand their racism. How then, do w
 
 I previously set up the Christian and Socratic ethical frameworks as opposite extremes. Through Coates, we can see that *both* extremes are problematic. Both vanish the concrete instances of racism, whether by chopping them off from their historical context or else by undermining the agency involved. Is there any productive alternative?
 
-[[NOTE: you're talking about two different kinds of intention involved in racism: 1) the kind involved in microaggressions, which we see in the theater woman 'pulling rank,' and 2) the kind involved in not examining one's views, not being open to reason, a kind of deliberate forgetting.]]
+------------
+
+####Comment
+
+It seems that you're talking about two different kinds of intention knowledge or intention involved in racism: 1) the kind involved in microaggressions, which we see in the theater woman 'pulling rank,' and 2) the kind involved in not examining one's views, not being open to reason, a kind of deliberate forgetting.
+
+####Response
+
+However, these two kinds of intention, though manifesting very differently, are intimately intertwined, namely that the first one (involved in discrete cases of racism) is a derivation of the second (involved in systematic racism). The knowledge with which one adopts racist beliefs---not because one regards them as *true*, but because one finds them conveniently appealing---is the one most analogous to a sin *state*: a refusal of love/reason and a turn towards untruth. It is precisely through this knowledge that one comes to endorse (again, not as true, as their truth is incidental to their appeal) racist beliefs.
+
+This leads into the prior knowledge you outlined, in that one's actions are conditioned by one's beliefs. The woman in the theater could pull rank only because she *believed* that she had a rank to pull and would be justified in doing so (in the Upper West Side; in white territory). This knowledge is most analogous to that involved in the commitment of *individual sins*---but indeed, the *content* of this knowledge is the same as the prior one: that one has turned away from love, is actively rejecting the truth. When that woman pushed Coates's son, she knew "what I'm doing is wrong" precisely because she did not care whether it was right; precisely because she had already rejected truth and love as the basis for her beliefs and (thereby) actions.
+
+It is the Socratic view that to believe something is to believe it *to be true*, but this is not endorsed by the Christian view, and indeed, does not seem to play out on the stage of American racism. To believe something is to *choose* to believe it, and nobody knows the reasons for this choice more than the believer herself.
+
+---------------
 
 For this view of these frameworks as conflicting interprative traditions, I mainly have to thank S&#248;ren Kierkegaard and his *Philosophical Fragments*. Reacting against Hegel's claims on Christianity, he sought to set Christianity and philosophy apart from one another. Ironically, in doing so he clarified their relationship in such a way as to finally bring them into authentic contact.
 
