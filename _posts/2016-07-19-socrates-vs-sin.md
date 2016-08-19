@@ -3,38 +3,45 @@ layout: post
 published: false
 title: Socrates vs Sin
 date: '2016-07-19'
-author: JG
+author: Paulus Cicero
 ---
 
-Ta-Nehisi Coates's _Between the World and Me_ takes up this dichotomy in the context of American racism 
+Of the many interesting stories in *Between the World and Me*, I keep coming back t
 
-Coates recalls leaving a movie theater in the Upper West Side, after taking his son to see *Howl's Moving Castle*.
+The story takes place in a movie theater in the Upper West Side, after taking his son to see *Howl's Moving Castle*.
 
->The theater was crowded, and when we came out...[we rode a set of escalators down to the ground floor. As we came off,]...you were moving at the dawdling speed of a small child. A white woman pushed you and said, "Come on!" (p.93-4).
+>The theater was crowded, and when we came out...you were moving at the dawdling speed of a small child. A white woman pushed you and said, "Come on!" (p.93-4).
 
-Shocked, Coates called out this woman: "my words were hot with all of the moment and all of my history" (p.94). A white man stands up for her, things escalate culminate in the man telling Coates "I could have you arrested!"
+Shocked and upset, Coates confronted her: "my words were hot with all of the moment and all of my history" (p.94). Things escelate as the crowd sides with the woman, and the story culminates in a white man telling him "I could have you arrested!"
 
-Coates spends a significant amount of time here, unpacking the dynamics at play. He sees the whole history of American racism: the contrast of his blackness in the white Upper West Side, the way a threat of arrest translates into a threat on his life, the power to steal his body. But most interesting is when Coates begins to wonder how he could communicate this to the white woman that pushed his son; could he bring her to see her microaggression as such---to see her own actions in the way he did, with all their historical coloring.
-
-How do we reform people? How do we make them better, more virtuous? How do we address racism in all its particularity---in the specific actions performed by specific people? American racism (and other forms of structural oppression) seem especially hard to know how to handle: its roots are systemic---they are bigger than us and sometimes beyond our reckoning---but it makes contact on people only in discrete instances.
+Coates lingers on this story longer than usual, taking time to unpack the dynamics at play. There's the contrast of his blackness in the mostly-white Upper West Side. There's the way that history transforms a threat of arrest into a threat on his life. But then Coates begins to wonder how he might have communicated this to the woman that pushed his son; could he have brought her to see her own actions as he did, with all their historical coloring?
 
 ### Background
 
-There two ethical frameworks here that are particularly relevant to the question at hand:
+The questions raised here touch on an ancient and deep-seated ethical dilemma, the result of two competing but intractable ethical frameworks:
+
+------------
 
 #### Socrates
 No person *knowingly* does wrong. What appears to be malice is in fact ignorance, and this ignorance is primarily an ignorance of the nature of one's soul.
 
 This framework encourages **reasoning with the wrongdoer** as the means of moral reform; calling on the wrongdoer to **examine** their error.
 
+--------------
+
 #### Christianity
-We are all in sin, and sin is a state of *knowingly* rejecting truth and  the good. Individual sins are acts in which one knowingly does wrong, or else fails to do what one is called to.
+We are all in sin, and sin is a state of *knowingly* rejecting truth and the good. Individual sins are acts in which one *knowingly does wrong*, or else fails to do what one knows to be right.
 
 This framework encourages **holding the wrongdoer accountable** as the means of moral reform; calling on the wrongdoer to **repent**.
 
+--------------
+
 This is, of course, a simplification of two very rich (and long and convoluted) traditions. More can be (and has been) said on either side, but for the sake of expediency, I invite you to consider them as laid out.
 
-In their barest form, these ethical frameworks are *incompatible* with one another. One cannot endorse them both at once. and---going by the principle of non-contradiction---neither can one employ their dictates simultaneously. One might use each of them in a single situation, but at some point one must make the transition from education to accountability or vice versa. The dynamic of these two competing, incompatible interpretive frameworks underlies all of our normative talk and our attempts to actually address injustice.
+In their barest form, these ethical frameworks are *incompatible* with one another. One cannot endorse them both at once. and---going by the principle of non-contradiction---neither can one employ their dictates simultaneously. One might use each of them to illuminate a single situation, but at some point one must make the transition, from education to accountability or vice versa.
+
+This dynamic of two competing, incompatible interpretive frameworks underlies all of our normative talk and our attempts to actually address injustice. I do not wish to get caught up in the metaphysical and epistemological nuances that support each position: I only want to consider, in light of Ta-Nehisi Coates and the pressing context of American racism, which bears a closer *likeness to the truth*.
+
 
 [[I raise this distinction [and forgive me for setting it out in such diametrical opposition, but it serves my purposes] because I believe this core disagreement over how we explain (and thereafter address) wrong action is especially relevant to the ethics of oppression. How should we understand oppressive action? Who can be held accountable for systemic injustices? What approach is best for creating a more-equal society? These questions are relevant to the framework we use…[like those above.]]]
 
@@ -106,7 +113,7 @@ I previously set up the Christian and Socratic ethical frameworks as opposite ex
 
 ####Comment
 
-It seems that you're talking about two different kinds of intention knowledge or intention involved in racism: 1) the kind involved in microaggressions, which we see in the theater woman 'pulling rank,' and 2) the kind involved in not examining one's views, not being open to reason, a kind of deliberate forgetting.
+It seems that you're talking about two different kinds of knowledge or intention involved in racism: 1) the kind involved in microaggressions, which we see in the theater woman 'pulling rank,' and 2) the kind involved in not examining one's views, not being open to reason, a kind of deliberate forgetting.
 
 ####Response
 
@@ -182,6 +189,8 @@ Police officers cannot be held accountable until they understand that they are i
 We need not be worried that this will be an exact mirror image of the BLM movement and the way each tradgedy reinforces it. The police cannot organize in the same way; their situation is not the same; their history is not the same. And their inability to organize betrays that---in some remote way---they understand this difference. This is where true knowledge can arise.
 
 Police departments cannot be held accountable until they are brought to an understanding of their role in systematic racism. America cannot be held accountable until it understands its history. Demands for accountability might be good teaching tools, but until the understanding is there, that is all they are.
+
+[[most relevant to Kierkegaard: we need to hold specific people accountable for their specific actions, to call judgement down on all these individual heads. But unless we have first provided a *context*---tied these particular actions into the web of history that is American racism---then we cannot call judgement on America: we cannot implicate and hold systemic racism accountable *through* these particular accountabilities.]]
 
 ------------
 
