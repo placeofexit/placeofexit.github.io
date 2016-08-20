@@ -102,24 +102,6 @@ I previously set up the Christian and Socratic ethical frameworks as opposite ex
 
 [[comment]]
 
-------------
-
-####Comment
-
-It seems that you're talking about two different kinds of knowledge or intention involved in racism: 1) the kind involved in microaggressions, which we see in the theater woman 'pulling rank,' and 2) the kind involved in not examining one's views, not being open to reason, a kind of deliberate forgetting.
-
-####Response
-
-However, these two kinds of intention, though manifesting very differently, are intimately intertwined, namely that the first one (involved in discrete cases of racism) is a derivation of the second (involved in systematic racism). The knowledge with which one adopts racist beliefs---not because one regards them as *true*, but because one finds them conveniently appealing---is the one most analogous to a sin *state*: a refusal of love/reason and a turn towards untruth. It is precisely through this knowledge that one comes to endorse (again, not as true, as their truth is incidental to their appeal) racist beliefs.
-
-This leads into the prior knowledge you outlined, in that one's actions are conditioned by one's beliefs. The woman in the theater could pull rank only because she *believed* that she had a rank to pull and would be justified in doing so (in the Upper West Side; in white territory). This knowledge is most analogous to that involved in the commitment of *individual sins*---but indeed, the *content* of this knowledge is the same as the prior one: that one has turned away from love, is actively rejecting the truth. When that woman pushed Coates's son, she knew "what I'm doing is wrong" precisely because she did not care whether it was right; precisely because she had already rejected truth and love as the basis for her beliefs and (thereby) actions.
-
-It is the Socratic view that to believe something is to believe it *to be true*, but this is not endorsed by the Christian view, and indeed, does not seem to play out on the stage of American racism. To believe something is to *choose* to believe it, and nobody knows the reasons for this choice more than the believer herself.
-
----------------
-
-
-
 This knowledge, indeed, accurately represents the structure of systematic racism---it _needs_ to in order for white people to be able to take advantage of their place in it so well and so frequently.
 
 All of this seems to be known, by Socratic lights. The only thing that seems to be _not_ known Socratically is that this whole structure of white supremacy is bad _for whites_; i.e. for those ... It seems apparent enough that---if this were understood---white people would *not* take advantage of their priviledge, because doing so actually puts them at a disadvantage... This depends upon a theoretical argument that would crib the form of Plato's argument in the *Republic* that it is better to suffer under tyranny than to be a tyrant; that it is better to be oppressed than to be an oppressor. Coates, interestingly enough, expresses this sentiment to his son....
