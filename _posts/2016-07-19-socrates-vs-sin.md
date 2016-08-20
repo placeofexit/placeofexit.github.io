@@ -6,9 +6,7 @@ date: '2016-07-19'
 author: Paulus Cicero
 ---
 
-Of the many interesting stories in *Between the World and Me*, I keep coming back t
-
-The story takes place in a movie theater in the Upper West Side, after taking his son to see *Howl's Moving Castle*.
+Of the many interesting stories in *Between the World and Me*, I keep coming back to one in particular. The story takes place in a movie theater in the Upper West Side, after Ta-Nehisi Coates takes his son to see *Howl's Moving Castle*.
 
 >The theater was crowded, and when we came out...you were moving at the dawdling speed of a small child. A white woman pushed you and said, "Come on!" (p.93-4).
 
@@ -18,34 +16,29 @@ Coates lingers on this story longer than usual, taking time to unpack the dynami
 
 ### Background
 
-The questions raised here touch on an ancient and deep-seated ethical dilemma, the result of two competing but intractable ethical frameworks:
+The questions raised here touch on an ancient dilemma in ethics, the result of two competing and deeply-ingrained ethical frameworks:
 
 ------------
 
 #### Socrates
 No person *knowingly* does wrong. What appears to be malice is in fact ignorance, and this ignorance is primarily an ignorance of the nature of one's soul.
 
-This framework encourages **reasoning with the wrongdoer** as the means of moral reform; calling on the wrongdoer to **examine** their error.
+This framework emphasizes **reasoning** as the means of moral reform; calling on the wrongdoer to **examine** their error.
 
 --------------
 
 #### Christianity
 We are all in sin, and sin is a state of *knowingly* rejecting truth and the good. Individual sins are acts in which one *knowingly does wrong*, or else fails to do what one knows to be right.
 
-This framework encourages **holding the wrongdoer accountable** as the means of moral reform; calling on the wrongdoer to **repent**.
+This framework emphasizes **accountability** as the means of moral reform; calling on the wrongdoer to **repent**.
 
 --------------
 
 This is, of course, a simplification of two very rich (and long and convoluted) traditions. More can be (and has been) said on either side, but for the sake of expediency, I invite you to consider them as laid out.
 
-In their barest form, these ethical frameworks are *incompatible* with one another. One cannot endorse them both at once. and---going by the principle of non-contradiction---neither can one employ their dictates simultaneously. One might use each of them to illuminate a single situation, but at some point one must make the transition, from education to accountability or vice versa.
+In their barest form, these ethical frameworks are *incompatible* with one another. One cannot endorse them both at once. and---going by the principle of non-contradiction---neither can one employ their dictates simultaneously. One might use each of them to illuminate a single situation, but at some point one must make the transition, from education to accountability or vice versa. Politically, whichever framework one chooses may not effect the policies or points made so much as the reasons used in articulating and championing them.
 
-This dynamic of two competing, incompatible interpretive frameworks underlies all of our normative talk and our attempts to actually address injustice. I do not wish to get caught up in the metaphysical and epistemological nuances that support each position: I only want to consider, in light of Ta-Nehisi Coates and the pressing context of American racism, which bears a closer *likeness to the truth*.
-
-
-[[I raise this distinction [and forgive me for setting it out in such diametrical opposition, but it serves my purposes] because I believe this core disagreement over how we explain (and thereafter address) wrong action is especially relevant to the ethics of oppression. How should we understand oppressive action? Who can be held accountable for systemic injustices? What approach is best for creating a more-equal society? These questions are relevant to the framework we use…[like those above.]]]
-
-[[it's not about the policies or points made, it's about the reasons used and the ways they are articulated and championed.]]
+This dynamic of two competing, incompatible interpretive frameworks underlies all of our normative talk and our attempts to actually address injustice. As such, it's no coincidence to find it at the heart of the story of the woman at the theater, and as a general concern in *Between the World and Me*. I do not wish to get caught up in the metaphysical and epistemological nuances that underlie each position: I only want to consider, in light of Ta-Nehisi Coates and the pressing context of American racism, which position bears a closer *likeness to the truth*---which is more helpful for resolving the problem presented by the woman at the theater?
 
 ### The Problem
 
@@ -53,37 +46,35 @@ Coates considers the Socratic approach to the woman at the theater accordingly:
 
 >Had I informed this woman that when she pushed my son, she was acting according to a tradition that held black bodies as lesser, her response would likely have been, "I am not racist." Or maybe not. But my experience in this world has been that the people who believe themselves to be white are obsessed with the politics of personal exoneration. And the word racist, to them, conjures, if not a tobacco-spitting oaf, then something just as fantastic---an orc, troll, or gorgon (97).
 
-The problem here is that we want to explain the situation, to reason with the wrong-doer, but---at least in such *discrete* and racially-charged encounters---what the wrong-doer *hears* is an accusation. We open with the Socratic, but the wrong-doer recieves the Christian---an accusation that they deliberately harbor contempt. I believe Coates is right in suspecting this kind of discourse to be unproductive.
+Coates wants to explain the situation, to reason with the woman, but he anticipates that this would only come across as an accusation. We see here a way in which, one could say, the Christian framework turns to thwart the propper functioning of the Socratic: we open with the Socratic, but the wrong-doer recieves the Christian---an accusation that they deliberately harbor contempt---and responds *within* the Christian framework. I believe Coates is right in suspecting this kind of discourse to be unproductive.
 
-Coates goes on to situate these "politics of personal exoneration" historically. His examples span the entire twentieth century, from Michael Richards to Strom Thurmond to the segregationist residents of Levittown, PA. Each of them deny their racism, no matter how clearly their actions fit the structure and function of white supremacy.
+This pattern is a general one, though it seems especially common in racially-charged encounters, precisely because of the history of these "politics of personal exhoneration." Coates lists examples that span the entire twentieth century, from Michael Richards to Strom Thurmond to the segregationist residents of Levittown, PA. Each of them deny their racism, no matter how clearly their actions fit the structure and function of white supremacy.
 
-His lesson to his son: "there was no golden era when evildoers did their business and loudly proclaimed it as such" (p.98).
+### In Favor of the Socratic
 
-One possible conclusion we could draw from this is roughly in line with the Socratic framework---and I would say is the more prominent view among politically-conscious young people today. This holds that the Christian framework---the idea that wrong acts are inherently bound up in intention---is precisely the problem. Proponents of this view might hold that, actually, *all* white people are racist, while ammending racism to mean "unconsciously participating in structures that endanger and disenfranchise people of color." This is an attempt to remedy the way in which emphasizing _intention_ as a defining element of racism turns it into an impossible ideal.
+One possible conclusion we could draw from this is in favor of the Socratic framework---and I would say is the more prominent view among politically-conscious young people today. This holds that the Christian framework---the idea that wrong acts are inherently bound up in intention---is precisely the problem. It is unrealistic and misses the force of history, the fact that, as Coates councils his son, "there was no golden era when evildoers did their business and loudly proclaimed it as such" (p.98). Proponents of this view might hold that, actually, *all* white people are racist, while ammending racism to mean "unconsciously participating in structures that endanger and disenfranchise people of color." This is an attempt to remedy the way in which emphasizing _intention_ as a defining element of racism turns it into an impossible ideal, and allows the Christian framework to undermine the Socratic.
 
-Coates's point here does seem to fit this framework: the impossible ideal of intentional racism tends to obscure the operations of systematic racism, by making individual injustices suspect to an extraordinary and *un*reasonable doubt. As long as [[find a snippet]] "no racial epithets were uttered"---as long as the white woman didn't proclaim her racism loudly to the world, then we are forced into race-blindness. Even *raising* the racial dimension of a situation like that becomes insulting, an insinuation of a deliberate dimension that was not there.
+Coates's point here does seem to fit this interpretation: the impossible ideal of intentional racism tends to obscure the operations of systematic racism, by making individual injustices suspect to an extraordinary and *un*reasonable doubt, establishing plausible deniability for  As long as [[find a snippet]] "no racial epithets were uttered"---as long as the white woman didn't proclaim her racism loudly to the world, then we are forced into race-blindness. Even *raising* the racial context of a situation like that becomes insulting, an insinuation of a deliberate dimension that was not there.
 
-The "tobacco-spitting oaf" becomes the sinner, and sin becomes something we cannot see or acknowledge in ourselves because it is so foreign and extreme. The very defining feature of sin---its deliberate, intentional nature---is what makes sin so unbelievable...and thereby makes repenting impossible.
+### In Favor of the Christian
 
-[At it's worst...] The key conceptual misunderstanding here is in confusing the act with the actor---a racist act becomes a racist *character*; the sin indicates a sinner.
-
-[[this goes on too long]]
-
----------------
-
-Yet I am convinced that there is *some* kind of knowledge/intention involved here, and in the same story of the woman at the theater, Coates suggests as much. He writes:
+Yet I am convinced that there *is* some sort of knowledge/intention involved here, and in the same story of the woman at the theater, Coates suggests as much. He writes:
 
 >I knew for instance, that she would not have pushed a black child out on my part of Flatbush, because she would be afraid there and would sense, if not know, that there would be a penalty for such an action (94).
 
-This is a very unrefined kind of knowledge we're describing here, this sensing-if-not-knowing. On its own, then, this is still compatible with the Socratic framework and the popular view, outlined above. It would not pass muster for proper Socratic knowledge, the kind at stake in the claim that nobody knowingly does wrong. The Socratic term for this would be _unrecollected_ knowledge: knowledge that we have forgotten that we know. We need help remembering. And no doubt a little bit of Socratic interrogation could bring this woman to remember that "no, I would not have pushed your kid out on your part of Flatbush."
+This is a very unrefined kind of knowledge, this sensing-if-not-knowing. The Socratic framework can still admit of it, as it would not pass muster for proper Socratic knowledge, the kind at stake in the claim that nobody knowingly does wrong. The Socratic term for it would instead be _unrecollected_ knowledge: knowledge that we have forgotten that we know. We need help remembering. And no doubt a little bit of Socratic interrogation could bring this woman to remember that "no, I would not have pushed your kid out on your part of Flatbush."
 
-Yet this kind of knowledge strikes me as closer to the Christian model of sin for a different reason. It is not *simply* forgotten, the way we have forgotten the forms through the exhaustion of eternity; this knowledge, like sin, is more akin to a *repressed memory*. Out of shame or terror or despair, we buried it in the past, in the unexamined anals of our country's history. Every now and again, given some opportunity, it threatens to arise, and rather than embrace this as a truth of the world that one is rediscovering, we stomp it back down. So with Coates's account of the politics of personal exhoneration:
+Yet this kind of knowledge is not *simply* forgotten, the way we have forgotten the forms through the exhaustion of eternity; this knowledge, like sin, is more akin to a *repressed memory*. Out of shame or terror or despair, we buried it in the past, in the unexamined anals of our country's history. Every now and again, given some opportunity, it threatens to arise, and rather than embrace this as a truth of the world that one is rediscovering, we stomp it back down. So with Coates's account of the politics of personal exhoneration:
 
 >The mettle that it takes to look away from the horror of our prison system, from police forces transformed into armies, from the long war against the black body, is not forged overnight. This is the practiced habit of jabbing out one’s eyes and forgetting the work of one’s hands (p.98).
 
-This is not the simple ignorance of those watching the shadows in Plato's cave. For white America, it is not an arduous climb to get to the surface. There is television in this cave, and we are neither chained to the wall nor any single channel. One needs to *will* to remain ignorant; the act of "jabbing out one's eyes" betrays an awareness of what they might otherwise see. The phrase “forgetting the work of one’s hands” is particularly interesting---nobody simply forgets the work of their hands. White Americans have *agency* in the construction and perpetuation of American racism. This agency is sufficient evidence for this repressed knowledge in the cases of supposed white ignorance; if this agency is not readily apparent, then it has been *obscured*. Is the act of obscuring similarly forgotten? Somewhere down the line, the act of repression is still unburied---still apparent---and this is precisely what the *opportunity* reveals.
+This is not the simple ignorance of those watching the shadows in Plato's cave. For white America, it is not an arduous climb to get to the surface. There is television in this cave, and we are neither chained to the wall nor any single channel. One needs to *will* to remain ignorant, and the willful act of "jabbing out one's eyes" betrays an awareness of what they might otherwise see. The phrase “forgetting the work of one’s hands” is particularly interesting---nobody *simply* forgets the work of their hands. White Americans have *agency* in the construction and perpetuation of American racism. This agency is sufficient evidence for this repressed knowledge in the cases of supposed white ignorance; if this agency is not readily apparent, then it has been *obscured*. Is the act of obscuring similarly forgotten? There is an infinite regress here: somewhere down the line, the act of repression is still apparent, and this is precisely what the *opportunity* triggers; this last unburried action theatens to bring the whole thing surging back into awareness.
 
-Given the opportunity, we cannot deny that, like sin, this kind of knowledge/agency ammounts to an active refusal of love. Coates could have offered that love to the woman in the theater; he could have become the opportunity for this woman to acknowledge how far from love she had fallen. He didn't, knowing that she likely would have refused this love ("I'm not racist"). But it ultimately doesn't matter, as the opportunity is incidental to the sin. Living in the Upper West Side, a white person may commit less actual microaggressions for sheer lack of opportunity. Their sins are no less for this. We did not and will never recieve the *opportunity* to crucify Christ; yet we are no better for that. We tend to imagine ourselves among the poor, the wretched and meek being blessed, if not among the disciples. Yet were we alive in Christ's time, we would have eagerly driven home the nails. We are guilty of this sin, but even more guilty of forgetting this sin.
+[[It is by no sheer coincidence that white America tends to entertain an ideology of their supremacy; they maintain it primarily *because* it benefits them.]]
+
+What this ammounts to is that one does not generally endorse and participate in white supremacy out of a commitment to the truth (innocently enough led astray by false beliefs), but out of convenience---that is, a negative commitment, a total lack of commitment. *This* is why the woman at the theater is closed off to honest dialogue; not because she *confuses* (innocently enough) an explanation with an accusation, but because the knowledge involved in the act of pulling rank, like sin, ammounts to an *active refusal of love*---a refusal to accept the loving embrace of an honest upturning.
+
+Coates could have offered that love to the woman in the theater; he could have become the opportunity for this woman to acknowledge how far from love she had fallen. He didn't, knowing that she likely would have refused it ("I'm not racist"). But it ultimately doesn't matter, as the opportunity is incidental to the sin. Living in the Upper West Side, a white person may commit less actual microaggressions for sheer lack of opportunity. Their sins are no less for this. We did not and will never recieve the *opportunity* to crucify Christ; yet we are no better for that. We tend to imagine ourselves among the poor, the wretched and meek being blessed, if not among the disciples. Yet were we alive in Christ's time, we would have eagerly driven home the nails. We are guilty of this sin, but even more guilty of forgetting this sin.
 
 [[tonal change: turns into Anti-Climacus for a long while. That tonal shift is fine but shouldn't derail, should be shorter]]
 
@@ -91,13 +82,13 @@ Given the opportunity, we cannot deny that, like sin, this kind of knowledge/age
 
 Ignoring the role of intention in systematic and discrete racism seems just as problematic as insisting upon it; to ignore the role of intention is, in a way, to accept the account of racism as a kind of natural phenomenon, where nobody can be held any more accountable than another, where lynchings are carried out by "persons unknown"---the account that turns an _outrageous_ act into a _tragic_ one.
 
-Coates knows exactly how dangerous this misunderstanding is; how it *actively* manifests in failured accountability and a shrugged acceptance of racialized violence:
+Coates knows exactly how dangerous this misunderstanding is; how it *actively* manifests in failed accountability and a shrugged acceptance of racialized violence:
 
 >In this way, racism is rendered as the innocent daughter of Mother Nature, and one is left to deplore the Middle Passage or the Trail of Tears the way one deplores an earthquake, a tornado, or any other phenomenon that can be cast as beyond the handiwork of men (p.7).
 
 >...my death would not be the fault of any human but the fault of some unfortunate but immutable fact of ‘race,’ imposed upon an innocent country by the inscrutable judgment of invisible gods. The earthquake cannot be subpoenaed. The typhoon will not bend under indictment. They sent the killer of Prince Jones back to his work, because he was not a killer at all. He was a force of nature, the helpless agent of our world’s laws (p.83).
 
-[[This is the downfall of the Socratic framework, the view that no one knowingly does wrong, that racism is simply an unconscious participation in oppressive structures. Its downfall is *fatalism*. Yet we cannot forget that the Christian framework *also* has its downfall, insisting on a sense of racism that can *always* be denied. Its downfall is *essentialism*.]]
+[[This is the downfall of the Socratic framework, the view that no one knowingly does wrong, that racism is simply an unconscious participation in oppressive structures. Its downfall is *fatalism*. Yet we cannot forget that the Christian framework *also* has its downfall, insisting on a sense of racism that establishes plausible deniability. Its downfall is *essentialism*.]]
 
 When Coates slips, he seems to slip towards this fatalism, the annihilation of any concrete, graspable agencies in the vortex of white supremacy. __Yet he clearly understands the importance of holding onto these agencies, of understanding that white people *must* in some way understand why their racist beliefs are wrong---that they are not held for truth's sake but out of convenience.__ Much later, he describes visiting Gettysburg with his son, [[review context]]:
 
