@@ -92,50 +92,9 @@ I previously set up the Christian and Socratic ethical frameworks as opposite ex
 
 [[This knowledge, indeed, accurately represents the structure of systematic racism---it _needs_ to in order for white people to take advantage of their place in it so well and so frequently.]]
 
-------------
-
-### Comment
-
-I'd like to field a rebuttal from the Socratic position:
-
-All of this seems to be known, by Socratic lights. However, there is one crucial point that white Americans do _not_ know Socratically: that this whole structure of white supremacy is bad _for whites_. It seems apparent enough that---if this were understood---white people would *not* take advantage of their priviledge, because doing so actually harms them overall...
-
-This point depends upon a theoretical argument that cribs the form of Plato's argument in the *Republic* that it is better to suffer under tyranny than to be a tyrant; that it is better to be oppressed than to be an oppressor. Coates, interestingly enough, expresses this sentiment to his son....
-
-The Socratic line of thinking, then, would offer this solution to the problem: to teach white America that white supremacy is *not* in their own self interest---that it benefits nobody more than a system of egalitarianism, that it functions as an elitist tool to divide the lower class against itself. The primary remedies in this framework are education and economic equality--systematic reforms.
-
-Socrates' argument that to be oppressed is better than to oppress runs like this:
-
- - To oppress is more shameful
-	 - what is more shameful must be so either by virtue of being more painful or harmful [*kakon*]
-	 - oppressing is less painful than being oppressed
-	 - therefore, oppressing is more harmful (less beneficial) than to be oppressed
- - We prefer a lesser harm to a greater harm
-	 - *regardless of pain*: the association of preference with benefit is almost tautological
-	 - ex: pre-anesthetic cultures practiced amputation, which despite excruciating pain does benefit a person's body
- - So we will prefer to be oppressed than to oppress
-
---------
-
-###Response
-
-This seems to hold up *only* if society at large has a reasonable sense of shame---that is, only if they feel shame for doing what is unjust.
-
-My worry with this is that, in the case of a systematic injustice like that presented by American racism, shame doesn't get traction. It is *not* clearly shameful in American now for one to expound white supremacy (although it should be). People who do this are hailed as speaking truth to power, "telling it like it is," and then get nominated for president.
-
-Socrates did not face a situation like this, where *even though* racism harms whites *qua* Americans as a whole, it does not harm whites *qua* whites: it benefits them, offers them positions of prestige and power within their own circles, within many of the most normative institutions.
-
-Pain and harm (the Socratic roots of shame) are agent-relative, and here question of whether oppressing is more harmful than being oppressed is not clear: it is more harmful from the standpoint of a broader society. And it is supremey beneficial from the standpoint of the oppressor. For the individual, it simply depends which of these she identifies with: if she identifies as white before she identifies as American (and, intrinsic to this, is well embedded with others who identify the same way, who support this identity) then she will likely benefit greatly from endorcing white supremacy; she will be elevated politically, financially, and socially, securing her priviledge and those of her children.
-
--------------
 
 Plato openly worried that the absense of a proper sense of shame made not just moral conduct [[accountability to actions]], but *rational discourse* [[accountability for speech]] impossible. Two of his most infamous characters---Callicles of the *Gorgias* and Thrasymachus [[sp?]] of the *Republic*---lack exactly this basic sense of shame. When Socrates points out contradictions in their views, they embrace them, taking the opportunity to deride his method as childish and unrealistic. In both cases, Socrates and his interlocutors leave without resolving anything; they don't even arrive at *aporia*, just frustration and confusion. Even Socrates cannot correct their false beliefs, and when wrong action ammounts to false beliefs, this lack of shame seems to be a prerequisit for moral reform; without it, we cannot get better.
 
--------------
-
-If my assessment is accurate that white supremacy is quickly becoming less shameful among white Americans (although it has never been truly shameful), then how is anti-racist progress possible? (I am committed, along with Coates, that we need to *believe* it is possible; we need to take up the struggle for its own sake [[is that the same thing?]].) But where do we start; where can white America find a toehold to pull itself up and out of its own filth? [[eh, maybe cut whole pp]]
-
------------
 
 For this view of these frameworks as conflicting interprative traditions, I mainly have to thank S&#248;ren Kierkegaard and his *Philosophical Fragments*. Reacting against Hegel's claims on Christianity, he sought to set Christianity and philosophy apart from one another. Ironically, in doing so he clarified their relationship in such a way as to finally bring them into authentic contact.
 
