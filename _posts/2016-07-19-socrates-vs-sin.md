@@ -62,55 +62,47 @@ Yet I am convinced that there *is* some sort of knowledge/intention involved her
 
 >I knew for instance, that she would not have pushed a black child out on my part of Flatbush, because she would be afraid there and would sense, if not know, that there would be a penalty for such an action (94).
 
-This is a very unrefined kind of knowledge, this sensing-if-not-knowing. The Socratic framework can still admit of it, as it would not pass muster for proper Socratic knowledge, the kind at stake in the claim that nobody knowingly does wrong. The Socratic term for it would instead be _unrecollected_ knowledge: knowledge that we have forgotten that we know. We need help remembering. And no doubt a little bit of Socratic interrogation could bring this woman to remember that "no, I would not have pushed your kid out on your part of Flatbush."
+This is a very unrefined kind of knowledge, this sensing-if-not-knowing. The Socratic framework can still admit of it, as it would not pass muster for proper Socratic knowledge, the kind at stake in the claim that nobody knowingly does wrong. Socrates calls this _unrecollected_ knowledge: knowledge that we have forgotten that we know. We need help remembering. And no doubt a little bit of Socratic interrogation could bring this woman to remember that "no, I would not have pushed your kid out on your part of Flatbush."
 
-Yet this kind of knowledge is not *simply* forgotten, the way we have forgotten the forms through the exhaustion of eternity; this knowledge, like sin, is more akin to a *repressed memory*. Out of shame or terror or despair, we buried it in the past, in the unexamined anals of our country's history. Every now and again, given some opportunity, it threatens to arise, and rather than embrace this as a truth of the world that one is rediscovering, we stomp it back down. So with Coates's account of the politics of personal exhoneration:
+Yet this kind of knowledge is not *simply* forgotten, the way we have forgotten the forms through the exhaustion of eternity; this knowledge, like sin, is more akin to a *repressed memory*. Out of shame or terror or despair, we buried it in the past, in the unexamined anals of our country's history. Every now and again, given some opportunity, it threatens to arise, and rather than embrace this as a truth of the world that one is rediscovering, we stomp it back down. Coates calls the participants in this strange ritual **the Dreamers**---yet they dream lucidly, as he points out:
 
 >The mettle that it takes to look away from the horror of our prison system, from police forces transformed into armies, from the long war against the black body, is not forged overnight. This is the practiced habit of jabbing out one’s eyes and forgetting the work of one’s hands (p.98).
 
-This is not the simple ignorance of those watching the shadows in Plato's cave. For white America, it is not an arduous climb to get to the surface. There is television in this cave, and we are neither chained to the wall nor any single channel. One needs to *will* to remain ignorant, and the willful act of "jabbing out one's eyes" betrays an awareness of what they might otherwise see. The phrase “forgetting the work of one’s hands” is particularly interesting---nobody *simply* forgets the work of their hands. White Americans have *agency* in the construction and perpetuation of American racism. This agency is sufficient evidence for this repressed knowledge in the cases of supposed white ignorance; if this agency is not readily apparent, then it has been *obscured*. Is the act of obscuring similarly forgotten? There is an infinite regress here: somewhere down the line, the act of repression is still apparent, and this is precisely what the *opportunity* triggers; this last unburried action theatens to bring the whole choice surging back into awareness.
+This is not the simple ignorance of those watching the shadows in Plato's cave. For the Dreamers, it is not an arduous climb to get to the surface. There is television in this cave, and they are neither chained to the wall nor any single channel. One must *will* to remain ignorant, and the act of "jabbing out one's eyes" betrays an awareness of what one might otherwise see. No one *simply* forgets the work of their hands; if the act of jabbing out one's eyes is not readily apparent, then it has been deliberately *obscured*. Is this next act of obscuring similarly forgotten? There is an infinite regress here: somewhere down the line, the Dreamers' dreaming must still be apparent to them, and this last unburried action is precisely what the *opportunity* triggers, what theatens to bring the truth of the whole endeavor surging back into awareness.
 
-[[It is by no sheer coincidence that white America tends to entertain an ideology of their supremacy; they maintain it primarily *because* it benefits them.]]
+And what *is* the truth of the whole endeavor? It is an accusation: that the Dreamers have turned away from truth and towards a mockery of it---their dream, an **untruth**---that they deliberately avoid the uncomfortable introspection that might come from an honest encounter. Like sin, their knowledge is an *active refusal of love*. White Americans do not participate in white supremacy out of a commitment to the truth (innocently enough led astray by false beliefs), but out of convenience---that is, a negative commitment, a total lack of commitment. *This* is why the woman at the theater is closed off to Coates's imagined dialogue; not because she *confuses* (innocently enough) an explanation with an accusation, but because she *chooses* to take it this way. This confusion is more convenient than recollecting that hidden knowledge involved in her "pulling rank"---even though earnest discourse demands exactly that. This is characteristic of white America's use of dialogue: that it is *not* earnest, not a dialogue of love (which would proceed from a desire to understand and refine one's beliefs) but a dialogue of self-exhoneration. This distinction has everything to do with the intention.
 
-What this ammounts to is that one does not generally endorse and participate in white supremacy out of a commitment to the truth (innocently enough led astray by false beliefs), but out of convenience---that is, a negative commitment, a total lack of commitment. *This* is why the woman at the theater is closed off to honest dialogue; not because she *confuses* (innocently enough) an explanation with an accusation, but because the knowledge involved in the act of pulling rank, like sin, ammounts to an *active refusal of love*---a refusal to accept the loving embrace of an honest upturning.
-
-Coates could have offered that love to the woman in the theater; he could have become the opportunity for this woman to acknowledge how far from love she had fallen. He didn't, knowing that she likely would have refused it ("I'm not racist"). But it ultimately doesn't matter, as the opportunity is incidental to the sin. Living in the Upper West Side, a white person may commit less actual microaggressions for sheer lack of opportunity. Their sins are no less for this. We did not and will never recieve the *opportunity* to crucify Christ; yet we are no better for that. We tend to imagine ourselves among the poor, the wretched and meek being blessed, if not among the disciples. Yet were we alive in Christ's time, we would have eagerly driven home the nails. We are guilty of this sin, but even more guilty of forgetting this sin.
-
-[[tonal change: turns into Anti-Climacus for a long while. That tonal shift is fine but shouldn't derail, should be shorter]]
-
-----------------
-
-Ignoring the role of intention in systematic and discrete racism seems just as problematic as insisting upon it; to ignore the role of intention is, in a way, to accept the account of racism as a kind of natural phenomenon, where nobody can be held any more accountable than another, where lynchings are carried out by "persons unknown"---the account that turns an _outrageous_ act into a _tragic_ one.
+As such, ignoring the role of intention in systematic and discrete racism seems just as problematic as insisting upon it; to ignore the role of intention is, in a way, to accept the account of white supremacy as a faceless force of nature, where nobody can be held any more accountable than another, where lynchings are carried out by "persons unknown"---the account that turns an _outrageous_ act into a _tragic_ one.
 
 Coates knows exactly how dangerous this misunderstanding is; how it *actively* manifests in failed accountability and a shrugged acceptance of racialized violence:
 
->In this way, racism is rendered as the innocent daughter of Mother Nature, and one is left to deplore the Middle Passage or the Trail of Tears the way one deplores an earthquake, a tornado, or any other phenomenon that can be cast as beyond the handiwork of men (p.7).
+>The earthquake cannot be subpoenaed. The typhoon will not bend under indictment. They sent the killer of Prince Jones back to his work, because he was not a killer at all. He was a force of nature, the helpless agent of our world’s laws (p.83).
 
->...my death would not be the fault of any human but the fault of some unfortunate but immutable fact of ‘race,’ imposed upon an innocent country by the inscrutable judgment of invisible gods. The earthquake cannot be subpoenaed. The typhoon will not bend under indictment. They sent the killer of Prince Jones back to his work, because he was not a killer at all. He was a force of nature, the helpless agent of our world’s laws (p.83).
-
-[[This is the downfall of the Socratic framework, the view that no one knowingly does wrong, that racism is simply an unconscious participation in oppressive structures. Its downfall is *fatalism*. Yet we cannot forget that the Christian framework *also* has its downfall, insisting on a sense of racism that establishes plausible deniability. Its downfall is *essentialism*.]]
-
-When Coates slips, he seems to slip towards this fatalism, the annihilation of any concrete, graspable agencies in the vortex of white supremacy. __Yet he clearly understands the importance of holding onto these agencies, of understanding that white people *must* in some way understand why their racist beliefs are wrong---that they are not held for truth's sake but out of convenience.__ Much later, he describes visiting Gettysburg with his son, [[review context]]:
+When Coates slips towards either framework, he seems to slip towards this fatalism, the annihilation of any concrete, graspable agencies in the vortex of white supremacy. __Yet he clearly understands the importance of holding onto these agencies, of understanding that white people *must* in some way understand why their racist beliefs are wrong---that they are not held for truth's sake but out of convenience.__ Much later, he describes visiting Gettysburg with his son, [[review context]]:
 
 >By the time I visited those battlefields, I knew that they had been retrofitted as the staging ground for a great deception, and this was my only security, because they could no longer insult me by lying to me. I knew—and the most important thing I knew was that, somewhere deep with them [sic], they knew too (106).
 
-Somewhere, *somewhere* in there, racists understand their racism. How then, do we bring this understanding out? Or is this just a fact for our own "security," that we might remain righteous, that we might not accept the myth of white supremacy as a great and faceless storm?
+Somewhere, *somewhere* in there, racists understand their racism. Can we bring this understanding out? Or is this just a fact for our own "security," that we might remain righteous, that we might not accept the myth of white supremacy as a great and faceless storm?
 
 ### Resolution
 
 I previously set up the Christian and Socratic ethical frameworks as opposite extremes. Through Coates, we can see that *both* extremes are problematic. Both vanish the concrete instances of racism, whether by chopping them off from their historical context or else by undermining the agency involved. Is there any productive alternative?
 
-[[comment]]
+[[I (Cicero) think that both frameworks are fundamentally right on this issue. Isn't that, indeed, the very intractability of these frameworks, that they conflict and yet fail to refute one another?]]
 
-This knowledge, indeed, accurately represents the structure of systematic racism---it _needs_ to in order for white people to be able to take advantage of their place in it so well and so frequently.
-
-All of this seems to be known, by Socratic lights. The only thing that seems to be _not_ known Socratically is that this whole structure of white supremacy is bad _for whites_; i.e. for those ... It seems apparent enough that---if this were understood---white people would *not* take advantage of their priviledge, because doing so actually puts them at a disadvantage... This depends upon a theoretical argument that would crib the form of Plato's argument in the *Republic* that it is better to suffer under tyranny than to be a tyrant; that it is better to be oppressed than to be an oppressor. Coates, interestingly enough, expresses this sentiment to his son....
-
-The Socratic line of thinking, then, would offer this solution to the problem: to teach white America that white supremacy is *not* in their own self interest---that it benefits nobody more than a system of egalitarianism, that it functions as an elitist tool to divide the lower class against itself. The primary remedies in this framework are education and economic equality--systematic reforms.
+[[This knowledge, indeed, accurately represents the structure of systematic racism---it _needs_ to in order for white people to take advantage of their place in it so well and so frequently.]]
 
 ------------
 
-### Argument for the Socratic
+### Comment
+
+I'd like to field a rebuttal from the Socratic position:
+
+All of this seems to be known, by Socratic lights. However, there is one crucial point that white Americans do _not_ know Socratically: that this whole structure of white supremacy is bad _for whites_. It seems apparent enough that---if this were understood---white people would *not* take advantage of their priviledge, because doing so actually harms them overall...
+
+This point depends upon a theoretical argument that cribs the form of Plato's argument in the *Republic* that it is better to suffer under tyranny than to be a tyrant; that it is better to be oppressed than to be an oppressor. Coates, interestingly enough, expresses this sentiment to his son....
+
+The Socratic line of thinking, then, would offer this solution to the problem: to teach white America that white supremacy is *not* in their own self interest---that it benefits nobody more than a system of egalitarianism, that it functions as an elitist tool to divide the lower class against itself. The primary remedies in this framework are education and economic equality--systematic reforms.
 
 Socrates' argument that to be oppressed is better than to oppress runs like this:
 
@@ -123,7 +115,11 @@ Socrates' argument that to be oppressed is better than to oppress runs like this
 	 - ex: pre-anesthetic cultures practiced amputation, which despite excruciating pain does benefit a person's body
  - So we will prefer to be oppressed than to oppress
 
-This seems to hold up *only* if society at large has a reasonable sense of shame---that is, only if they feel shame for doing what is unjust (since Socrates does not equate the two).
+--------
+
+###Response
+
+This seems to hold up *only* if society at large has a reasonable sense of shame---that is, only if they feel shame for doing what is unjust.
 
 My worry with this is that, in the case of a systematic injustice like that presented by American racism, shame doesn't get traction. It is *not* clearly shameful in American now for one to expound white supremacy (although it should be). People who do this are hailed as speaking truth to power, "telling it like it is," and then get nominated for president.
 
@@ -131,9 +127,15 @@ Socrates did not face a situation like this, where *even though* racism harms wh
 
 Pain and harm (the Socratic roots of shame) are agent-relative, and here question of whether oppressing is more harmful than being oppressed is not clear: it is more harmful from the standpoint of a broader society. And it is supremey beneficial from the standpoint of the oppressor. For the individual, it simply depends which of these she identifies with: if she identifies as white before she identifies as American (and, intrinsic to this, is well embedded with others who identify the same way, who support this identity) then she will likely benefit greatly from endorcing white supremacy; she will be elevated politically, financially, and socially, securing her priviledge and those of her children.
 
+-------------
+
 Plato openly worried that the absense of a proper sense of shame made not just moral conduct [[accountability to actions]], but *rational discourse* [[accountability for speech]] impossible. Two of his most infamous characters---Callicles of the *Gorgias* and Thrasymachus [[sp?]] of the *Republic*---lack exactly this basic sense of shame. When Socrates points out contradictions in their views, they embrace them, taking the opportunity to deride his method as childish and unrealistic. In both cases, Socrates and his interlocutors leave without resolving anything; they don't even arrive at *aporia*, just frustration and confusion. Even Socrates cannot correct their false beliefs, and when wrong action ammounts to false beliefs, this lack of shame seems to be a prerequisit for moral reform; without it, we cannot get better.
 
+-------------
+
 If my assessment is accurate that white supremacy is quickly becoming less shameful among white Americans (although it has never been truly shameful), then how is anti-racist progress possible? (I am committed, along with Coates, that we need to *believe* it is possible; we need to take up the struggle for its own sake [[is that the same thing?]].) But where do we start; where can white America find a toehold to pull itself up and out of its own filth? [[eh, maybe cut whole pp]]
+
+-----------
 
 For this view of these frameworks as conflicting interprative traditions, I mainly have to thank S&#248;ren Kierkegaard and his *Philosophical Fragments*. Reacting against Hegel's claims on Christianity, he sought to set Christianity and philosophy apart from one another. Ironically, in doing so he clarified their relationship in such a way as to finally bring them into authentic contact.
 
