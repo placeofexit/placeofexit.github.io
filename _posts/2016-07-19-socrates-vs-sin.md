@@ -118,6 +118,20 @@ Kierkegaard's synthesis, while similar to the Christian framework in all the key
 
 [[Does this apply to our situation?]]
 
+Anti-Climacus on *being ignorant of being in despair* (i.e. being ignorant of one's sin state, the thing that Socrates can help with).
+
+>But this obstinancy of truth certainly is not respected; likewise, it is far from being the case that men regard the relationship to truth, relating themselves to the truth, as the highest good, and it is very far from being the case that they Socratically regard being in error in this manner as the worst misfortune---the sensate in them usually far outweighs their intellectuality. For example, if a man is presumably happy, imagines himself to be happy, although considered in teh light of truth he is unhappy, he is usually far from wanting to be wrenched out of his error. On the contrary, he becomes indignant, he regards anyone who does so as his worst enemy, he regards it as an assault bordering on murder in the sense that, as is said, it murders his happiness (43).
+
+>Imagine a house with a basement, first floor, and second floor planned so that there is or is supposed to be a social distinction between the occupants according to floor. Now, if what it means to be a human being is compared with such a house, then all too regrettably the sad and ludicrous truth about the majority of people is that in their own house they prefer to live in the basement. ... Moreover, he not only prefers to live in the basement---no, he loves it so much that he is indignant if anyone suggests that he move to the superb upper floor that stands vacant and at his disposal, for he is, after all, living in his own house (43).
+
+>No, to be in error is, quite un-Socratically, what men fear least of all (43).
+
+>Therefore, it makes no difference whether the person in despair is ignorant that his condition is despair---he is in despair just the same (p.44).
+
+>Yet ignorance is so far from breaking the despair or changing despair to nondespair that it can in fact be the most dangerous form of despair. To his own demoralization, the individual who in ignorance is in despair is in a way secured against becoming aware---that is, he is altogether secure in the power of despair (p.44).
+
+
+
 Police officers cannot be held accountable until they understand that they are in the wrong. Indictments are important for *instilling* this understanding and rectifying the brutal arrogance that comes with impunity, but an indictment alone cannot provide that understanding. A convicted officer recieves punishment, but this is not the same as being held accountable. Until we get to that point, punishment is just another ordeal; a threat on blue lives. It is something suffered for the cause, and I fear that such suffering actually increases in-group loyalty: it mobilizes the police; it arms and armors them.
 
 We need not be worried that this will be an exact mirror image of the BLM movement and the way each tradgedy reinforces it. The police cannot organize in the same way; their situation is not the same; their history is not the same. And their inability to organize betrays that---in some remote way---they understand this difference.
