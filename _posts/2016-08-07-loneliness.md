@@ -3,10 +3,15 @@ layout: post
 title: A Proper Pathology of Loneliness
 author: Cassius Galenus
 date: '2016-08-07'
-published: false
+published: true
 ---
 
-When loneliness arises, one should observe its cause: not a lack of company, but a sense of deficiency in one’s self: an unwillingness to be with oneself. It is true that this deficiency often compels the lonely person towards externals, such as the company that appears to be absent (though this is only the best-case scenario). Yet this simply reveals that one's self has established itself on externals, for only by so founding itself can its own deficiency, in solitude, manifest as an external need.
+When loneliness arises, one should observe its cause: not a lack of company, but a sense of 
+deficiency in one’s self: an unwillingness to be with oneself. It is true that this deficiency 
+often compels the lonely person towards externals, such as the company that appears to be absent 
+(though this is only the best-case scenario). Yet this simply reveals that one's self has 
+established itself on externals, for only by so founding itself can its own deficiency, in 
+solitude, manifest as an external need. <!--more-->
 
 The most common diagnosis for those suffering from loneliness is that the self has become "insecure," and the most common prescription is to *secure* it through the practice of self-esteem. This esteem is *self*-esteem in the sense that it is both *for* the self and *from* the self. Since esteem for (and from) externalities lacks this dialectical quality, the popular practice of self-esteem prioritizes the *internal*. It seeks to re-establish the self there, viewing the internal as the root of security, confidence, and self-love.
 
@@ -26,15 +31,22 @@ This lack is called the Hollow Healer---and the proper prescription for loneline
 
 ### Recommended Treatments
 
-To help, I have compiled a list of concrete treatments: practical (if roundabout) ways of letting the Healer do its work. Depending on the patient and their particular disposition, one or several of the following may be prescribed:
+To help, I have compiled a list of concrete (if roundabout) ways of letting the Healer do its work. Depending on the patient and their particular disposition, one or several of the following may be prescribed:
 
  - As loneliness arises, observe that the presence or absence of company is not in your hands, and that you are often compelled to spend time alone.
+
  - If, when alone, you find yourself deficient, reflect on the foundations of your self by asking: "what do I identify with?" or "what do I call 'mine?'" Ask yourself whether there is anything more stable and secure to found your self upon. Run through the possibilities, and inquire of each "where are the cracks?" or "what are the conditions of collapse?" Can any foundation support the infinite weight of your self? Repeat this inquiry to the point of exhaustion.
+
  - Try asking yourself, rather directly, "what am I?" or "what am I meant to be?" Without expecting an answer to come, reflect that this question is of utmost importance, and that nothing should concern you more.
+
  - When in a public place, observe others passing nearby and ask "how have they founded themselves? What do they consider their own?" Try to be as particular and accurate as possible. Consider whether these foundations are more secure than your own; whether any of these people have managed to secure themselves against loneliness. Upon concluding, in each case, that they have not, reflect on the strange kinship created by this pervasive loneliness---that no self is secure against partial or complete loss; that we are united in our total isolation.
+
  - When eating, reflect that the food will only satiate you for a short time. Reflect that you do not expect your stomach to secure self-sufficiency, and that to reject externals in this pursuit (food) would only make the matter worse. Notice that you are not distressed by this state of affairs. This reflection can be extended to other activities of the self: work, laundry, sleeping, love-making, visiting friends and family---the ceaseless slog of chores that we call life---each task invariably failing to fill the lack that it addresses and repeating in vain unto death. Extend your reflection until you encounter distress; then, continue eating.
+
  - Spend time alone every day, preferably somewhere outside with good light and circulation.
+
  - If you find yourself particularly disposed to loneliness, consider the circumstances in which loneliness has arisen in the past. Observe that its arising is not related to your actual isolation; that loneliness arises just as well in the day as at night, in company as in solitude, among friends as well as enemies. Could these externals serve as its cause?
+
  - If you begin to suspect that, considering the fragility of every possible foundation, it may be best to give up entirely on the project of securing yourself---that is, to found your self on nothing at all---then recall that this the self is *precisely* this nothingness, and that a self founded upon nothing (itself) is in the same relation to itself as that inherent in the popular notion of "self-esteem:" the self founded on nothing supports itself for and from itself. Holding tightly to this thought, cast the project off as you would a heavy burden, or a small animal clawing at your flesh.
 
 As always, I advise all my patients to experiment with these practices carefully. Proceed one at a time, so as to avoid any antagonistic interactions between multiple treatments. Note any changes in the magnitude or manifestation of your symptoms (loneliness), as well as any unintended side-effects. Be aware that, just as the flush of fever indicates a healthy immune response, so a sudden spike in loneliness may actually indicate that the treatment is working effectively. Failure to complete a course of treatment (normally prescribed for a full lifetime) may result in chronic or recurrent loneliness, so continue the regimen even after symptoms subside.
