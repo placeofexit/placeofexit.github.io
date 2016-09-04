@@ -8,7 +8,7 @@ author: Paulus Cicero
 
 ### Background
 
-There is an ancient dilemma in ethical philosophy which has persisted to this day, and wormed its way into the politics of American racism, among other places. It can be best characterized as the result of two competing and deeply-ingrained interpretive frameworks: the Socratic and the Christian.
+There is an ancient dilemma in ethical philosophy which has persisted to this day, and wormed its way into the language and politics of American racism. It can be characterized as the result of two competing and deeply-ingrained interpretive frameworks: the Socratic and the Christian.
 
 ------------
 
@@ -26,39 +26,37 @@ This framework emphasizes **accountability** as the means of moral reform; calli
 
 --------------
 
-This is, of course, a simplification of two very rich (and long and convoluted) traditions. More can be (and has been) said on either side, but for the sake of expediency, I invite you to consider them as laid out.
+This is, of course, a simplification of two very long and convoluted traditions. More can be (and has been) said on either side, but for the sake of expediency, I invite you to consider them as laid out.
 
-In their barest form, these ethical frameworks are *incompatible* with one another. One cannot endorse them both at once, and---going by the principle of non-contradiction---neither can one employ their dictates simultaneously. One might use each of them to illuminate a single situation, but at some point one must make the transition, from education to accountability or vice versa.
+In their barest form, these ethical frameworks are *incompatible* with one another. One cannot endorse them both at once, and---going by the principle of non-contradiction---neither can one employ their dictates simultaneously. One might use each of them *in turn* to illuminate a single situation, but at some point one must make the transition, from reasoning to accountability or vice versa.
 
 ### Ta-Nehisi Coates on Socrates and Sin
 
-This dynamic of two competing, incompatible interpretive frameworks underlies all of our normative talk and our attempts to actually address injustice. As such, it's no coincidence to find it as an ongoing concern in Ta-Nehisi Coates's *Between the World and Me*, and at the heart of one story in particular.
+This dynamic of two competing, incompatible interpretive frameworks underlies all of our normative talk and our attempts to actually address injustice. As such, it's no coincidence to find it threaded throughout Ta-Nehisi Coates's *Between the World and Me*, and at the heart of one story in particular.
 
-This story takes place in a movie theater in the Upper West Side, after Coates had taken his son to see *Howl's Moving Castle*.
+This story takes place in a movie theater in the Upper West Side, where Coates takes his son to see *Howl's Moving Castle*:
 
 >The theater was crowded, and when we came out...you were moving at the dawdling speed of a small child. A white woman pushed you and said, "Come on!" (p.93-4).
 
-Shocked and upset, Coates confronted her: "my words were hot with all of the moment and all of my history" (p.94). Things escelate as the crowd sides with the woman, and the story culminates in a white man telling him "I could have you arrested!"
+Coates confronts her, "hot with all of the moment and all of my history." The crowd sides with the woman, tensions escalate, and the story culminates in a white man telling him, "I could have you arrested!"
 
-Coates lingers on this story longer than usual, taking time to unpack the dynamics at play. There's the contrast of his blackness in the mostly-white Upper West Side. There's the way that history transforms a threat of arrest into a threat on his life. But then Coates begins to wonder how he might have communicated this to the woman that pushed his son; could he have brought her to see her own actions as he did, with all their historical coloring?
-
-I do not wish to get caught up in the metaphysical and epistemological nuances that underlie each position: I only want to consider, in light of Ta-Nehisi Coates and the pressing context of American racism, which position bears a closer *likeness to the truth*---which is more helpful for resolving the problem presented by the woman at the theater?
+Coates lingers on this story longer than usual, taking time to unpack the dynamics at play. There's the way the mostly-white Upper West Side renders his blackness high-contrast. There's the way that history transforms a threat of arrest into a threat on his life. But then Coates begins to wonder how he might have communicated this to the woman that pushed his son; could he have brought her to see her own actions with all their historical coloring?
 
 ### The Problem
 
-Coates considers the Socratic approach to the woman at the theater accordingly:
+Coates considers the Socratic approach to the woman at the theater accordingly. He wants to explain the situation, to reason with the woman, but anticipates the failure of this approach:
 
 >Had I informed this woman that when she pushed my son, she was acting according to a tradition that held black bodies as lesser, her response would likely have been, "I am not racist." Or maybe not. But my experience in this world has been that the people who believe themselves to be white are obsessed with the politics of personal exoneration. And the word racist, to them, conjures, if not a tobacco-spitting oaf, then something just as fantastic---an orc, troll, or gorgon (97).
 
-Coates wants to explain the situation, to reason with the woman, but he anticipates that this would only come across as an accusation. We see here a way in which, one could say, the Christian framework turns to thwart the propper functioning of the Socratic: we open with the Socratic, but the wrong-doer recieves the Christian---an accusation that they deliberately harbor contempt---and responds accordingly. I believe Coates is right in suspecting this kind of discourse to be unproductive.
+Here, we see a way in which, one could say, the Christian framework turns to thwart the propper functioning of the Socratic: we open with the Socratic, but the wrong-doer recieves the Christian---an accusation that they deliberately harbor contempt---and responds accordingly. I believe Coates is right in suspecting this kind of discourse to be unproductive.
 
-This pattern is a general one, though it seems especially common in racially-charged encounters, precisely because of the history of these "politics of personal exhoneration." Coates lists examples that span the entire twentieth century, from Michael Richards to Strom Thurmond to the segregationist residents of Levittown, PA. Each of them deny their racism, no matter how clearly their actions fit the structure and function of white supremacy.
+This pattern is a general one, though it seems especially common in racially-charged encounters, precisely because of the history of these "politics of personal exhoneration." Coates lists examples that span the entire twentieth century, from Michael Richards to Strom Thurmond to the segregationist residents of Levittown, PA. No matter how clearly their actions fit the structure and function of white supremacy, each of them manage accusations...
 
 Coates's message to his son, "there was no golden era when evildoers did their business and loudly proclaimed it as such" (p.98).
 
 ### In Favor of the Socratic
 
-One possible conclusion we could draw from stands in favor of the Socratic framework---and I would say this is the more prominent view among politically-conscious young people today. This holds that the Christian framework---the idea that wrong acts are inherently bound up in intention---is precisely the problem. It is unrealistic and misses the force of history. Proponents of this view might hold that, actually, *all* white people are racist, while ammending racism to mean "unconsciously participating in structures that harm people of color." This is an attempt to remedy the Christian emphasis on _intention_ as a defining element of racism, which turns it into an impossible ideal of intentional racism tends to obscure the operations of systematic racism, by making individual injustices suspect to an extraordinary and *un*reasonable doubt, establishing plausible deniability for their purpetrators. As long as [[find a snippet]] "no racial epithets were uttered"---as long as the white woman didn't proclaim her racism loudly to the world, then we are forced into race-blindness. Even *raising* the racial context of a situation like that becomes insulting, an insinuation of a deliberate dimension that was not there.
+One possible conclusion we could draw from this stands in favor of the Socratic framework---and I would say this is the more prominent view among politically-conscious young people today. This holds that the Christian framework---the idea that wrong acts are inherently bound up in intention---is precisely the problem. It is unrealistic and misses the force of history. Proponents of this view might hold that, actually, *all* white people are racist, while ammending racism to mean "unconsciously participating in structures that harm people of color." This is an attempt to remedy the Christian emphasis on _intention_ as a defining element of racism, which turns it into an impossible ideal of intentional racism tends to obscure the operations of systematic racism, by making individual injustices suspect to an extraordinary and *un*reasonable doubt, establishing plausible deniability for their purpetrators. As long as [[find a snippet]] "no racial epithets were uttered"---as long as the white woman didn't proclaim her racism loudly to the world, then we are forced into race-blindness. Even *raising* the racial context of a situation like that becomes insulting, an insinuation of a deliberate dimension that was not there.
 
 ### In Favor of the Christian
 
