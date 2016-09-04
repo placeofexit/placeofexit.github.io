@@ -22,7 +22,7 @@ This framework emphasizes **reasoning** as the means of moral reform; calling on
 #### Christianity
 We are all in sin, and sin is a state of *knowingly* rejecting truth and the good. Individual sins are acts in which one *knowingly does wrong*, or else fails to do what one knows to be right.
 
-This framework emphasizes **accountability** as the means of moral reform; calling on the wrongdoer to **repent**.
+This framework emphasizes **accountability** as the means of moral reform; calling on the wrongdoer to **repent**. <!--more-->
 
 --------------
 
@@ -30,7 +30,7 @@ This is, of course, a simplification of two very long and convoluted traditions.
 
 In their barest form, these ethical frameworks are *incompatible* with one another. One cannot endorse them both at once, and---going by the principle of non-contradiction---neither can one employ their dictates simultaneously. One might use each of them *in turn* to illuminate a single situation, but at some point one must make the transition, from reasoning to accountability or vice versa.
 
-### Ta-Nehisi Coates on Socrates and Sin
+### Ta-Nehisi Coates on this Dynamic
 
 This dynamic of two competing, incompatible interpretive frameworks underlies all of our normative talk and our attempts to actually address injustice. As such, it's no coincidence to find it threaded throughout Ta-Nehisi Coates's *Between the World and Me*, and at the heart of one story in particular.
 
@@ -50,13 +50,15 @@ Coates considers the Socratic approach to the woman at the theater accordingly. 
 
 Here, we see a way in which, one could say, the Christian framework turns to thwart the propper functioning of the Socratic: we open with the Socratic, but the wrong-doer recieves the Christian---an accusation that they deliberately harbor contempt---and responds accordingly. I believe Coates is right in suspecting this kind of discourse to be unproductive.
 
-This pattern is a general one, though it seems especially common in racially-charged encounters, precisely because of the history of these "politics of personal exhoneration." Coates lists examples that span the entire twentieth century, from Michael Richards to Strom Thurmond to the segregationist residents of Levittown, PA. No matter how clearly their actions fit the structure and function of white supremacy, each of them manage accusations...
+This pattern is a general one, though it seems especially common in racially-charged encounters, precisely because of the history of these "politics of personal exhoneration." Coates lists examples that span the entire twentieth century, from Michael Richards to Strom Thurmond to the segregationist residents of Levittown, PA. No matter how clearly their actions fit the structure and function of white supremacy, each of them manage to spin the accusations of racism as unjustified---even outrageous.
 
 Coates's message to his son, "there was no golden era when evildoers did their business and loudly proclaimed it as such" (p.98).
 
 ### In Favor of the Socratic
 
-One possible conclusion we could draw from this stands in favor of the Socratic framework---and I would say this is the more prominent view among politically-conscious young people today. This holds that the Christian framework---the idea that wrong acts are inherently bound up in intention---is precisely the problem. It is unrealistic and misses the force of history. Proponents of this view might hold that, actually, *all* white people are racist, while ammending racism to mean "unconsciously participating in structures that harm people of color." This is an attempt to remedy the Christian emphasis on _intention_ as a defining element of racism, which turns it into an impossible ideal of intentional racism tends to obscure the operations of systematic racism, by making individual injustices suspect to an extraordinary and *un*reasonable doubt, establishing plausible deniability for their purpetrators. As long as [[find a snippet]] "no racial epithets were uttered"---as long as the white woman didn't proclaim her racism loudly to the world, then we are forced into race-blindness. Even *raising* the racial context of a situation like that becomes insulting, an insinuation of a deliberate dimension that was not there.
+One possible conclusion we could draw from this stands in favor of the Socratic framework---and I would say this is the more prominent view among politically-conscious young people today. This holds that the Christian framework---the idea that wrong acts are inherently bound up in intention---is precisely the problem. It is unrealistic and misses the force of history. Proponents of this view might hold that, actually, *all* white people are racist, while ammending racism to mean "unconsciously participating in structures that harm people of color."
+
+This is an attempt to remedy the Christian emphasis on _intention_ as a defining element of racism, which turns it into an impossible ideal of intentional racism tends to obscure the operations of systematic racism, by making individual injustices suspect to an extraordinary and *un*reasonable doubt, establishing plausible deniability for their purpetrators. As long as [[find a snippet]] "no racial epithets were uttered"---as long as the white woman didn't proclaim her racism loudly to the world, then we are forced into race-blindness. Even *raising* the racial context of a situation like that becomes insulting, an insinuation of a deliberate dimension that was not there.
 
 ### In Favor of the Christian
 
