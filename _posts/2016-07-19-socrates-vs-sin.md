@@ -40,7 +40,7 @@ This story takes place in a movie theater in the Upper West Side, where Coates t
 
 Coates confronts her, "hot with all of the moment and all of my history." The crowd sides with the woman, tensions escalate, and the story culminates in a white man telling him, "I could have you arrested!"
 
-Coates lingers on this story longer than usual, taking time to unpack the dynamics at play. There's the way the mostly-white Upper West Side renders his blackness high-contrast. There's the way that history transforms a threat of arrest into a threat on his life. But then Coates begins to wonder how he might have communicated this to the woman that pushed his son; could he have brought her to see her own actions with all their historical coloring?
+Coates lingers on this story longer than usual, taking time to unpack the dynamics at play. There's the way the mostly-white Upper West Side renders his blackness in high-contrast. There's the way that history transforms a threat of arrest into a threat on his life. But then he begins to wonder how he might have communicated this to the woman that pushed his son; could he have brought her to see her own actions with all their historical coloring?
 
 ### The Problem
 
@@ -51,6 +51,10 @@ Coates considers the Socratic approach to the woman at the theater accordingly. 
 Here, we see a way in which, one could say, the Christian framework turns to thwart the propper functioning of the Socratic: we open with the Socratic, but the wrong-doer recieves the Christian---an accusation that they deliberately harbor contempt---and responds accordingly. I believe Coates is right in suspecting this kind of discourse to be unproductive.
 
 This pattern is a general one, though it seems especially common in racially-charged encounters, precisely because of the history of these "politics of personal exhoneration." Coates lists examples that span the entire twentieth century, from Michael Richards to Strom Thurmond to the segregationist residents of Levittown, PA. No matter how clearly their actions fit the structure and function of white supremacy, each of them manage to spin the accusations of racism as unjustified---even outrageous.
+
+This should give some sense of the way these frameworks shift and subvert each other: discrediting the claims put forth under one by rendering them in the light of the other. We have only seen this from the perspective of the Socratic, although later we will investigate it from the perspective of the Christian---in response to a demand for accountability. For now, suffice it to say that the Socratic *does* undercut this demand, and that we might recognize it in the phrase: "
+
+[not clear the dynamic is this equal]
 
 Coates's message to his son, "there was no golden era when evildoers did their business and loudly proclaimed it as such" (p.98).
 
