@@ -6,12 +6,7 @@ date: '2016-08-07'
 published: true
 ---
 
-When loneliness arises, one should observe its cause: not a lack of company, but a sense of 
-deficiency in one’s self: an unwillingness to be with oneself. It is true that this deficiency 
-often compels the lonely person towards externals, such as the company that appears to be absent 
-(though this is only the best-case scenario). Yet this simply reveals that one's self has 
-established itself on externals, for only by so founding itself can its own deficiency, in 
-solitude, manifest as an external need. <!--more-->
+When loneliness arises, one should observe its cause: not a lack of company, but a sense of deficiency in one’s self: an unwillingness to be with oneself. It is true that this deficiency often compels the lonely person towards externals, such as the company that appears to be absent (though this is only the best-case scenario). Yet this simply reveals that one's self has established itself on externals, for only by so founding itself can its own deficiency, in solitude, manifest as an external need. <!--more-->
 
 The most common diagnosis for those suffering from loneliness is that the self has become "insecure," and the most common prescription is to *secure* it through the practice of self-esteem. This esteem is *self*-esteem in the sense that it is both *for* the self and *from* the self. Since esteem for (and from) externalities lacks this dialectical quality, the popular practice of self-esteem prioritizes the *internal*. It seeks to re-establish the self there, viewing the internal as the root of security, confidence, and self-love.
 
