@@ -3,7 +3,7 @@ layout: post
 published: false
 title: Socrates vs Sin
 date: '2016-07-19'
-author: Paulus Cicero
+author: Paulos Diametros
 ---
 
 [[change untruth -> dreaming, or equate the two later on]]
@@ -84,49 +84,59 @@ From this small admission, it's a short step to the real issue: "where does that
 
 Should we worry that, confronted with the reality of systemic racism, white Americans will simply embrace it? "You mean the world is set up in a way that I benefit at your expense? Sounds good to me!" 
 
-In the *Gorgias*, Socrates argues that this would not be a rational response: we all consider it worse to commit an injustice than to suffer one, so if the woman at the theater can be brought to acknowledge the *systemic injustice* inherent in her actions, we can expect her to reject it, even at great cost to herself. The argument here can get quite technical, so I will simply suggest that it bears out in experience: the closest contemporary phenomenon to a shameless embrace of racism---the alt-right movement---still needs to *justify* itself, hence the practice of "red-pilling," casting people of color as the oppressors and white Americans as oppressed.
+In the *Gorgias*, Socrates argues that this would not be a rational response: we all consider it worse to commit an injustice than to suffer one, so if the woman at the theater can be brought to acknowledge the *systemic injustice* inherent in her actions, we can expect her to reject it, even at great cost to herself. The argument here can get quite technical, so I will simply suggest that it bears out in experience: the closest contemporary phenomenon to a shameless embrace of racism---the alt-right movement---still needs to *justify* itself, hence the practice of "red-pilling," casting people of color as the oppressors and white Americans as oppressed.[^1](White supremacy, like all systems of hate, is not coherent by itself. It is always parasitic upon other ideologies, appropriating their values---be they family and country or progress and equality---to its own purposes.)
 
 It is *this* that must be challenged; the rest will follow. And critical to challenging it is recognizing it for what it is---ignorance, a set of false beliefs---and doing away with the idea that injustice stems from a deeper intention or malice.
 
 ### In Favor of the Christian
 
-Though we have just characterized the Christian framework as naive in the face of history, it is worth noting that it similarly regards the Socratic---as naive with respect to human nature. Of course evildoers have never *proclaimed* themselves as such, but this does not mean that they have not *understood* the nature of their actions.
+[[two parts here: the carelessness and negative commitment (willful ignorance) that keeps one dreaming, and then knowledge *of* the truth and good that one must have to continue avoiding it (to stand in a negative relation to it) (jabbing out eyes)]]
 
-The Christian framework contends that our unrecollected knowledge---at least with respect to ethics---is not *simply* forgotten, the way Socrates thought we forget the forms through the exhaustion of eternity; this knowledge is more akin to a *repressed memory*. Out of shame or terror or despair, we buried it in the past, in the unexamined annals of our country's history. Every now and again, given some opportunity, it threatens to arise, and rather than embrace it as a truth of the world that we are rediscovering, we stomp it back down. Coates calls the participants in this strange ritual **the Dreamers**---yet they dream lucidly:
+Though we have just characterized the Christian framework as naive in the face of history, it is worth noting that it similarly regards the Socratic as naive, but with respect to human nature. "Of course evildoers have never *proclaimed* themselves as such," it admits, "but this does not mean that they have not understood (or, at least, willfully *mis*understood) the nature of their actions."
 
->The mettle that it takes to look away from the horror of our prison system, from police forces transformed into armies, from the long war against the black body, is not forged overnight. This is the practiced habit of jabbing out one’s eyes and forgetting the work of one’s hands (p.98).
-
-This is not the simple ignorance of those watching the shadows in Plato's cave. For the Dreamers, it is not an arduous climb to get to the surface. There is television in this cave, and they are neither chained to the wall nor to any single channel. [[not even that they don't know the shadows are false; they don't *care*]] One must *will* to remain ignorant, and the act of "jabbing out one's eyes" betrays an awareness of what one might otherwise see. It is this willful ignorance that the Christian regards as *sin*, for as Augustine wrote:
+Though the Socratic characterizes sin as a kind of malice or contempt (for this is the only alternative to ignorance that the Socratic can conceive of), what the Christian framework intends is something much more passive and lethargic, something like Augustine's "willful ignorance:"
 
 >It is one thing to be ignorant, and another thing to be unwilling to know. For the will is at fault in the case of the man of whom it is said, "He is not inclined to understand, so as to do good" (*On Grace and Free Will*, chpt. V).
 
-Though one's sin may sometimes be portrayed as malice or an inhuman contempt, what the Christian framework intends is something much more passive and lethargic. One need not know *Socratically* that one's actions are unjust, one need only be "not inclined to understand."
+One need not know *Socratically* that one's actions are unjust; one need only be "not inclined to understand" the nature of one's actions.
 
-This is precisely Coates's critique of the Dreamers, that in preferring their dream to reality, they have become lost in it, almost unreachable. Yet he also suggests that they are, in a way, *responsible* for this disposition towards dreaming---that in abandoning the truth they have (knowingly) fabricated a false truth: an *untruth*. Shortly after the story of the woman at the theater, Coates describes visiting Gettysburg with his son:
+-----------------
+
+The Christian framework contends that our unrecollected knowledge---at least with respect to ethics---is not *simply* forgotten, the way one forgets a pair of keys or a lover's voice. This knowledge is more akin to a *repressed memory*. Out of shame or terror or despair, we buried it in the past, in the unexamined annals of our country's history. Every now and again, given some opportunity, it threatens to reemerge, and rather than embrace it as a truth of the world that we are rediscovering, we stomp it back down. Coates calls the participants in this strange ritual **the Dreamers**---yet their dream is not so innocent:
+
+>The mettle that it takes to look away from the horror of our prison system, from police forces transformed into armies, from the long war against the black body, is not forged overnight. This is the practiced habit of jabbing out one’s eyes and forgetting the work of one’s hands (p.98).
+
+This is not the simple ignorance of those watching the shadows in Plato's cave, but of those who have learned the distinction between illusion and reality yet do not *care*. This is precisely Coates's critique of the Dreamers, that in their love of the dream, they have learned to dream lucidly.
+
+Their allegiance is not to truth *or* falsehood, but simply to whatever prolongs their dreaming (so rigorously pragmatic is their approach that most cannot even make such distinctions)
+
+
+They *will* to remain ignorant, though it is impossible to do so completely. The very act of "jabbing out one's eyes" betrays an awareness of what one might otherwise see.
+
+Shortly after the story of the woman at the theater, Coates describes visiting Gettysburg with his son:
 
 >By the time I visited those battlefields, I knew that they had been retrofitted as the staging ground for a great deception, and this was my only security, because they could no longer insult me by lying to me. I knew—and the most important thing I knew was that, somewhere deep with them [sic], they knew too (106).
 
+This knowledge is important, not just for our own security, but for how we approach...
 
 
-The alt-right does not engage in red-pilling out of a commitment to the truth (innocently enough led astray by false beliefs), but out of convenience---that is, a negative commitment, a total lack of commitment. *This* is why the woman at the theater is closed off to Coates's imagined dialogue; not because she *confuses* (innocently enough) an explanation with an accusation, but because she *chooses* to take it this way. This confusion is more convenient than recollecting that uncomfortable knowledge, hidden behind her "pulling rank"---even though earnest discourse demands exactly that.
 
-[[This is characteristic of white America's use of dialogue: that it is *not* earnest, not a dialogue of love (which would proceed from a desire to understand and refine one's beliefs) but a dialogue of self-exoneration. On the Christian framework, this distinction has *everything* to do with the intention.]]
 
-So the Christian framework regards the Socratic program of education as fundamentally misguided. This project cannot even *begin* if the dreamers 
 
-They may even nod and make noises like they understand. But this is ultimately a false act, no different from how they imitate the noises and movements of the oppressed. Each serves their purpose at different time.
 
-Too often, the Socratic framework falls for the false act. interpreting it with at least equal charity and genuineness as as superficially similar acts by people of color: claims of discrimination and silencing, demands for safe spaces, etc. Perhaps the Socratic simply sees these acts as ignorant, yet sometimes the Socratic goes further, assuming it's *own* ignorance, possibly concluding that oppression is an obscure matter of subjective impressions, and with that, slowly joining the Dreamers in their fantasy.
+The Dreamers do not defend their dream out of a commitment to the truth (innocently enough led astray by false beliefs), but out of convenience---that is, a negative commitment, a total lack of commitment.[^2](This explains the parasitic nature of white supremacy: it first and foremost depends on this absence, this lack of commitment. It cannot put forward a absence on its own, but depends on a prior, positive system of values with respect to which this absence can manifest. These values can take many forms, but fundamental to all of them (and to the possibility of maintaining positive values itself) is the commitment to truth and the good. This is why we have characterized this lack with respect to truth: it is the most basic and general form of sin---the sin state---on which all particular sins are then founded.) *This* is why the woman at the theater is closed off to Coates's imagined dialogue; not because she (innocently enough) *confuses* an explanation with an accusation, but because she *chooses* to take it this way. Her confusion is more convenient than recollecting that uncomfortable knowledge, hidden behind her "pulling rank," which threatens to throw her actions and whole way of life into question.
 
-As such, ignoring the role of intention in systematic and discrete racism seems just as problematic as insisting upon it; to ignore the role of intention is, in a way, to accept the account of white supremacy as a faceless force of nature, where nobody can be held any more accountable than another, where lynchings are carried out by "persons unknown", where _outrageous_ acts become mere _tragedies_.
+So the Christian framework regards the Socratic program of education as fundamentally misguided. Earnest dialogue demands that one proceed from a desire to understand and refine one's beliefs, not in pursuit of self-exoneration. This project cannot even *begin* if the primary aim is personal exoneration and dream-maintenance. Until this changes---until the Dreamers take *responsibility* for their dreaming---reasoning with them is impossible. They may nod and make noises like they understand, but this is ultimately a false act, no different from how they imitate the noises and movements of the oppressed. Each is convenient in different ways and at different times.
 
-Coates knows exactly how dangerous this misunderstanding is; how it manifests in failed accountability and a shrugged acceptance of racialized violence:
+Too often, the Socratic framework falls for the false act, interpreting it with at least equal charity and genuineness as superficially similar acts by people of color: claims of discrimination and silencing, demands for safe spaces, etc. Perhaps the Socratic simply sees these acts as ignorant, yet sometimes the Socratic goes further, assuming it's *own* ignorance, possibly concluding that oppression is an obscure matter of subjective impressions, and with that, slowly joining the Dreamers in their fantasy.
+
+As such, ignoring the role of intention in systematic and discrete racism seems just as problematic as insisting upon it; to ignore the role of intention is, in a way, to accept the account of white supremacy as a faceless force of nature, where nobody can be held any more accountable than another; where lynchings are carried out by "persons unknown;" where _outrageous_ acts become mere _tragedies_. This fatalism is a constant threat for Coates, and he notes how it manifests in failures of  accountability and a shrugged acceptance of racialized violence:
  
 >The earthquake cannot be subpoenaed. The typhoon will not bend under indictment. They sent the killer of Prince Jones back to his work, because he was not a killer at all. He was a force of nature, the helpless agent of our world’s laws (p.83).
 
-This is the way in which the Socratic turns to thwart the propper functioning of the Christian---a mirror image of the problem we laid out above.
+This is the way in which the Socratic turns to thwart the proper functioning of the Christian---a mirror image of the problem we laid out above.
 
-Solution: dreamers not reachable through conventional methods (they so love their dream), but *because* they know, somewhere in there, that they are dreaming, they can be held accountable. They knowingly do wrong, and because of this they are *guilty*. The Christian framework views white America as guilty of white supremacy, and calls on white America to *repent*.
+Solution: dreamers not reachable through conventional methods (they so love their dream), but *because* they know, somewhere in there, that they are dreaming, they can be held accountable. They knowingly do wrong, and so are *guilty*. The Christian framework views white America as guilty of white supremacy, and calls on white America to *repent*.
 
 ### Synthesis
 
@@ -150,6 +160,7 @@ Kierkegaard's solution rests upon the notion that maintaining oneself in this st
 
 No one *simply* forgets the work of their hands; if the act of jabbing out one's eyes is not readily apparent, then it has been deliberately *obscured*. Is this next act of obscuring similarly forgotten? There is an infinite regress here: somewhere down the line, the Dreamers' dreaming must still be apparent to them, and this last unburried action is precisely what the *opportunity* triggers, what theatens to bring the truth of the whole endeavor surging back into awareness.
 
+Prior to the opportunity, the Dreamers are simply asleep. Their dreaming only manifests as a conscious choice when one tries to wake them up.
 
 [[Augustine: the idea that we would have acted appropriately if we had known is a matter of human *pride*: a failure to take responsibility for one's sin (*On Grace and Free Will*, chpt. II).]]
 
