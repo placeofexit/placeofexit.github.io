@@ -2,14 +2,9 @@
 layout: post
 published: false
 title: Socrates vs Sin
-date: '2016-07-19'
+date: '2016-10-27'
 author: Paulos Diametros
 ---
-
-[[fix footnote numberings]]
-[[equate untruth and dreaming later on]]
-[[using the language of "evil" in the first section might help make the connection to racism in the next, where "wrong action" seems peculiar]]
-[[put somewhere in Christian section: White Americans do not deny the reality of racism in America out of true belief, but out of a (tacitly understood, vaguely grasped) sense that one will benefit from denying it. Not necessary; may be repetitive I just like the phrasing.]]
 
 ### Background
 
@@ -37,7 +32,7 @@ In their barest form, these ethical frameworks are *incompatible* with one anoth
 
 So how do we choose which framework to adopt? We cannot even *ask* which is "better" without accepting some rules for determining value, thereby committing ourselves to a prior interpretive scheme. We are always already occupying one or the other. Without recourse to an impartial frame of negotiation, and with each framework, naturally enough, interpreting itself more favorably than the other, their disagreement seems *intractable.* So rather weigh them against each other, I want to examine the dynamic that they create and explore how it affects our concrete attempts to address injustice.
 
-### The Woman at the Theater
+### The Problem
 
 We can find this dynamic underlying many of Ta-Nehisi Coates's concerns in *Between the World and Me*. Are racists aware of their racism as such? Do they permit and perpetuate racial injustice because they have self-consciously embraced it, or are they simply ignorant? I see these questions of racism as extentions of the broader questions of *wrong action* that the Socratic and Christian frameworks raise. The dilemma likewise concerns how to understand racial injustice, and how to approach the task moral reform.
 
@@ -75,7 +70,7 @@ It is tempting, faced simultaneously with repugnant beliefs and the believer's v
 
 We might worry that, even confronted such a weighty recollection, what's to stop this woman from simply accepting it? Have we not also shown her that, as a white person, perpetuating this systemic injustice is in her own self-interest?
 
-In the *Gorgias*, Socrates argues that this would not be a rational response, since we all consider it worse to commit an injustice than to suffer one. This echoes Coates' pessimistic line that evildoers never proclaim their evil, yet that basic interest in self-exoneration, which previously caused us such trouble, here becomes a great moral advantage. If the woman at the theater can be brought to acknowledge the systemic *injustice* inherent in her actions, we can expect her to reject it, even at great cost to herself. Socrates' reasoning here can get quite technical, so I will simply suggest that it bears out in experience: the closest contemporary phenomenon to a shameless embrace of racism---the alt-right movement---still needs to *justify* itself, hence the practice of "red-pilling," casting people of color as the oppressors and white Americans as oppressed.[^3](White supremacy, like all systems of hate, is not coherent by itself. It is always parasitic upon other ideologies, appropriating their values---be they family and country or progress and equality---to its own purposes.)
+In the *Gorgias*, Socrates argues that this would not be a rational response, since we all consider it worse to commit an injustice than to suffer one. This echoes Coates' pessimistic line that evildoers never proclaim their evil, yet that basic interest in self-exoneration, which previously caused us such trouble, here becomes a great moral advantage. If the woman at the theater can be brought to acknowledge the systemic *injustice* inherent in her actions, we can expect her to reject it, even at great cost to herself. Socrates' reasoning here can get quite technical, so I will simply suggest that it bears out in experience: the closest contemporary phenomenon to a shameless embrace of racism---the alt-right movement---still needs to *justify* itself, hence the practice of "red-pilling," casting people of color as the oppressors and white Americans as oppressed.[^3](White supremacy, like all systems of hate, is not coherent by itself. It is always parasitic upon other ideologies, appropriating their values---be they family and country or progress and equality---to its own purposes. Such values also provide a fitting smokescreen, since white supremacy must obscure its own activity in order to properly operate. The more obvious it becomes, the more it betrays its own absence. There is nothing to it.)
 
 It is *this* that must be challenged; the rest will follow. And critical to challenging it is recognizing it for what it is---ignorance, a set of false beliefs---and doing away with the misleading and unproductive notion of a deeper intention or malice.
 
@@ -117,7 +112,7 @@ Between such extremes, we might hope to stake out a reasonable middle ground. Su
 
 That said, I do believe there is a positive way of synthesizing these frameworks to our advantage, even if it is not entirely even-handed. For this, I want to turn to S&#248;ren Kierkegaard, to whom I am deeply indebted. His *Philosophical Fragments* first distinguished the Socratic and Christian frameworks in the manner we have been exploring, and I have already borrowed heavily from it in the preceding sections. Yet, while its proposed aim is to set these frameworks apart into an either/or relationship of opposition, the *Fragments* also makes room for the Socratic to play a diminished role it its otherwise-Christian take on the nature of evil and the *telos* of moral and spiritual development.  
 
-The structure looks roughly like this: sin is, as we have said, a state of untruth, of actively rejecting the truth, and this is a choice, not a confusion. Truth (reason and Socratic dialogue) cannot be used to rectify untruth, since it has already been rejected; one needs repentance and the grace of the absurd. Yet for Kierkegaard, it *can* be used to articulate or *draw attention to* one's sin state---that is, by showing the sinner that they *are* actively rejecting the truth---making impossible the excuse of innocence.
+The structure looks roughly like this: sin is, as we have said, a state of untruth, of actively rejecting the truth, and this is a choice, not a confusion. Truth (reason and Socratic dialogue) cannot be used to rectify untruth, since it has already been rejected; one needs repentance and the grace of the absurd. Yet for Kierkegaard, it *can* be used to articulate or *draw attention to* one's sin state---that is, by showing the sinner that they *are* actively rejecting the truth---making impossible the excuse of innocence in the manner of our Lord:
 
 >"If I had not come and spoken unto them, they would not have sin; but now they have no excuse for their sin" (John 15:22).
 
@@ -127,54 +122,34 @@ The structure looks roughly like this: sin is, as we have said, a state of untru
 
 In emphasizing the transformative limits of rational discourse, Kierkegaard finds himself in good company. The possibility of failed discourse was also a central concern for Plato, and we can see it embodied in two of his most infamous characters: Callicles of the *Gorgias* and Thrasymachus of the *Republic*. When Socrates points out contradictions in their views, they embrace them, taking the opportunity to deride his method as childish and unrealistic. In both cases, Socrates and his interlocutors resolve nothing. Rather than arriving together at *aporia*, they part in frustration and confusion. And yet the failure does not seem to be on Socrates' part, but rather on his interlocutors. Plato characterizes their rejection of rational discourse as a rejection of *love*. They do not proceed to dialogue from a desire to learn and understand, but rather from a desire to *refute*---and perhaps, to *exonerate* themselves from Socrates' accusations.
 
-Kierkegaard accepts the basic Christian premise that this failure of dialogue is fundamentally the result of sin, and that maintaining oneself in sin requires a constant and deliberate application of effort, which one cannot be entirely unaware of. Even if the Dreamers *succeed* in their ritual repression---even if they *actually forget* the reality of systemic racism---they must then forget this very act of forgetting, and so on.[^7](This appears to be the reason that true, psychological repression is both so taxing and so unstable. There is preserved a direct link between one's present activity and the repressed memory; this is why the memory threatens to come surging back into awareness at the slightest provocation. True forgetting may be possible, but only through the weakening of the will. Those things that we most want to forget, we never quite can.) The present activity is never quite hidden, and it in it, their knowledge is apparent. By engaging the Dreamers in rational discourse, one forces their will again into action. Even if it labors against the truth, *this itself* reveals the truth---this itself *is* a kind of recollection. One forces them to confront their sin by forcing them to *perform* it in their discourse.
+Kierkegaard accepts the basic Christian premise that this failure of dialogue is fundamentally the result of sin, and that maintaining oneself in sin requires a constant and deliberate application of effort, which one cannot be entirely unaware of. Even if the Dreamers *succeed* in their ritual repression---even if they *actually forget* the reality of systemic racism---they must then forget this very act of forgetting, and so on.[^7](This appears to be the reason that true, psychological repression is both so taxing and so unstable. There is preserved a direct link between one's present activity and the repressed memory; this is why the memory threatens to come surging back into awareness at the slightest provocation. True forgetting may be possible, but only through the weakening of the will. Those things that we most want to forget, we never quite can.) The present activity is never quite hidden, and it in it, their knowledge is apparent. By engaging the Dreamers in rational discourse, one forces their will again into action. Even if it labors against the truth, *this itself* reveals the truth---this itself *is* a kind of recollection. One forces them to confront their sin by forcing them to *perform* it in discourse, in the manner of the Lord:
 
 >"If I had not come and spoken unto them, they would not have sin; but now they have no excuse for their sin" (John 15:22).
 
-For Kierkegaard, as for Socrates, rational discourse is *necessary* for moral reform. It is not sufficient, as no amount of reason can bring about a reversal of the will, but it is needed in order to *expose* the will as the driver of wrong action. It is necessary for the Christian's method of repentance, and---most interesting for our purposes---it is *prior* to it. Dialogue, for Kierkegaard, precedes any possibility of authentic accountability. [emph complete reversal of the Socratic]
+For Kierkegaard, as for Socrates, rational discourse is *necessary* for moral reform. It is not sufficient, as no amount of reason can bring about a reversal of the will, but it is needed in order to *expose* the will as the driver of wrong action. It is necessary for the Christian's method of repentance, and---most interesting for our purposes---it is *prior* to it. Whereas the Christian framework insisted on accountability as the necessary condition for true dialogue, Kierkegaard tells us that dialogue precedes any possibility of authentic accountability. It is the only means of calling another to attend to their will.
 
-**What does this mean for our purposes?** 
-- This interpretation allows us to accept the Christian *account* of racism, and the peculiar issue of shifting frameworks
-- means we can avoid the Socratic naivety that interprets the Dreamers' reasons overly charitably and ignores their shifting behavior
-- yet it also accepts the Socratic method, which has built into it a way of trapping one within the socratic framework; getting one to assent, and holding them to their belief. one does this without assuming that they *genuinely* hold this belief, but because this is the only way to force the Dreamers to confront their allegiance to convenience and non-belief.
-- this also does us the favor of making the method of reform agnostic about the underlying cause of the original wrong action
-- we need not speculate about the woman at the theater's intentions
-- best thing, I think, is that this enables us to engage in the socratic---in love---without the false and problematic expectation that we *can*convince anybody---that our enemies will love us back.
-- this belief is often what makes real love and real discourse hard.
-- places undue weight on poc to explain themselves and tolerate racists with patience (this may still be hard)
-- discourse as the struggle: Coates does it for himself
-- discourse as repentance: our own souls are still at stake. we save others by saving ourselves. by maintaining both frameworks at ones---in tension?---we avoid the ever present temptation to shift to the other for our *own* advantage.
-- discourse as embracing the paradox of faith
+What does this mean for our purposes? In some ways, it allows us to have our cake and eat it, with respect to the two frameworks. By accepting the Christian *account* of racism, which calls attention to the role of the will, I think we are more prepared to address the issue of shifting frameworks. We have a more mature explanation of the Dreamers' dreaming and are less likely to let them off the hook. Yet by accepting a modified form of the Socratic *method*, we refuse to let the Dreamers escape into the private world of their knowledge and intentions. Kierkegaard's method also has the benefit of being agnostic about the underlying causes of a particular set of wrong acts, since one proceeds with dialogue in either case. It is not a *practical* issue whether the ignorance of the woman at the theater is willful or not. If the will is involved, then it will rise to defy reason, and make itself known through this defiance. If it is *not* involved, then reason may actually accomplish something in the way of dispelling false beliefs.
 
-*fin*
+Yet the most appealing aspect of this synthesis, to me, is the way that the context of the Christian framework actually *changes* the practice of dialogue. Kierkegaard calls on us to engage with one another Socratically only *after* we have renounced the idea that our dialogue can actually save anyone. The Christian framework demands our humility; it demands that we recognize that changing another's mind is not within our power.
 
-
-
-It's important to note that Kierkegaard's method does not necessarily yield *Socratic knowledge* about one's sin state. As in the *Gorgias* Socrates never *convinces* Callicles that he is in untruth, but he continues to engage him in dialogue so as to make his active denial of truth *explicit*. Success here is not important; one does not need to convert the racist crowd. One engages in this way purely out of love (*eros*) [may need to define or set up earlier], as Socrates did. This is what it means to love your enemy: to [[Coates quote? might work]]
+It may sound pessimistic, yet this expectation is often what makes real dialogue (and real love) so hard. If one understands succesful dialogue only as that which ends in agreement, then one is constantly faced with failure, perhaps even taking the goading of the Dreamers to heart: "Don't you want me to understand?" "How will I learn if you don't explain this to me?" This is an unsustainable practice. It is why Kierkegaard argues that we can only act ethically by renouncing the world-historical fruits of our actions,[^8](See especially the [*Concluding Unscientific Postscript*](https://www.amazon.com/Concluding-Unscientific-Postscript-Philosophical-Kierkegaards/dp/0691020817).) and Coates seems to suggest the same:
 
 >History is not soley in our hands. And still you are called to struggle, not because it assures you victory but because it assures you an honorable and sane life (p.97).
 
-[new idea here: this method is agnostic about whether a given case of ignorance is willful or accidental. otherwise, repetitive.]
-In either case [[failed or successful reasoning]], this act *shows* the other their error, their sin. If their intention was involved in it (if they sinned), then they will not be able to accept this; racism (like sin) must obscure its own activity in order to properly (or improperly) operate. If their intention was not there---if their belief was truly unexamined---then they may be more open to it. But *in either case*, the key function of reasoning is to offer an *opportunity* to move towards accountability by exposing the function (or lack thereof) of the self/intention/knowledge in one's beliefs and actions.
+Success here is not important; one does not need to convert the racist crowd. Even in the *Gorgias*, Socrates never *convinces* Callicles that he is in untruth, yet Socrates continues to engage him in dialogue so as to demonstrate his active denial of the truth. Where does he find the strength to carry on in this way, banging his head against an unyielding wall? There is an almost unfathomable love at work here: the love of one's enemy that expects nothing in return.
 
->"If I had not come and spoken unto them, they would not have sin; but now they have no excuse for their sin" (John 15:22).
+We are not *obligated* to love in this way; indeed, no one has ever loved another through obligation. Yet it is also good to love. Kierkegaard never wants us to forget that our *own* souls are also at stake---that we too are in sin---and loving dialogue offers the lover a way to repent. Through it, one embraces the paradox of penance: first renouncing one's power to effect change through dialogue, then engaging in dialogue by virtue of the absurd.[^9](The paradox of penance, as embodied by the merman in [*Fear and Trembling*](https://www.amazon.com/Fear-Trembling-Repetition-Kierkegaards-Writings/dp/0691020264), is, of course, to be distinguished from the paradox of faith, as embodied by Abraham. In both cases, the will is split by the absurd---the simultaneous demands of renunciation and expectation---while unified into a singular action. Yet in the case of faith, this action transcends the ethical sphere: one relates, in silence, directly to God. In the case of penance, this action *fulfills* the ethical sphere: one relates, in dialogue, directly to others. Much fuss is made of Abraham's leap beyond the ethical, yet penance is the task laid at our feet.) True dialogue also functions to disclose one's own ignorance, just as true penance discloses one's own sin (and from the perspective of the synthetic framework we have just outlined, ignorance and sin are one and the same).
 
-Kierkegaard's synthesis basically accepts the Christian *account* of ignorance, wrong action, and racism, while appropriating the Socratic *method* to that framework.
+### The Solution
 
-To the extent that the Christian method (calling for repentance) is valid here, I believe it is, again, only so far as Kierkegaard understands it; that is, by repenting first oneself. To repent is to disclose one's sin publicly, to acknowledge the difficulty of waking up, of becoming vulnerable before the truth. And by disclosing oneself, we invite others to disclose themselves. [is this discourse? if so, need to say] For Kierkegaard, then, the Socratic method is fundamentally the best means of achieving the Christian solution, of bringing others to repent.
-[[tho in this context that cannot apply to people of color, who do not necessarily have to repent of the same thing]]
+One does not, then, *by one's own power*, reform the woman at the theater. One does not impede her as she slips from the Socratic to the Christian, even as one understands that this is a willful evasion, consistent with her decision to submit to the convenience of the Dream. The problem that she presents is not resolved by choosing the right words, for there are no words that will win her heart. One simply speaks. By means of love, one discloses oneself in dialogue; by disclosing oneself, one invites her to do the same.
 
->"If I had not come and spoken unto them, they would not have sin; but now they have no excuse for their sin" (John 15:22).
-
-------------
+-----------------
 
 ### Sources
 
-- Plato, [The Gorgias](http://www.gutenberg.org/files/1672/1672-h/1672-h.htm)
-- Augustine, [On Grace and Free Will](http://www.newadvent.org/fathers/1510.htm)
-- Kierkegaard, Philosophical Fragments
-- Kierkegaard, The Sickness Unto Death
-- [Further Augustine](http://www.ellopos.net/elpenor/greeks-us/augustine_plato-socrates.asp?pg=2)
-- [Aquinus](http://www.todayscatholicworld.com/willful-ignorance.htm)
-
-www.cracked.com/personal-experiences-1446-5-things-i-learned-as-neo-nazi.html
+- Augustine, [*On Grace and Free Will*](http://www.newadvent.org/fathers/1510.htm)
+- Coates, [*Between the World and Me*](https://www.amazon.com/Between-World-Me-Ta-Nehisi-Coates/dp/0812993543)
+- Kierkegaard, [*Philosophical Fragments*](https://www.amazon.com/Philosophical-Fragments-Johannes-Climacus-Kierkegaards/dp/0691020361)
+- Plato, [*The Gorgias*](http://www.gutenberg.org/files/1672/1672-h/1672-h.htm)
+- The Gospel of John, as found in the [*Jubilee Bible*](http://biblehub.com/jub/john/15.htm)
