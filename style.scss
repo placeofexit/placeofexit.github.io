@@ -106,6 +106,21 @@ strong, b {
   font-weight: bold;
 }
 
+sub, sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+
+sup {
+  top: -0.5em;
+}
+
+sub {
+  bottom: -0.25em;
+}
+
 img {
   max-width: 100%;
 }
