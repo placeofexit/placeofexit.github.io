@@ -1,14 +1,15 @@
 ---
 layout: post
-published: true
-title: Socrates vs Sin
+title: 'Socrates vs Sin: Ta-Nehisi Coates on the Role of Knowledge in Systemic Racism'
+author: Pablo Travieso
 date: '2016-10-27'
-author: Paulos Diametros
+permalink: socrates-vs-sin
+published: true
 ---
 
 ### Background
 
-There is an ancient dilemma in ethical philosophy which has persisted to this day, and wormed its way into the language and politics of American racism. It can be characterized as the result of two competing and deeply-ingrained interpretive frameworks, corresponding more or less to the Socratic and Christian understandings of *wrong action*:
+There is a fundamental interpretive dilemma in ancient ethics, which has persisted to this day. It can be characterized as the result of two competing and deeply-ingrained interpretive frameworks, corresponding more or less to the Socratic and Christian understandings of *wrong action*:
 
 ------------
 
@@ -26,13 +27,13 @@ This framework emphasizes **accountability** as the means of moral reform; it ca
 
 This is, of course, a simple summary of two very long and convoluted traditions. More can be (and has been) said on either side, but for the sake of expediency, I invite you to consider them as laid out.
 
-In their barest form, these ethical frameworks are *incompatible* with one another, set apart by a fundamental disagreement on the role of knowledge in wrong action. One cannot endorse them both at once, and---going by the principle of non-contradiction---neither can one employ their dictates simultaneously. One might use each of them *in turn* to address a single situation, but at some point one must make the transition, from reasoning to accountability or vice versa.  
+In their barest form, these ethical frameworks are *incompatible* with one another, set apart by a fundamental disagreement on the role of knowledge in wrong action. One cannot endorse them both at once, and---going by the principle of non-contradiction---neither can one employ their dictates simultaneously. One might use each of them *in turn* to make sense of a single situation, but at some point one must make the transition, from reasoning to accountability or vice versa.  
 
-So how do we choose which framework to adopt? We cannot even *ask* which is "better" without accepting some rules for determining value, thereby committing ourselves to a prior interpretive scheme. We are always already occupying one or the other. Without recourse to an impartial frame of negotiation, and with each framework (naturally enough) interpreting itself more favorably than the other, their disagreement seems *intractable.* So rather weigh them against each other, I want to examine the dynamic that they create and how it affects our concrete attempts to address injustice.
+So how do we choose which framework to adopt? We cannot even *ask* which is "better" without accepting some rules for determining value, thereby committing ourselves to a prior interpretive scheme. We are always already occupying one or the other. Without recourse to an impartial frame of negotiation, and with each framework (naturally enough) interpreting itself more favorably than the other, their disagreement seems *intractable*. So rather than weigh them against each other, I want to examine the dynamic that they create and how it affects our concrete attempts to address injustice.
 
 ### The Problem
 
-To do this, I will be considering contemporary American racism through the eyes of Ta-Nehisi Coates, as a particularly egregious case of injustice.
+To do this, I will be considering American racism through the eyes of Ta-Nehisi Coates, as a particularly egregious case of injustice.
 
 We can already find the dynamic of the Socratic and Christian frameworks underlying many of Coates's concerns in *Between the World and Me*. Are racists aware of their racism as such? Do they permit and perpetuate racial injustice because they have self-consciously embraced it? Or are they simply ignorant? Yet I would like to focus on just one of Coates's stories, which takes up this issue in a very self-conscious way.
 
@@ -48,7 +49,7 @@ This pattern is a general one, though it seems especially common in racially-cha
 
 In response to the Socratic, the Christian claims innocence: "I'm not racist." It response to the Christian, the Socratic claims *ignorance*: "*that's* not racist." Coates does not give a concrete example of this latter dynamic, but we see it frequently enough in the real world. One can think of various convenient cases of color-blindness, and how they function to derail demands for accountability. The Socratic undermines the Christian by claiming that "this is not a race issue," that the *real* issue is something else: black-on-black crime, or perhaps "freedom of speech."
 
-The potential for wrongdoers to shift and slide between frameworks at will, so as to elude the moral friction of each in turn, presents a real problem for the possibility of moral reform. Is there a way to address injustice without finding ones efforts subverted in this way? Each framework has its own answer, which I would now like to present as formulated in the context of American racism, and specifically in response to Coates's problem of the woman at the theater.
+The potential for wrongdoers to shift and slide between frameworks at will, so as to elude the moral friction of each in turn, presents a real problem for the possibility of moral reform. Is there a way to address injustice without finding ones efforts subverted in this way? Each framework has its own answer, which I would now like to present, both in its own right and in response to Coates's problem of the woman at the theater.
 
 ### In Favor of the Socratic
 
