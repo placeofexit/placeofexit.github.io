@@ -3,7 +3,6 @@ layout: post
 title: A Proper Pathology of Loneliness
 author: Cassius Galenus
 date: '2016-08-07'
-permalink: loneliness
 published: true
 ---
 

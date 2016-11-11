@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'Socrates vs Sin: Ta-Nehisi Coates on the Role of Knowledge in Systemic Racism'
+title: Socrates vs Sin
+subtitle: Ta-Nehisi Coates on the Role of Knowledge in Systemic Racism
 author: Pablo Travieso
 date: '2016-10-27'
-permalink: socrates-vs-sin
 published: true
 ---
 
