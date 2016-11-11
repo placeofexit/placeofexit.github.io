@@ -7,23 +7,23 @@ date: '2016-10-27'
 published: true
 ---
 
-### Background
+### Background 
 
 There is a fundamental interpretive dilemma in ancient ethics, which has persisted to this day. It can be characterized as the result of two competing and deeply-ingrained interpretive frameworks, corresponding more or less to the Socratic and Christian understandings of *wrong action*:
 
-------------
+#### Socrates 
 
-#### Socrates
 No person *knowingly* does wrong; true knowledge that something is wrong precludes any interest in it. All wrong actions are fundamentally failures of *reason* (errors or mistakes), which stem from a basic *ignorance* of the good.
 
 This framework emphasizes **reasoning** as the means of moral reform; it calls on the wrongdoer to **examine** their error.
 
-#### Christianity
+#### Christianity 
+
 We are all in sin, and sinning is a matter of *knowingly doing wrong*, or else failing to do what one knows to be right. All wrong actions are fundamentally failures of the *will* (decisions or indecisions), which stem from a deliberate *rejection* of the good.
 
 This framework emphasizes **accountability** as the means of moral reform; it calls on the wrongdoer to **repent**. <!--more-->
 
---------------
+---------
 
 This is, of course, a simple summary of two very long and convoluted traditions. More can be (and has been) said on either side, but for the sake of expediency, I invite you to consider them as laid out.
 
@@ -31,7 +31,7 @@ In their barest form, these ethical frameworks are *incompatible* with one anoth
 
 So how do we choose which framework to adopt? We cannot even *ask* which is "better" without accepting some rules for determining value, thereby committing ourselves to a prior interpretive scheme. We are always already occupying one or the other. Without recourse to an impartial frame of negotiation, and with each framework (naturally enough) interpreting itself more favorably than the other, their disagreement seems *intractable*. So rather than weigh them against each other, I want to examine the dynamic that they create and how it affects our concrete attempts to address injustice.
 
-### The Problem
+### The Problem 
 
 To do this, I will be considering American racism through the eyes of Ta-Nehisi Coates, as a particularly egregious case of injustice.
 
@@ -51,7 +51,7 @@ In response to the Socratic, the Christian claims innocence: "I'm not racist." I
 
 The potential for wrongdoers to shift and slide between frameworks at will, so as to elude the moral friction of each in turn, presents a real problem for the possibility of moral reform. Is there a way to address injustice without finding ones efforts subverted in this way? Each framework has its own answer, which I would now like to present, both in its own right and in response to Coates's problem of the woman at the theater.
 
-### In Favor of the Socratic
+### In Favor of the Socratic 
 
 The answer given by the Socratic framework is, I would say, the more prominent position among politically-conscious young people today. On this view, the plausibility of the Christian framework---the idea that wrong acts are inherently bound up with knowledge or (what amounts to the same) intention---is the only reason one can say "I'm not racist" with any kind of authority. By locating the criterion for injustice in the heart of the perpetrator, the Christian framework actually grants wrongdoers *privileged access* to their own moral standing. Without an omniscient God to peer into their souls, this move subjects any claims against wrongdoers to an unreasonable and, frankly, insurmountable doubt, since---as Coates warns his son---"there was no golden era when evildoers did their business and loudly proclaimed it as such" (p.98). Once evil becomes internal---a *character trait* associated with the likes of orcs and gorgons---then it becomes plausibly deniable.
 
@@ -75,7 +75,7 @@ In the *Gorgias*, Socrates argues that this would not be a rational response, si
 
 It is *this* that must be challenged; the rest will follow. And critical to challenging it is recognizing it for what it is---ignorance, a set of false beliefs---and doing away with the misleading and unproductive notion of a deeper intention or malice.
 
-### In Favor of the Christian
+### In Favor of the Christian 
 
 We have just characterized the Christian framework as naive in the face of history, hoping against all precedent that evildoers might acknowledge their evil. Yet the Christian similarly regards the Socratic as naive, but with respect to human nature. "Of course evildoers have never *proclaimed* themselves as such," it admits, "but this does not mean that they have not understood (or, at least, willfully *mis*understood) the nature of their actions."
 
@@ -107,7 +107,7 @@ So, prior to dialogue, the Christian framework calls on the Dreamers to *repent*
 
 While I think there is good reason to expect that a proper system of accountability will effect moral reform through general deterrence, there is something of a Catch-22 involved in setting one up. Such a system presuposes a public that is *willing* to hold people to count for their actions and is willing to acknowledge those actions *as* wrong. It depends, that is on a certain portion of the Dreamers waking up, and the Christian framework makes no promises here. There is always hope, to be sure, that a call to account might break through their charade and strike at their guilty hearts, but alas, there is only so much that one can do for another in matters of the will. One can present the Dreamers with a choice---in the form of a call to "wake up!"---but one cannot make that choice for them. At a certain point, one can only pray.
 
-### Synthesis
+### Synthesis 
 
 The careful reader may have already noticed a striking similarity between the Christian's limitted take on the possibility of moral reform and what the Socratic initially took issue with: the way that the interiority of intention grants wrongdoers near-impunity. Meanwhile, the Christian accuses the Socratic of *inviting* wrongdoers to slip across frameworks by blinding itself to the workings of the will---a blindness that the Socratic only ever adopted as an antidote to the politics of self-exoneration. So, one method of moral reform proves the bane of another. The Christian framework, in its extreme, reduces racism to a character trait, while at the extremity of the Socratic we have the myth of racism as a natural phenomenon.
 
@@ -135,13 +135,13 @@ Success here is not important; one does not need to convert the racist crowd. So
 
 We are not *obligated* to love in this way; indeed, no one has ever loved another through obligation. Yet it is good to love. Kierkegaard never wants us to forget that our *own* souls are also at stake---that we too are in sin---and loving dialogue offers the lover a way to repent. Through it, one embraces the paradox of penance: first renouncing one's power to effect change through dialogue, then engaging in dialogue by virtue of the absurd.[^10] True dialogue also functions to disclose one's own ignorance, just as true penance discloses one's own sin---and from the perspective of the synthetic framework we have just outlined, we should now see that these are one and the same.
 
-### The Solution
+### The Solution 
 
 One does not, then, *by one's own power*, reform the woman at the theater. One does not impede her as she slips from the Socratic to the Christian, even as one understands that this is a willful evasion, consistent with her decision to submit to the convenience of the Dream. The problem that she presents is not resolved by choosing the right words, for there are no words that will win her heart. One simply speaks. By means of love, one discloses oneself in dialogue; by disclosing oneself, one invites her to do the same.
 
 -----------------
 
-### Sources
+### Sources 
 
 - Augustine, [*On Grace and Free Will*](http://www.newadvent.org/fathers/1510.htm)
 - Coates, [*Between the World and Me*](https://www.amazon.com/Between-World-Me-Ta-Nehisi-Coates/dp/0812993543)
@@ -151,7 +151,7 @@ One does not, then, *by one's own power*, reform the woman at the theater. One d
 
 -----------------
 
-### Notes
+### Notes 
 
 [^1]: See [this article](https://www.thenation.com/article/effects-ignoring-systemic-racism/) for an explicite account of this agenda, and for a good example of the Socratic's popularity among a certain progressive readership. The Christian makes a brief appearance only in the last two sentences, which make an ethical *call* on the reader and emphasize activity of "ignoring" systemic racism over a passive state of "ignorance."
 
