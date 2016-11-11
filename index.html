@@ -3,28 +3,27 @@ layout: default
 ---
 
 <div class="posts">
-  {% for post in site.posts %}
+    {% for post in site.posts %}
     <article class="post">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">
-		      {{ post.title }}{% if post.subtitle %}:{% endif %}
-	      </a></h1>
+        <a href="{{ site.baseurl }}{{ post.url }}">
+            <h1>{{ post.title }}{% if post.subtitle %}:{% endif %}</h1>
+            {% if post.subtitle %}
+                <h2 class="subtitle">
+                    {{ post.subtitle }}
+                </h2>
+            {% endif %}
+        </a>
 
-        {% if post.subtitle %}
-		<h2 class="subtitle">
-			{{ post.subtitle }}
-		</h2>
-	{% endif %}
+        <div class="author">
+            by {{ post.author }}
+        </div>
 
-      <div class="author">
-        by {{ post.author }}
-      </div>
+        <div class="entry">
+            {{ post.excerpt }}
+        </div>
 
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
-  {% endfor %}
+    {% endfor %}
 </div>
