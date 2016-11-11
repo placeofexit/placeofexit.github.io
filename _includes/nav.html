@@ -1,0 +1,11 @@
+
+<nav>
+    <a href="{{ site.baseurl }}/">Blog</a>
+    {% for site_page in site.pages %}
+        {% if site_page.menu %}
+            <a href="{{ site_page.permalink | prepend: site.baseurl }}">
+                {{ site_page.title }}
+            </a>
+        {% endif %}
+    {% endfor %}
+</nav>
