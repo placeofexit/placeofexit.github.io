@@ -3,25 +3,61 @@ layout: default
 ---
 
 <article class="post">
-	<h1>{{ page.title }}{% if page.subtitle %}:{% endif %}</h1>
+    <h1>{{ page.title }}{% if page.subtitle %}:{% endif %}</h1>
 
-	{% if page.subtitle %}
-		<h2 class="subtitle">
-			{{ page.subtitle }}
-		</h2>
-	{% endif %}
+    {% if page.subtitle %}
+    <h2 class="subtitle">
+        {{ page.subtitle }}
+    </h2>
+    {% endif %}
 
-	<div class="author">
-		by {{ page.author }}
-	</div>
+    <div class="author">
+        by {{ page.author }}
+    </div>
 
-	<div class="entry">
-		{{ content }}
-	</div>
+    <div class="entry">
+        {{ content }}
+    </div>
 
-	<div class="date">
-		Written on {{ page.date | date: "%B %e, %Y" }}
-	</div>
+    <div class="date">
+        Written on {{ page.date | date: "%B %e, %Y" }}
+    </div>
 
-	{% include disqus.html %}
+    <h2>Comments</h2>
+
+<!--
+    <script id="echochamber">
+        var EchoChamber = window.EchoChamber || {};
+        (function() {
+            EchoChamber.discussionURL = window.location;
+            var script = document.createElement('script');
+            script.src = 'https://s3.amazonaws.com/echochamberjs/dist/main.js';
+            script.async = true;
+            var entry = document.getElementById('echochamber');
+            entry.parentNode.insertBefore(script, entry);
+        })();
+    </script>
+-->
+
+    {% if page.comments %}
+        {% assign sorted_comments = page.comments | sort: "date" | reverse %}
+        {% for comment in sorted_comments %}
+            {% if comment.published %}
+                <article>
+                    <h3>{{ comment.author }}</h3>
+
+                    <div class="date">
+                        Written on {{ comment.date | date: "%B %e, %Y" }}
+                    </div>
+
+                    <div class="comment">
+                        {{ comment.body | markdownify }}
+                    </div>
+                </article>
+            {% endif %}
+        {% endfor %}
+    {% else %}
+        No comments.
+    {% endif %}
+
 </article>
