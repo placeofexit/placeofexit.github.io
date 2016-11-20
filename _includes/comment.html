@@ -1,9 +1,15 @@
-<article>
+<article style="margin-left: {{ include.indent }}px">
     <h3>{{ include.comment.author }}</h3>
 
     <div class="date">
         Posted on {{ include.comment.date | date: "%-m/%d/%y" }}
     </div>
+
+    {% if include.is_reply %}
+        <div class="reply-to">
+            @{{ include.reply_to | slugify }}
+        </div>
+    {% endif %}
 
     <div class="comment">
         {{ include.comment.body | markdownify }}
@@ -14,7 +20,10 @@
     {% assign sorted_replies = include.comment.replies | sort: "date" %}
     {% for reply in sorted_replies %}
         {% if reply.published %}
-            {% include comment.html comment=reply %}
+            {% if include.indent < 100 %}
+                {% assign indent = include.indent | plus: 50 %}
+            {% endif %}
+            {% include comment.html comment=reply indent=indent is_reply=true reply_to=include.comment.author %}
         {% endif %}
     {% endfor %}
 {% endif %}

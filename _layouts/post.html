@@ -43,7 +43,7 @@ layout: default
         {% assign sorted_comments = page.comments | sort: "date" | reverse %}
         {% for comment in sorted_comments %}
             {% if comment.published %}
-                {% include comment.html comment=comment %}
+                {% include comment.html comment=comment indent=0 %}
                 {% assign published_comment = true %}
             {% endif %}
         {% endfor %}
