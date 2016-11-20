@@ -1,0 +1,20 @@
+<article>
+    <h3>{{ include.comment.author }}</h3>
+
+    <div class="date">
+        Posted on {{ include.comment.date | date: "%-m/%d/%y" }}
+    </div>
+
+    <div class="comment">
+        {{ include.comment.body | markdownify }}
+    </div>
+</article>
+
+{% if include.comment.replies %}
+    {% assign sorted_replies = include.comment.replies | sort: "date" %}
+    {% for reply in sorted_replies %}
+        {% if reply.published %}
+            {% include comment.html comment=reply %}
+        {% endif %}
+    {% endfor %}
+{% endif %}

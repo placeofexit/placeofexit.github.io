@@ -43,21 +43,13 @@ layout: default
         {% assign sorted_comments = page.comments | sort: "date" | reverse %}
         {% for comment in sorted_comments %}
             {% if comment.published %}
-                <article>
-                    <h3>{{ comment.author }}</h3>
-
-                    <div class="date">
-                        Written on {{ comment.date | date: "%B %e, %Y" }}
-                    </div>
-
-                    <div class="comment">
-                        {{ comment.body | markdownify }}
-                    </div>
-                </article>
+                {% include comment.html comment=comment %}
+                {% assign published_comment = true %}
             {% endif %}
         {% endfor %}
-    {% else %}
-        No comments.
     {% endif %}
+    {% unless published_comment %}
+        No comments yet.
+    {% endunless %}
 
 </article>
