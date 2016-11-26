@@ -8,6 +8,8 @@ published: true
 
 When loneliness arises, one should observe its cause: not a lack of company, but a sense of deficiency in one’s self: an unwillingness to be with oneself. It is true that this deficiency often compels the lonely person towards externals, such as the company that appears to be absent (though this is only the best-case scenario). Yet this simply reveals that one's self has established itself on externals, for only by so founding itself can its own deficiency, in solitude, manifest as an external need. <!--more-->
 
+## Underlying Causes
+
 The most common diagnosis for those suffering from loneliness is that the self has become "insecure," and the most common prescription is to *secure* it through the practice of self-esteem. This esteem is *self*-esteem in the sense that it is both *for* the self and *from* the self. Since esteem for (and from) externalities lacks this dialectical quality, the popular practice of self-esteem prioritizes the *internal*. It seeks to re-establish the self there, viewing the internal as the root of security, confidence, and self-love.
 
 This common view only gets half of the picture. It recognizes that nothing external could possibly suffice for a deficiency in one's self. Yet it goes too far in assuming the opposite: that there is something (the internal) which the self *can* found itself upon and, so doing, become *self-sufficient*. Without this roundabout (yet commonly accepted) form of reasoning, the injunction to "look within" would, naturally enough, be met by confusion: "within what?" Indeed, the common view does not have an answer, but through the urgency of loneliness it trivializes the question in favor of a more pressing task: getting a glimpse inside.
@@ -24,7 +26,7 @@ This is the proper cure, though admittedly it cures a sickness that the lonely p
 
 This lack is called the Hollow Healer---and the proper prescription for loneliness is to embrace this lack. Of course, *embracing* a *lack* is no easy task, and for the very sick (often those who have been misdiagnosed, who may have spent years on a regimen of self-esteem) this practice may feel slippery and obscure.
 
-### Recommended Treatments
+## Recommended Treatments
 
 To help, I have compiled a list of concrete (if roundabout) ways of letting the Healer do its work. Depending on the patient and their particular disposition, one or several of the following may be prescribed:
 
