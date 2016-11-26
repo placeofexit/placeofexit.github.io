@@ -46,22 +46,26 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 30px;
-  a {
-    color: inherit;
-  }
 }
 
 h2 {
   font-size: 24px;
 }
 
+.post-title {
+  font-size: 30px;
+  line-height: 1.2;
+  a {
+    color: inherit;
+  }
+}
+
 .subtitle {
-//font-size: 22px;
+  display: block;
+  font-size: 24px;
   font-weight: 500;
   font-style: italic;
   line-height: 1.2;
-  margin: -15px 0 15px;
-//padding-right: 10%;
 }
 
 h3 {
@@ -223,6 +227,9 @@ img {
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
+  a {
+    color: inherit;
+  }
 }
 
 .site-description {
