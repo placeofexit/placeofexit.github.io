@@ -1,15 +1,17 @@
 <article style="margin-left: {{ include.indent }}px">
-    <h3>{{ include.comment.author }}</h3>
+    <header>
+        <h3>{{ include.comment.author }}</h3>
 
-    <div class="date">
-        Posted on {{ include.comment.date | date: "%-m/%d/%y" }}
-    </div>
-
-    {% if include.is_reply %}
-        <div class="reply-to">
-            @{{ include.reply_to | slugify }}
+        <div class="date">
+            Posted on {{ include.comment.date | date: "%-m/%d/%y" }}
         </div>
-    {% endif %}
+
+        {% if include.is_reply %}
+            <div class="reply-to">
+                @{{ include.reply_to | slugify }}
+            </div>
+        {% endif %}
+    </header>
 
     <div class="comment">
         {{ include.comment.body | markdownify }}
