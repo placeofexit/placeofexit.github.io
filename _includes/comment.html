@@ -1,4 +1,4 @@
-<article class="comment" style="margin-left: {{ include.indent }}px">
+<article class="comment" style="margin-left: {{ include.indent }}%">
     <header class="comment-meta">
         <h3>{{ include.comment.author }}</h3>
 
@@ -23,8 +23,8 @@
     {% assign sorted_replies = include.comment.replies | sort: "date" %}
     {% for reply in sorted_replies %}
         {% if reply.published %}
-            {% if include.indent < 100 %}
-                {% assign indent = include.indent | plus: 50 %}
+            {% if include.indent < 40 %}
+                {% assign indent = include.indent | plus: 8 %}
             {% endif %}
             {% include comment.html comment=reply indent=indent is_reply=true reply_to=include.comment.author %}
         {% endif %}
