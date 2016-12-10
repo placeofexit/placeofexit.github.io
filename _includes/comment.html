@@ -1,9 +1,10 @@
-<article style="margin-left: {{ include.indent }}px">
-    <header>
+<article class="comment" style="margin-left: {{ include.indent }}px">
+    <header class="comment-meta">
         <h3>{{ include.comment.author }}</h3>
 
         <div class="date">
-            Posted on {{ include.comment.date | date: "%-m/%d/%y" }}
+            Posted on{% if include.is_reply %}<br>{% else %} {% endif %}
+            {{ include.comment.date | date: "%-m/%d/%y" }}
         </div>
 
         {% if include.is_reply %}
@@ -13,7 +14,7 @@
         {% endif %}
     </header>
 
-    <div class="comment">
+    <div class="comment-body">
         {{ include.comment.body | markdownify }}
     </div>
 </article>

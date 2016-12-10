@@ -315,6 +315,46 @@ footer {
   text-align: center;
 }
 
+//
+// .comment
+//
+
+#comments-heading {
+    border-bottom: 3px solid;
+}
+.comment {
+    margin-bottom: 0.8em;
+    border-bottom: 1px solid $lightGray;
+}
+.comment-meta {
+    position: relative;
+//  border-top: 1px solid $lightGray;
+//  border-bottom: 1px solid $lightGray;
+    h3 {
+        display: inline;
+        font-weight: 500;
+    }
+    .reply-to {
+        margin-top: -0.35em;
+        margin-left: 0.8em;
+        color: $gray;
+        font-size: smaller;
+        font-style: italic;
+    }
+    .date {
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        font-size: smaller;
+        line-height: 1;
+        text-align: right;
+    }
+}
+
+.comment-body {
+    margin-left: 0.8em;
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
