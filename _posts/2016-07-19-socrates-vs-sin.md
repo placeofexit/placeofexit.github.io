@@ -7,6 +7,155 @@ date: '2016-10-27'
 published: true
 excerpt: |
   There is a fundamental interpretive dilemma in ancient ethics, which has persisted to this day. It can be characterized as the result of two competing and deeply-ingrained interpretive frameworks, corresponding more or less to the Socratic and Christian understandings of *wrong action*.
+comments:
+  -
+    author: X. X. (scholar: what the traditions mean by "knowledge")
+    date: '2016-10-29'
+    published: false
+    body: |
+      Socrates: Knowledge as a pure ideal of reason. Can do what one thinks or believes to be wrong, even if these beliefs turn out to be true or well-informed. Socrates is simply saying that, in doing what was actually wrong, one demonstrates that one didn’t fully grasp its wrongness and implications. If one truly knew that one’s actions were wrong, one would not do them. But few of us have ever had this kind of knowledge / certainty. This knowledge is not a simple matter of a mental declaration that “this is wrong;” it is a matter of being able to give reasons for why it is wrong, having fully understood its implications, and thus having a fully ordered, harmonious soul, such that all of one’s knowledge can be simultaneously affirmed without contradiction. If interrogated by Socrates, a person with this kind of knowledge would be able to give an account of themselves without stumbling into *aporia*.
+      
+      Christianity: The knowledge required for sin is not necessarily self-conscious; it is simply a matter of being before God. Sin is a deliberate rejection of God’s love and assertion of oneself apart from and against God. It can be committed unknowingly at the time; original sin happened before we were born. One does not need to be able to articulate one’s reasons for acting in order to be caught in sin. One need not even need to have the the mental declaration “I do this before God” in order to sin---what is important is that one is *actually* sinning before God, but one might not be able to articulate this. As such, this is the kind of forgotten knowledge that has not yet been brought out by Socrates---it is buried or implicit---and so it could not be the same as “knowingly doing wrong” in the Socratic sense of knowledge.
+    replies:
+      -
+        author: Pablo Travieso
+        date: '2016-10-30'
+        published: false
+        body: |
+          Kierkegaard: in Philosophical Fragments, we see that the limits of reason [dialogue/dialectic] do indeed extend to articulating one’s state of sin. In fact, the best that a mere human can do for another is to use reason to bring them into an awareness of their sin (and Socrates is the best of all mere humans). It does seem that Kierkegaard believes that if one truly possesses this kind of Socratic knowledge, one will not commit further sins. However, it is not important for Kierkegaard that one’s prior sins have been committed deliberately and before God in order for sin to be performed knowingly. Kierkegaard evades this through what Anti-Climacus calls (in The Sickness Unto Death) the compounding of sin [quote]. Once one becomes aware (through Socrates or some other occasion) of one’s sin state---once one’s sins become fully real---then one is called to repent. The compounding of sin is just that every moment one fails to repent for one’s sins, one sins again---and this sin is compounded in full Socratic knowledge. Knowledge of one’s sin, while a condition for repenting, is not the same as repenting. Repenting is an act of the will---a grasping of the paradox of sin---and Socrates cannot repent on behalf of another. This is what Kierkegaard is primarily worried about, and what he think Socrates can’t account for: the possibility of not acting when one knows one should, even if one’s knowledge is not sufficient to specify the exact course of action. The longer one waits, the harder it is to act, and the more one continues to do wrong despite knowing that waiting---failing to act, failing to repent, failing to be held accountable---is actually wrong.
+  -
+    author: X. X. (scholar: what the traditions mean by "wrong")
+    date: '2016-10-29'
+    published: false
+    body: |
+      Socrates: What Socrates means by “wrong” is very much conditioned by his (Plato’s) broader virtue ethic. It needs to be understood as part of his broader thesis that doing good is good for us and doing bad is bad for us. Not only does Socrates argue this is true, but he suggests that fully understanding this is a ground for acting ethically: one does good and avoids wrong _because_ this is in one’s own best interest. This fact often begets an (overly reductive) footnote: Socrates _really_ means that no one knowingly does what is wrong _for them_. Besides the triviality of this claim, it implies far more ethical relativism than Plato would allow. What is wrong for us is _identical to_ what is wrong per-say. Yet, usually, those doing what they believe to be wrong have not fully grasped this fact.
+      
+      Christianity: Sin is before god: the “wrongness” in one’s sin is not characterized by what is strictly bad for oneself but as a matter of one’s relationship to the absolute. Although it may or may not be articulable as an abstract set of rules, still the measure of wrongness is external (or relational). Kierkegaard does imply (in the closely related Concluding Unscientific Postscript) that Kant generally got ethics right---his Christian wrongness is more deontological than virtuous---even if the abstract moral imperatives that govern the “ethical sphere” are not absolute [[might be absolute, actually, even when God has us violate them. // Possible: people acting in faith are unable to give an account of their actions.]]
+      
+      These can perhaps be roughly summed up as the difference between a disharmony within one’s own soul and a disharmony in the relation of one’s soul to God. This distinction is also often framed as that between good/bad and good/evil.
+    replies:
+      -
+        author: Pablo Travieso
+        date: '2016-10-30'
+        published: false
+        body: |
+          Kierkegaard again takes care to bring these traditions into direct dialogue. He takes a roughly Augustinian approach, showing that a life of sin is in fact despair. It is true that the penitent or even the knight of faith is not necessarily a virtuous individual. And importantly, they do not do avoid wrong because it is bad for them. They avoid wrong because it is wrong. Yet it is still the case that doing wrong and existing in sin is a kind of despair [although knowledge of one’s sin (and thus repentance) is also a kind of despair]. __And, most importantly, Kierkegaard (in Sickness Unto Death [very complicated, do research]) argues that, because our soul is constituted as a relationship to the divine---in fact our relationship to God is what we are, since God is eternity/being---that there is no actual difference between a disharmony of our soul and a disharmony in our soul’s relation to God.__
+  -
+    author: X.X. (academic, enactive approach to mind)
+    date: '2016-11-01'
+    published: false
+    body: |
+      Evan Thompson, or somebody, names these kinds of knowledge or thought: conceptual normativity and something...one being discursive, but both being conceptual, both involving an understanding of rules, difference, privilege, etc. The same knowledge involved in playing football as in pulling rank, playing in the field of systemic racism.
+  -
+    author: X. X.
+    date: '2016-11-05'
+    published: false
+    body: |
+      [If I seem to be mostly favoring the Xtian, even in turn to Kierkegaard.] I'd like to field a rebuttal from the Socratic position: 
+      
+      All of this seems to be known, by Socratic lights. However, there is one crucial point that white Americans do _not_ know Socratically: that this whole structure of white supremacy is bad _for whites_. It seems apparent enough that---if this were understood---white people would *not* take advantage of their priviledge, because doing so actually harms them overall...
+      
+      This point depends upon a theoretical argument that cribs the form of Plato's argument in the *Republic* that it is better to suffer under tyranny than to be a tyrant; that it is better to be oppressed than to be an oppressor. Coates, interestingly enough, expresses this sentiment to his son....
+      
+      The Socratic line of thinking, then, would offer this solution to the problem: to teach white America that white supremacy is *not* in their own self interest---that it benefits nobody more than a system of egalitarianism, that it functions as an elitist tool to divide the lower class against itself. The primary remedies in this framework are education and economic equality--systematic reforms.
+      
+      Socrates' argument that to be oppressed is better than to oppress runs like this:
+      
+      - To oppress is more shameful
+        - what is more shameful must be so either by virtue of being more painful or harmful [*kakon*]
+        - oppressing is less painful than being oppressed
+        - therefore, oppressing is more harmful (less beneficial) than to be oppressed
+      - We prefer a lesser harm to a greater harm
+        - *regardless of pain*: the association of preference with benefit is almost tautological
+        - ex: pre-anesthetic cultures practiced amputation, which despite excruciating pain does benefit a person's body
+      - So we will prefer to be oppressed than to oppress
+    replies:
+      -
+        author: Anonymous
+        date: '2016-11-10'
+        published: false
+        body: |
+          I fear that in the Socratic approach there lurks and infinite regress, as it is the cultural elite that both controls this knowledge (can formulate it into argument and transmit it) *and* (as often happens) provides the misinformation. In order to teach the lower [[labor]] class that white supremacy is not in their best interest, the elite must first understand that it is not in *their* best interest to divide the lower class against themselves. Who will teach them this? [[or not, just where do we start to educate? (interesting alt version of meno's paradox)]] Unfortunately Socrates is long dead, and Meno's paradox survives him. The knowledge required here is truly Socratic in the sense of nearly unattainable, semi-divine understanding that regresses towards fundamental principles.
+      -
+        author: Pablo Travieso
+        date: '2016-11-06'
+        published: false
+        body: |
+          This seems to hold up *only* if society at large has a reasonable sense of shame---that is, only if they feel shame for doing what is unjust.
+          
+          My worry with this is that, in the case of a systematic injustice like that presented by American racism, shame doesn't get traction. It is *not* clearly shameful in American now for one to expound white supremacy (although it should be). People who do this are hailed as speaking truth to power, "telling it like it is," and then get nominated for president.
+          
+          Socrates did not face a situation like this, where *even though* racism harms whites *qua* Americans as a whole, it does not harm whites *qua* whites: it benefits them, offers them positions of prestige and power within their own circles, within many of the most normative institutions.
+          
+          Pain and harm (the Socratic roots of shame) are agent-relative, and here question of whether oppressing is more harmful than being oppressed is not clear: it is more harmful from the standpoint of a broader society. And it is supremey beneficial from the standpoint of the oppressor. For the individual, it simply depends which of these she identifies with: if she identifies as white before she identifies as American (and, intrinsic to this, is well embedded with others who identify the same way, who support this identity) then she will likely benefit greatly from endorcing white supremacy; she will be elevated politically, financially, and socially, securing her priviledge and those of her children.
+          
+          if my assessment is accurate that white supremacy is quickly becoming less shameful among white Americans (although it has never been truly shameful), then how is anti-racist progress possible? (I am committed, along with Coates, that we need to *believe* it is possible; we need to take up the struggle for its own sake [[is that the same thing?]].) But where do we start; where can white America find a toehold to pull itself up and out of its own filth? [[eh, maybe cut whole pp]]
+  -
+    author: X. X.
+    date: '2016-11-03'
+    published: false
+    body: |
+      It seems that you're talking about two different kinds of knowledge or intention involved in racism: 1) the kind involved in microaggressions, which we see in the theater woman 'pulling rank,' and 2) the kind involved in not examining one's views, not being open to reason, a kind of deliberate forgetting.
+    replies:
+      -
+        author: Pablo Travieso
+        date: '2016-11-03'
+        published: false
+        body: |
+          However, these two kinds of intention, though manifesting very differently, are intimately intertwined, namely that the first one (involved in discrete cases of racism) is a derivation of the second (involved in systematic racism). The knowledge with which one adopts racist beliefs---not because one regards them as *true*, but because one finds them conveniently appealing---is the one most analogous to a sin *state*: a refusal of love/reason and a turn towards untruth. It is precisely through this knowledge that one comes to endorse (again, not as true, as their truth is incidental to their appeal) racist beliefs.
+          
+          This leads into the prior knowledge you outlined, in that one's actions are conditioned by one's beliefs. The woman in the theater could pull rank only because she *believed* that she had a rank to pull and would be justified in doing so (in the Upper West Side; in white territory). This knowledge is most analogous to that involved in the commitment of *individual sins*---but indeed, the *content* of this knowledge is the same as the prior one: that one has turned away from love, is actively rejecting the truth. When that woman pushed Coates's son, she knew "what I'm doing is wrong" precisely because she did not care whether it was right; precisely because she had already rejected truth and love as the basis for her beliefs and (thereby) actions.
+          
+          It is the Socratic view that to believe something is to believe it *to be true*, but this is not endorsed by the Christian view, and indeed, does not seem to play out on the stage of American racism. To believe something is to *choose* to believe it, and nobody knows the reasons for this choice more than the believer herself.
+  -
+    author: X. X.
+    date: '2016-11-16'
+    published: false
+    body: |
+      I worry that the kind of accountability you're advocating---leaning on the Christian reading of wrongdoing---is counterproductive, and that trying to distinguish act and actor *within* that tradition will go nowhere. That tradition is the main *reason* that we so readily confuse act and actor; a sinner *can* be properly defined by a single act: the original sin. The rest of their acts---indeed, the moral importance of acts *in general*---become subordinated to this fact, and suddenly salvation through atonement and self-improvement becomes impossible. Kierkegaard may push us away from dwelling on our sins of the past but *only through threat of future sin*. Our salvation *qua individuals* is still central to this ethic. A genuine framework of accountability in the landscape of American racism should push us away from the salvation of individuals, as that is exactly what Coates points out is the problem in bringing white people to understand their role in systematic racism.
+  -
+    author: X. X. (the physician, or political agitator)
+    date: '2016-11-23'
+    published: false
+    body: |
+      [roughly] why can’t we just do both? these are theoretically opposed, but practically? isn’t that exactly the approach of BLM to demand both accountability and structural change?
+    replies:
+      -
+        author: Pablo Travieso
+        date: '2016-11-26'
+        published: false
+        body: |
+          we can do both. but the difference is still important for how we _understand_ (and thereby _explain_ and *justify*) our actions, whether in the area of accountability or structural change. are the failures of police accountability due to the beliefs and preconceptions held by the police officers? or are they due to the structurally-defined _interests_ of the officers (and their institution.) does the resistance we see to police reform arise because officers genuinely believe that the current structure is ideal---that reform would put them in danger or hamper their ability to do their job? or does it arise because the current structure _benifits_ those involved in ways that the reformed structure would not?
+          
+          this has real effects on the solutions we propose: education and training programs for police, vs. increased presence of local community members and people of color in the force...ousting white supremacists...
+          
+          ####Problems here
+          
+          1. Genuine belief vs _actual_ (but not necessarily intentional) interest is not necessarily the distinction I'm going for. I think the latter is uncontroversially an operator in this stuff, and its important for the middle line I'm trying to toe. The SvS distinction is more genuine false belief vs malicious intent...one can benefit from a system (and act to preserve that benefit) without conscious intent.
+          2. Does this further difference in understanding actually lead to a difference in course of action though? Can one not advocate both police training _and_ increased representation in the force?
+          Tentative solution: it's not about the policies or points made, it's about the reasons used and the ways they are articulated and championed.
+  -
+    author: X. X. (political, young, non-academic)
+    date: '2016-11-10'
+    published: false
+    body: |
+      Think it is important to mention that this whole problem of how to dismantle white supremacy, whether by the Christian or the Socratic means, is fundamentally a white problem. ...
+      
+      It's interesting that Coates considers it at all...
+    replies:
+      -
+        author: Pablo Travieso
+        date: '2016-11-12'
+        published: false
+        body: |
+          [[Pointing out the important conditional about love: that it is no moral obligation.]]
+        replies:
+          -
+            author: X. X.
+            date: '2016-11-13'
+            published: false
+            body: |
+              But practicing love *is* a moral obligation *for white people*.
 ---
 
 ## Background
