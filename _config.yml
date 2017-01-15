@@ -23,11 +23,14 @@ google_analytics:
 url: "http://www.placeofexit.com"
 baseurl: ""
 
-excerpt_separator: <!--more-->
+defaults:
+  - scope:
+        path: "_posts"
+    values:
+        layout: "post"
+        published: "false"
 
-#
-# !! You don't need to change any of the configuration flags below !!
-#
+excerpt_separator: <!--more-->
 
 permalink: /:title/
 

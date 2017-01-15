@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Socrates vs Sin
 subtitle: Ta-Nehisi Coates on the Role of Knowledge in Systemic Racism
 author: Pablo Travieso
@@ -9,7 +8,7 @@ excerpt: |
   There is a fundamental interpretive dilemma in ancient ethics, which has persisted to this day. It can be characterized as the result of two competing and deeply-ingrained interpretive frameworks, corresponding more or less to the Socratic and Christian understandings of *wrong action*.
 comments:
   -
-    author: X. X. (scholar: what the traditions mean by "knowledge")
+    author: 'X. X. (scholar: what the traditions mean by "knowledge")'
     date: '2016-10-29'
     published: false
     body: |
@@ -24,7 +23,7 @@ comments:
         body: |
           Kierkegaard: in Philosophical Fragments, we see that the limits of reason [dialogue/dialectic] do indeed extend to articulating one’s state of sin. In fact, the best that a mere human can do for another is to use reason to bring them into an awareness of their sin (and Socrates is the best of all mere humans). It does seem that Kierkegaard believes that if one truly possesses this kind of Socratic knowledge, one will not commit further sins. However, it is not important for Kierkegaard that one’s prior sins have been committed deliberately and before God in order for sin to be performed knowingly. Kierkegaard evades this through what Anti-Climacus calls (in The Sickness Unto Death) the compounding of sin [quote]. Once one becomes aware (through Socrates or some other occasion) of one’s sin state---once one’s sins become fully real---then one is called to repent. The compounding of sin is just that every moment one fails to repent for one’s sins, one sins again---and this sin is compounded in full Socratic knowledge. Knowledge of one’s sin, while a condition for repenting, is not the same as repenting. Repenting is an act of the will---a grasping of the paradox of sin---and Socrates cannot repent on behalf of another. This is what Kierkegaard is primarily worried about, and what he think Socrates can’t account for: the possibility of not acting when one knows one should, even if one’s knowledge is not sufficient to specify the exact course of action. The longer one waits, the harder it is to act, and the more one continues to do wrong despite knowing that waiting---failing to act, failing to repent, failing to be held accountable---is actually wrong.
   -
-    author: X. X. (scholar: what the traditions mean by "wrong")
+    author: 'X. X. (scholar: what the traditions mean by "wrong")'
     date: '2016-10-29'
     published: false
     body: |
