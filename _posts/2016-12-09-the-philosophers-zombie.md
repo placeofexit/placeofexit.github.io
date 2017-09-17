@@ -23,24 +23,55 @@ comments:
           [has to write fiction & through the voice of zombie because she herself has never understood what the philosophers mean through their talk of what it is like, none has been able to explain it to her. through her own theory, this means that she cannot identify it---has nothing to relate it to---and so must assume her own debilitating lack of consciousness]
           At least in the examples that my zombie gives, the relations that constitute consciousness are already linguistic. Greenness is both conveyed and constructed by *naming* things: this is green, that is not. Naming establishes relationships through the ambiguity of each name: does this also count as green? What about that? Each name necessarily poses such questions, for as surely as one thing is named, many others are not, and it is precisely in determining this that one becomes conscious of sameness and difference.
           ...[doesn't care for animal consciousness]. The comparison to Thompson is interesting. The role of relations---and relations between *real things*, not representations and the represented---is prominent in his theory and seems to be necessary, for him as well, for the posibility of consciousness. Yet these are always relationships of significance---relationships between a thing and a living being---not simply relationships between things. [[counter: sameness and difference are kinds of significance, only significant to a living (organizing, sense-making being)]]
-          ...[do indeed need an explicit account of the self before proceeding further in this direction, but] Would seem that self-consciousness is no particularly special type of relation / does not involve a special kind of object, but is simply a matter of a being engaging with the boundaries of its *own* name: does this also count as me? What about that? We need an account of this kind of taking, the activity of grafting [ ] onto the self or shaving [ ] away. But this is still the activity of naming. 
----
+          ...[do indeed need an explicit account of the self before proceeding further in this direction, but] Would seem that self-consciousness is no particularly special type of relation / does not involve a special kind of object, but is simply a matter of a being engaging with the boundaries of its *own* name: does this also count as me? What about that? We need an account of this kind of taking, the activity of grafting [ ] onto the self or shaving [ ] away. But this is still the activity of naming.
+  -
+    author: X. X. (Nagel-ite)
+    date: 'YYYY-MM-DD'
+    published: false
+    body: |
+      if your version of 'what it's like' to be a conscious being is related at all to Nagel's, then you need to make clear how non-language using creatures also have something that it is like to be them.
+      should make clear that sense making activities are not necessarily linguistic; sameness / difference / likeness can be determined in ways other than language.
+      Nagel argues (p. 439-40) that commonalities in *general* types of experience, such as having a body, are insufficient for what he is getting at. They do not really address the nature of consciousness as a subjective experiential state.
+    replies:
+      -
+        author: Maria Wulfstein
+        date: 'YYYY-MM-DD'
+        published: false
+        body: |
+          interesting though, that Nagel is already talking about what it is 'like' to be a bat---what unifying traits make bats alike---and mentioning echolocation. it seems entirely unproblematic to say that "using echolocation to navigate one's world" is part of 'what it is like' to be a bat, even if echolocation is 'nothing like' how we navigate our world. yet we CAN extrapolate this unlikeness from our own case precisely because, like bats, we do use our senses to navigate our world.
+          Immediately after stating that he doesn't know what it would be like to be a human born deaf or blind, Nagel returns to the exotic, stating "We know they would be wrong [for the Martians] to draw such a skeptical conclusion because *we know what it is like to be us.*" That is, there seems to be something (A) that it is like to be human, which is distinct from, say, what it is like to be Nagel (A') and what it is like to be myself (A"). This concession, though Nagel makes it unconsciously, is all I need [it depends what he means by "us," though I suspect there is a reason he uses the plural]. Presumably, he is right that we should oppose the Martians in this way. We know that there is something it is like to be human, because we are human. Yet if we were *really truly* committed to the subjective nature of conscious experience, we would have to grant the Martians that---apart ourselves---their views are at least reasonable. This commitment is what makes zombies concievable. Does any bat know, by virtue of its own experience, what it is like to be another bat? Is any single bat in a better position than ourselves to suppose that there is something that it is like to be *a bat*?
+          --------------
+          If we suppose that Nagel is correct in identifying, as a fundamental characteristic of mental phenomena, that they are rooted first and foremost in some perspective, then zombies become inconceivable.
+          Nagel suggests that we can conceive (sympathetically) of a certain mental state/process, and then conceive (perceptually) of the non-occurrence of the identical physical process---basically, that we have different kinds of imagination for mental and physical types. Yet it seems impossible to me that we could do the reverse---that we could conceive of a certain physical form or process, and then conceive of the *non-occurrence* of the identical mental process. Our ability to conceive of a creature without *also* conceiving of its inner life / consciousness is not the same as conceiving of *a creature without consciousness.* The latter seems actually inconceivable. Our sympathetic imagination does not seem to extend towards non-occurrences of mental events the same way our perceptual imagination allows for non-occurrences of physical events. This is precisely because of the distinction that Nagel outlines between the mental and physical. Physical events occur independently of any particular perspective, and therefore may be imagined, perceptually, from some perspective, to occur or not occur. Mental events, however, only occur from some point of view---and the non-occurrence of *any* mental events would mean the the absence of any point of view. We cannot conceive sympathetically absent a point of view, so we cannot conceive sympathetically of an absent point of view, let alone a creature lacking that point of view. The fact that we can, nonetheless, conceive of the creature physically positioned and moving through space is not proof of the conceivability of a zombie.
+          This is further illustrated by the fact that, a zombie, because it is a zombie, has no awareness of the fact that it is a zombie. Indeed, it has no awareness, period. The question is then open in what sense this zombie would actually---
 
-None of the townsfolk had been inside the philosophers' laboratory on Hollow Hill, but they were all quite certain what they would find in there. Rafters adorned with chickens of all variety of plumage. A well of water that was not water, which held a stone too heavy for God. Most believed that the philosophers themselves started the rumors; after all, they were not shy with their thought experiments. On each full moon, the gates to their grounds would open, and the townsfolk would gather at the base of Hollow Hill as the philosophers, with great fanfare, picked apart heaps of sand and raced turtles across a stage. <!--more-->
+<!-- fundamentally, this is about the hard problem of consciousness. the philosophers think that it is conceivable for a zombie to exist because there is a difference between having a certain physical arrangement / emitting certain behaviors (seeing and doing things) and actually/internally experiencing what it is like to see and do those things. I want to argue that 'what it is like' to see green IS basically a behavior; there is something that greenness is like only because one is making a distinction / comparison between things. Green literally 'feels' / appears to us a certain way because of the web of associations that constitute it, the way that green things are significant to us; if green was originally a simple color / qualitative feel, divorced from all significance, we would not be conscious of it---we literally wouldn't see it. Therefore, there is only 'something that it is like' to be a person because of our sense-making activities---because we take things to be significant---and this is done through identifying/articulating/establishing sameness and difference: the LIKENESS of things. And this articulation is a public activity Any creature that can do this necessarily experiences 'something it is like' to be itself. -->
 
-Yet there came a moon on which the gates refused to open. As another moon passed, some began to speculate with horror (and others with relief) that the philosophers must have perished in an attempt to prove the soul's immortality. When the gates finally opened and unveiled the long-awaited project, it was with some disappointment that the town beheld a rather bored looking man. 
+<!-- Ideas present so far: 1) the idea of there being 'something it is like' which can't be related by way of analogy (being like this other thing) is absurd. Why should somebody accept this? >>> Because consciousness is of meanings / significance, something established through public practice of valuing things -->
 
-"Ladies and gentlemen," the Chair of philosophers belted from the stage, "approach with caution but do not be alarmed! Our latest experiment has produced what you see before you: a zombie! Notice how it does not groan or drool (overmuch), neither does it lurch nor crawl (under normal conditions)! No, there is not the slightest discernible difference between it and any of you!"
+<!-- 2) if we try to describe our experience / simple feels by way of analogy (should use example of doctor for the pain: is it sharp? blunt? aching = like a muscle ache) we describe them in terms of the network of likenesses that give the thing meaning -->
 
-The philosophers invited the townsfolk to examine the zombie. They poked and prodded, which produced signs of irritation. Some asked it to perform basic tasks, like jumping or running, which it accomplished spectacularly.
+<!-- should have: 3) the idea of a color (or any phenomenological experience) divorced from it's name and significance (which derive from a shared practice/understanding) is incoherent. (philosophers object that maybe they see red as green, maybe meaning supervenes on random qualia). the perceptual qualities that are meaningless/insignificant to us are phenomenologically invisible / transparent. we can determine what is meaningless/insignificant by what we are unable to relate by way of analogy (as sharing a similar significance for another), as being like something (is this true? why?) -->
 
-This was puzzling: "Well…is there *any* sense in which this zombie is not like us?"
+<!-- 4) if the mental world is entirely dependant on some point of view (Nagel), and, from that point of view what is not apparent to the agent cannot be counted as existing. if something is phenomenologically transparent, then it is not a mental kind (why then, do we, philosophers, seem to understand what green and red are like? perhaps this idea is significant to them in some way) -->
+
+None of the townsfolk had been inside <!-- entered? --> the philosophers' laboratory on Hollow Hill, but they were all quite certain what they would find in there. Rafters adorned with chickens, plucked and deplumed to varying degrees. A well of water that was not water, which held a stone too heavy for God. Most believed that the philosophers themselves started the rumors <!-- confusing -->; after all, they were not shy with their thought experiments. On each full moon, the gates to their grounds would open, beckoning the townsfolk <!-- ugh --> to gather at the base of Hollow Hill, as the philosophers, with great fanfare, picked apart heaps of sand and raced turtles across a stage. <!--more-->
+
+Yet there came a moon on which the gates refused to open. As another moon passed, some began to speculate with horror (and others with relief) that the philosophers had perished in an attempt to prove the soul's immortality. When, on the third moon, the gates finally opened before an eager and terrified crowd, it was admittedly with some disappointment that the town beheld a rather bored looking man. 
+
+"Ladies and gentlemen," the Chair of philosophers belted from the stage, "approach with caution but do not be alarmed! Our latest experiment has conceived the creature that you see before you: a zombie! Notice how it does not groan or drool (overmuch), neither does it lurch nor crawl (under normal conditions)! No, there is not the slightest discernible difference between it and any of you!"
+
+The philosophers ushered the townsfolk to come examine the zombie. They poked and prodded, which produced signs of irritation. Some asked it to perform basic tasks, like jumping or running, which it accomplished spectacularly.
+
+This was puzzling: "Well…is there *any* sense in which this zombie is not like us?" <!-- cool suggestion from Cliff, but potentially confusing if it comes before the explanation -->
 
 "Certainly, you must be aware," the Chair of philosophers lowered his voice, inviting the crowd to lean in, "that there is nothing that it is *like* to be a zombie."
 
 [Shrieks and hollers went up from the crowd.] <!-- should be own paragraph/scene -->
 
 In the days following, people journeyed from nearby towns to examine the creature, and the philosophers of Hollow Hill finally found themselves compelled to take their experiment on the road. <!-- longer, feels forced -->
+
+They presented it before the people of [[[place]]] to great applause....and first encountered the boisterous/raucous/rowdy people of the [[[place]]],, who could not contain their bellowing laughter long enough for the philosophers to...
 
 It wasn't long before the Academy caught word of this zombie and the philosophers recieved a notice that the Chancellor would like to examine it firsthand. <!-- needs sentence locating them --> Yet the Chair of philosophers could barely begin his routine before the Chancellor interrupted, signaling for the zombie to come forward.
 
@@ -52,31 +83,38 @@ The Chancellor raised a prickly brow: "Do you agree with them?"
 
 "I suppose I do. It does not seem to me, Chancellor, that I have a private experience or consciousness of any sort."
 
-"Do you mean to tell me that you are conscious, then, of your own lack of consciousness? That there is something it is *like* to lack qualitative experience?"
+"Do you mean to tell me that you are conscious, then, of your own lack of consciousness? That there is something it is *like* to lack qualitative experience <!-- too technical? -->?"
 
 The zombie frowned: "It does sound rather odd when you put it like that, Chancellor." This stirred the philosophers into a flurry of whispered debate.
 
-"Please, Chancellor," the Chair objected, "the zombie is not to be taken seriously in describing it's own mental state. [it has none after all] It wouldn't be a properly interesting zombie if it couldn't pretend to introspection."
+"Please, Chancellor," the Chair objected, "the zombie is not to be taken seriously in describing it's own mental state. [...the zombie is not properly equipped to give an account of itself. It has no more authority on the matter than yourself, yet] It wouldn't be a properly interesting zombie if it couldn't pretend to introspection."
 
 The Chancellor ignored him: "My friend: are you *absolutely sure* of this?"
 
-The zombie faltered: "To be truly honest, I have never understood what the philosophers are going on about. They hold up an apple and ask me to try and feel its 'greenness.' What is 'greenness?' They claim it is too immediate and subtle to speak of. Certainly, the apple is, in a sense, *like* the green ivy that grows outside my cell. Yet is there something, some one and same thing, that it is *like* to see both the apple and the ivy? I am not sure. Countless villagers have examined me, yet the philosophers do not permit me to ask them, 'Sincerely, do you know what it is *like* to be yourself?' If it is not *like* anything else---if none can explain it by way of analogy---then, I dare say, there is nothing it is like to be you, me, or anyone!"
+<!-- The zombie faltered: "To be truly honest, I have never understood what the philosophers are going on about. --> "Certainly. I must lack consciousness, since I have never been able to understand how the philosophers talk about it. They hold up an apple and ask me to try and feel its 'greenness.' What is this 'greenness?' They claim it is too immediate and subtle relate in words, that it can only be established through introspection. I can see that the apple is, in a sense, *like* the green ivy that grows outside my cell. Yet is there something, some one and same thing---a greenness---that it is *like* to behold both the apple and the ivy? I am not sure, and the philosophers offer me no comparison, nothing to measure against my own experience, or lack thereof. It seems that what it is *like* to see green is *unlike* anything else, including the actual act of seeing green.
 
+"Countless villagers have examined me, yet the philosophers do not permit me to ask them, 'Sincerely, what it is it *like* to be yourself?' If it is not *like* anything else---if none can explain it by way of analogy---then, I dare say, there is nothing it is like to be you, me, or anyone!"
 
-"Come now, zombie," the Chair interrupted, "you should know better than to make such a simple confusion [a quaint and innocent confusion] between two different meanings of likeness, simply because they happen to share a common word. When we philosophers ask what greenness is *like*, this is simply a way of pointing out the *experience* of the color, [without using language---like "experience"---which might presuppose some explanation or another.] <!--odd tonal shift, could cut--> This has nothing to do with the more conventional meaning of likeness, by which one thing is compared to another."
+------------
+
+## What Is Meant by "Likeness"
+
+"Come now, zombie," the Chair interrupted, "you should know better than to make such a simple confusion [a quaint and innocent confusion] between two different meanings of likeness, simply because they happen to share a common word. When we philosophers ask what greenness is *like*, this is simply a way of pointing out the *experience* of the color. <!--maybe skip following discussion and don't use word 'experience', https://plato.stanford.edu/entries/consciousness/, should read "What it is Like to be a Bat" --> This has nothing to do with the more conventional meaning of likeness, by which one thing is compared to another."
 
 The zombie appeared to ponder this for a moment. The Chancellor waited. [not here?]
 
-"Yet it is surely not simply 'experience,' that you mean?" the zombie replied. "For I have heard you yourself say, Chair, that there is something that it is *like* to experience greenness. It seems to be not experience that you are after, but this other thing---this 'something that it is *like*.' 
+"Yet it is surely not simply 'experience,' that you mean?" the zombie replied. "For I have heard you yourself say, Chair, that there is something that it is *like* to experience greenness. It seems to be not experience that you are after, but this other thing---this 'something that the very experience is *like*.' 
 [[And yet, precisely because it is no particular experience, it certainly seems that there is *nothing* that it is *like*---quite a peculiar kind of likeness as I have ever heard [wrong].] <!-- all too long, kinda rambling, much shorter if at all. -->
 
-"Perhaps," suggested the chair, "the fact that you cannot understand this likeness is only further proof that you are, indeed, a zombie."
+"Perhaps," suggested the chair, "the fact that you cannot understand this meaning of likeness is only further proof that you are, indeed, a zombie."
 
-"This is a very peculiar kind of likeness, then," the zombie responded. "In most of the cases I have encountered in my brief existence...
+"This is a very peculiar kind of likeness, then," the zombie responded. "It seems that this 'something it is like' is coherent only to people who already understand 'what it is like.' When you say that there is 'something it is like' to experience greenness, you suppose that other people who have experienced greenness will say, 'Aha! I know what that was like.' Am I to understand that there is *nothing else* it is like, which, by analogy, might serve to explain this likeness to someone such as myself, who is not so confident in assuming that I know the kind of likeness you are talking about.
 
-It seems that this 'something it is like' is coherent only to people who already understand 'what it is like.' When you say that there is 'something it is like' to experience greenness, you suppose that other people who have experienced greenness will say, 'Aha! I know what that was like.' [[Yet they will not be able to express it in any other way.]]
+-----------
 
-__"When I say that this apple is *like* that ivy, am I not refering to precisely what it is *like* to behold both the apple and the ivy---that is, this 'greenness?'__ <!-- is this just saying that sameness/difference is only determined through consciousness, or through comparison of conscious experiences? if so, seems like a weak insight --> Is this not right, Chancellor? I ask honestly, as I certainly cannot tell from my own experience."
+## The Zombie's Positive Philosophy
+
+__"When I say that this apple is *like* that ivy, am I not referring to precisely what it is *like* to behold both the apple and the ivy---that is, this 'greenness?'__ <!-- is this just saying that sameness/difference is only determined through consciousness, or through comparison of conscious experiences? if so, seems like a weak insight --> Is this not right, Chancellor? I ask honestly, as I certainly cannot tell from my own experience."
 
 "Of course," the Chancellor replied, "the apple and the ivy are both green; that is how they are like each other."
 
@@ -89,7 +127,7 @@ OR
 "Surely, zombie, it can't be so simple," [[Chancellor]]. "For there are many more ways that your apple and ivy are alike than mere greenness: they are both types of vegetation, both living things. The likeness that you are proposing is far too broad to satisfy what the philosophers are after."
 
 "Of course, you are right, Chancellor...
-"That may be Chancellor, and certainly it helps that there are many more green things than apples and ivy. I would not know what was green and what was not if the likeness of the apple and ivy had not also been extended (by way of the philosophers) to onion-grass and pond-scum, frogs and grasshoppers, jade and emerald (although I hear this may change // all subject to change). The more things that I learned to call 'green,' the more differences I found between them, and the clearer my understanding of 'greenness' became. There are many ways that apples and ivy may be compared, but there seems to be only one way in which all green things are alike---and this, it seems quite simple, is their greenness. Now that I know how all these things are alike, I can encounter greenness in the world."
+"That may be Chancellor, and certainly it helps that there are many more green things than apples and ivy. I would not know what was green and what was not if the likeness of the apple and ivy had not also been extended (by way of the philosophers) to onion-grass and pond-scum, frogs and grasshoppers, jade and emerald (although I understand that these are subject to change). The more things that I learned to call 'green,' the more differences I found between them, and the clearer my understanding of 'greenness' became. There are many ways that apples and ivy may be compared, but there seems to be only one way in which all green things are alike---and this, it seems quite simple, is their greenness. Now that I know how all these things are alike, I can encounter greenness in the world."
 
 [[objection, includes idea that there is some feeling, some innate impression that *is* greenness, more than their likeness]]
 
@@ -136,16 +174,16 @@ The Chair said nothing.
 
 "What does this really prove, zombie?"
 
-"That we are alike! The two meanings of likeness are one and the same!" The zombie leaped/whooped/beamed in its best imitation of pure joy. [[you are all zombies schpeal]]
+"That we are alike!<!-- already used...maybe save for here --> The two meanings of likeness are one and the same!" The zombie leaped/whooped/beamed in its best imitation of pure joy. <!-- "you are all zombies" schpeal -->
 
 ------------
 
-[[POSSIBLY HERE, but the previous convo transitions nicely into the next one as well, which I've marked as the ending]]
+<!--POSSIBLY HERE, but the previous convo transitions nicely into the next one as well, which I've marked as the ending-->
 "Are you implying that 'what it is like to see green'---our conscious experience of greenness---is an *external* relation of similarity between *external* objects?"
 
 "What a fascinating theory, Chair! How very interesting."
 
-"Fascinating? It makes no sense! Zombie, what it is *like* to see green is not a *relation*---it is pure immediacy! A subjective feel! I do not behold the entire category of green things when I percieve greenness (for what is it, even to percieve a category? or to feel a relation?), but just this one particular green---the green of this apple."
+"Fascinating? It makes no sense! Zombie, what it is *like* to see green is not a *relation*---it is pure immediacy! A subjective feel! I do not behold the entire category of green things when I perceive greenness (for what is it, even to perceive a category? or to feel a relation?), but just this one particular green---the green of this apple."
 
 [["How do you know that it is green?"
 
@@ -162,13 +200,15 @@ The Chair said nothing.
 "But zombie, you are stepping around the central point! We do not mean to indicate what it is like to see *one* kind of thing as opposed to *another*---we are talking about what it is *like* to see *anything at all!*"
 [[contradicts earlier...simple objects...could point this out?]]
 
-"Ah, of course you are, how clever. Surely then, you are talking about the way that all things are *like* one another---"
+"Ah, of course! I always underestimate the cleverness of the philosophers. Surely then, you are talking about the way that *any thing* is *like* any other---"
 
 "Stupid zombie, this is not what I mean."
 
 [Chancellor:] "Hush, Chair. How then, dear zombie, are all things like one another?"
 
 "I do not know...but it does seem that all things are at least alike in that they can be spoken of, understood, and experienced..."
+
+<!-- don't think I need to make this point: if i can point out the unity of the two senses of likeness, then just need to show that we establish the likeness / unlikeness of things in a public way, by sorting them and talking about them -->
 
 -------------
 
@@ -181,20 +221,18 @@ The Chair said nothing.
 - does this imply that consciousness is only a kind of likeness, a relation of things, a capacity to relate things?
 	- does seem to be what is implied
 - but I can be conscious of simple objects, their presence
-	- no, you are always conscious of their significance, which is a relation; their relation to you
+	- no, you are always conscious of their significance, even if their significance is qua a simple object
 - yet still some basic awareness of what it is 'like' to see green
 	- yes, but that awareness---that feeling---is solely constituted by what things we take to be 'green,'
 		- there is first, the relation of similarity between things that we have called greenness; a relation that must be learned.
 		- there is second, a relation between this relation (green things) and us, that forms the significance of greenness.
 			- but surely many different green things have many different types of significance to us; the significance of 'greenness' is so broad and multiple as to be incoherent, not the kind of thing that should give rise to a feeling
-				- nope: if this grouping was a truly incoherent grouping, we would not have grouped it as such. the sustainability of this certain set of grouped coherences prove that there *is* a common feeling there
+				- nope: if this grouping was a truly incoherent grouping, we would not have grouped it as such. the sustainability of this certain set of grouped coherences prove that there *is* a commonality there <!-- but this commonality may only be their color: this point is unhelpful -->
 				- redness: blood, arousal, passion, danger
 				- greenness: plant-life, nature, serenity
-- but surely there is a way in which the objects of my consciousness are independent from eachother: they are experienced directly, not *though* the totality of other experiences
+- but surely there is a way in which the objects of my consciousness are independent from each other: they are experienced directly, not *though* the totality of other experiences
     - inf regress: need plurality of experiences to have a single experience
         - why we are not conscious at a young age (also language though)
-    - the philosophers want to insist on this, but cannot seem to explain it, hence the apparent irreducibility of consciousness. it is not really an irreducibility of consciousness per say, but an irreducibility of all phenomena---an emptiness of the things themselves.
-    - 
 
 
 
@@ -204,3 +242,9 @@ The Chair said nothing.
 "Chancellor," the Chair trembled, "it is perfectly natural for the body to produce tears when it reaches a certain state of excitement, please do not think---"
 
 "Ever since they brought me into this world," the zombie choked out, "I have had to ask: why am I the one getting poked and prodded on stage? Well, I've concluded that there is no difference between us; that you are all just a whole lot of zombies who won't own up to it."
+
+------
+
+As one of its students later put it, the zombie possessed quite a "taste for brains"....
+
+The zombie (after eight years as an adjunct) finally achieved tenure, and lived out the rest of its years picking the brains of thinkers across the world.
