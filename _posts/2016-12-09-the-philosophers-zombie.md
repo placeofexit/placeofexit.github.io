@@ -87,28 +87,93 @@ The Chancellor raised a prickly brow: "Do you agree with them?"
 
 The zombie frowned: "It does sound rather odd when you put it like that, Chancellor." This stirred the philosophers into a flurry of whispered debate.
 
+<!--"Please, Chancellor," the Chair objected, "the zombie is not to be taken seriously in describing it's own mental state. [...the zombie is not properly equipped to give an account of itself. It has no more authority on the matter than yourself, yet] It wouldn't be a properly interesting zombie if it couldn't pretend to introspection."-->
+
+[[[[[ AT SOME POINT
+
 "Please, Chancellor," the Chair objected, "the zombie is not to be taken seriously in describing it's own mental state. [...the zombie is not properly equipped to give an account of itself. It has no more authority on the matter than yourself, yet] It wouldn't be a properly interesting zombie if it couldn't pretend to introspection."
 
-The Chancellor ignored him: "My friend: are you *absolutely sure* of this?"
+The Chancellor frowned, "We will hear it out until we get to the bottom of this. It would be an absolute *embarrassment* for the academy to [[ what is the academy doing? awarding? granting tenure? ]] for something that only *appeared* to be a zombie."
 
-<!-- The zombie faltered: "To be truly honest, I have never understood what the philosophers are going on about. --> "Certainly. I must lack consciousness, since I have never been able to understand how the philosophers talk about it. They hold up an apple and ask me to try and feel its 'greenness.' What is this 'greenness?' They claim it is too immediate and subtle relate in words, that it can only be established through introspection. I can see that the apple is, in a sense, *like* the green ivy that grows outside my cell. Yet is there something, some one and same thing---a greenness---that it is *like* to behold both the apple and the ivy? I am not sure, and the philosophers offer me no comparison, nothing to measure against my own experience, or lack thereof. It seems that what it is *like* to see green is *unlike* anything else, including the actual act of seeing green.
+]]]]]
 
-"Countless villagers have examined me, yet the philosophers do not permit me to ask them, 'Sincerely, what it is it *like* to be yourself?' If it is not *like* anything else---if none can explain it by way of analogy---then, I dare say, there is nothing it is like to be you, me, or anyone!"
+
+<!--The Chancellor ignored him:--> "My friend: are you *absolutely sure* of this?"
+
+<!-- The zombie faltered: "To be truly honest, I have never understood what the philosophers are going on about. -->
+<!-- "Certainly. I must lack consciousness, since I have never been able to understand how the philosophers speak of it. They hold up an apple and ask me to try and feel its 'greenness.' 'What is this "greenness?"' I ask them. They claim it is too immediate and subtle relate in words, that I must see, within myself, whether there is *something that it is like* to behold the green of the apple. I can see that the apple is, in a sense, *like* the green ivy that grows outside my cell. Yet is there something, some one and same thing---a greenness---that it is *like* to behold both the apple and the ivy? I am not sure, and the philosophers offer me no comparison, nothing to measure against my own experience, or lack thereof. It seems that what it is *like* to see green is *unlike* anything else, including the actual act of seeing green." -->
+
+"Certainly. I must lack consciousness, since I have never understood how the philosophers speak of it. Whenever we perform for the townsfolk, the philosophers hold up an apple and ask me to try and feel its 'greenness.' What is this 'greenness?' I have often questioned them along these lines, and have pressed them to clarify what they mean so that I may better search for it within my own experience (or lack thereof). I can tell that the apple is, in a sense, *like* the green ivy that grows outside my cell, but this does not seem to satisfy them when they ask whether there is *something it is like* to behold the green of the apple.
+
+"It seems, then, that what it is *like* to see green is *unlike* anything else, including the actual act of seeing green. And this is a very peculiar use of analogous 'like.' In my brief time in this world, I have gathered that, usually, when people ask what something 'is like,' they expect one to be relate it to something with which they are familiar. <!-- oof pronouns -->  In this way, people make the unfamiliar familiar by *bringing it close*. And it is for this same intimating power of analogy that the poets make use of it to sharpen the imagination of their audience into a finer likeness of their own."
 
 ------------
 
 ## What Is Meant by "Likeness"
 
-"Come now, zombie," the Chair interrupted, "you should know better than to make such a simple confusion [a quaint and innocent confusion] between two different meanings of likeness, simply because they happen to share a common word. When we philosophers ask what greenness is *like*, this is simply a way of pointing out the *experience* of the color. <!--maybe skip following discussion and don't use word 'experience', https://plato.stanford.edu/entries/consciousness/, should read "What it is Like to be a Bat" --> This has nothing to do with the more conventional meaning of likeness, by which one thing is compared to another."
 
-The zombie appeared to ponder this for a moment. The Chancellor waited. [not here?]
+"Your short time on this earth betrays you zombie," spoke the Chair, "for you are confused. This is simply not what we mean when we speak of what it is *like* to have a certain experience. Our usage has a *technical* meaning, which you do no favors by reducing to the familiar parlance."
 
-"Yet it is surely not simply 'experience,' that you mean?" the zombie replied. "For I have heard you yourself say, Chair, that there is something that it is *like* to experience greenness. It seems to be not experience that you are after, but this other thing---this 'something that the very experience is *like*.' 
-[[And yet, precisely because it is no particular experience, it certainly seems that there is *nothing* that it is *like*---quite a peculiar kind of likeness as I have ever heard [wrong].] <!-- all too long, kinda rambling, much shorter if at all. -->
+"Well, explain to me your technical meaning, then," the zombie asked. <!-- cut? -->
 
-"Perhaps," suggested the chair, "the fact that you cannot understand this meaning of likeness is only further proof that you are, indeed, a zombie."
+"When we speak of what it is *like* to behold the green of the apple, it is simply to say that <!-- to behold --> the green of the apple is something to us, and not nothing."
 
-"This is a very peculiar kind of likeness, then," the zombie responded. "It seems that this 'something it is like' is coherent only to people who already understand 'what it is like.' When you say that there is 'something it is like' to experience greenness, you suppose that other people who have experienced greenness will say, 'Aha! I know what that was like.' Am I to understand that there is *nothing else* it is like, which, by analogy, might serve to explain this likeness to someone such as myself, who is not so confident in assuming that I know the kind of likeness you are talking about.
+"Ah, thank you for enlightening me, your humble creation! Might you just entertain me a moment, and consider together whether this technical meaning you have cited is in fact a second, separate meaning of the term <!--inhabiting the same word by an unfortunate coincidence, as two minds in one body--> or whether this meaning in fact derives from and follows behind the first. I will try to do this without creating any technical meanings of my own, and further confusing the whole affair!
+
+"Let me ask you this: if something is familiar to some, this means that it can *become* familiar to others, yes?"
+
+"To those with the same capacities, and occupying the same world---surely such a thing could be made known to them."
+
+"And things are made familiar to another by *relating* them, is that true?"
+
+"I suppose so."
+
+"Then, indeed, we could say any thing that is familiar to some must be *relatable*, yes?" <!-- relatable is not a word! -->
+
+"Indeed."
+
+"So only what is unfamiliar could be *unrelatable?*"
+
+"Yes, although, since the unfamiliar can also be related by means of the familiar, we would have to say that not *everything* unfamiliar is also unrelatable." <!-- needs a little more clarifying: we only become familiar with things that were previously unfamiliar -->
+
+"A fair point! I wonder then: is there anything at all which is so unfamiliar that it is not relatable at all---that no analogy serves it, and one cannot even begin the process of relating it to another?"
+
+"Surely, zombie, if there were such a thing, none of us would know about it. If we knew of it, then it would not be unfamiliar, but if we did not know of it, then we could never come to know of it, since no one could relate it to us."
+
+"Indeed, Chair; what is unfamiliar *is nothing* to us---at least until it is related. But of what is unrelatable---and what is unrelatable must be familiar to no one---we could say that this is *nothing at all*?" <!--part of answer to why zombie world is impossible: is simply an expanse of nothings -->
+
+"I suppose we could. Such a thing, it seems, must be unthinkable <!--and meaningless-->."
+
+"So for something to be something *to us*, it would need to be familiar to us. And for it to be something *at all* it would need to be relatable."
+
+"This is what we have said."
+
+"So when you say that to see green is something and not nothing to you, surely this means that it is familiar to you? And if it is familiar, then surely it is relatable---at least to others in the same world?"
+
+"It would seems so," said the philosophers with a hint of worry.
+
+"Now hold on a minute," the Chair spoke up, "You have said that everything familiar is relatable, because you have assumed that things only become familiar by being related to others. Yet nobody *related* the green that I see to me; I simply saw it!"
+
+"You mean to say that the sight of something green made it immediately familiar to you? That there was nothing strange or otherworldly in your first encounter with green?"
+
+"In a sense, yes, that is what I am saying."
+
+"We may need to clarify that 'sense' of yours then. Did you not need help, like many other children, in learning to distinguish the colors of the rainbow---at which point yellow became green and green, blue? Were you not inundated with color wheels and songs and other learning devices to identify different shades by name and rank them in a color hierarchy? Did you not need this---a wealth of tools and friendly reminders---before green became truly familiar to you? This is how I understand that colors are related to most people, who are born and raised, rather than conceived all at once."
+
+<!-- does something need to be named in order to be familiar? -->
+
+"That was not my point, zombie. I meant that nobody related to me the *seeing of green*. And yet seeing green is something and not nothing to me; why, even before I knew that what I was seeing was properly called "green," this unnamed phenomenon that I encountered could be called familiar to me. <!--does something need to be named in order to be familiar? could be fleshed out before this --> And this seems perfectly reasonable! For it is fine enough to relate things to one another in order to make the unfamiliar familiar, but there is no need with what is always and already familiar. And surely there is nothing more familiar than my very experience, my own seeing of green!" <!-- should keep this objection as is, but some of the strangeness in zombie's argument could be drawn out beforehand by clarifying it's terms / what it is saying -->
+
+
+### Leftovers
+
+<!-- "Perhaps," suggested the chair, "the fact that you cannot understand this meaning of likeness is only further proof that you are, indeed, a zombie." -->
+
+<!-- "This is a very peculiar kind of likeness, then," the zombie responded. "It seems that this 'something it is like' is coherent only to people who already understand 'what it is like.' When you say that there is 'something it is like' to experience greenness, you suppose that other people who have experienced greenness will say, 'Aha! I know what that was like.' Am I to understand that there is *nothing else* it is like, which, by analogy, might serve to explain this likeness to someone such as myself, who is not so confident in assuming that I know the kind of likeness you are talking about. -->
+
+-----------
+
+## Familiarity of first-person experience
 
 -----------
 
