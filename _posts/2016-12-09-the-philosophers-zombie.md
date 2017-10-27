@@ -337,7 +337,12 @@ The Chair said nothing.
 
 "In this way, you have shown me not just what it is like to behold green, but what green *is*: a public phenomenon, an acceptable way in which the world can be *related*. 
 
-"Surely this is a very zombified understanding of green---to the extent that a zombified *understanding* is possible at all. We may have just related to you *that* there is such a phenomenon as green, and a little bit about how it manifests, but without a phenomenal experience, there is no way you could grasp *why* these things are green. Understanding that such things *are* green is the understanding available to a capable achromat. But such things only *are* green because of what it is like to behold them---don't is alike about all these different beholdings."
+"Surely this is a very zombified understanding of green---to the extent that a zombified *understanding* is possible at all. We may have just related to you *that* there is such a phenomenon as green, and a little bit about how it manifests, but without a phenomenal experience, there is no way you could grasp *why* these things are green. Understanding that such things *are* green is the understanding available to a capable achromat. But such things only *are* green because of what it is like to behold them---what is alike about all these different beholdings."
+
+<!--careful that this doesn't retread same ground as previous discussion abt naming...not about there being something green is like before it is named as green -->
+
+"I think you are misunderstanding me, Chair. The actual likeness of green things---what constitutes their being is not mere convention, separate from what it is like to behold them---it is the *same* likeness! Surely, an achromat is not atuned to this likeness---they lack the most conventional means that it could be related, but this says nothign about the public quality of this phenomena---a public way of relating is a public phenomenal experience.
+It is not enough to just name such things if that naming does not make familiar an actual likeness or grouping; such names are uttered once and  quickly forgotten."
 
 -----------
 
