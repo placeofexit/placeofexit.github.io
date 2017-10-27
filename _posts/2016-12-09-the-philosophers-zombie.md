@@ -162,18 +162,109 @@ The Chancellor frowned, "We will hear it out until we get to the bottom of this.
 
 <!-- does something need to be named in order to be familiar? -->
 
-"That was not my point, zombie. I meant that nobody related to me the *seeing of green*. And yet seeing green is something and not nothing to me; why, even before I knew that what I was seeing was properly called "green," this unnamed phenomenon that I encountered could be called familiar to me. <!--does something need to be named in order to be familiar? could be fleshed out before this --> And this seems perfectly reasonable! For it is fine enough to relate things to one another in order to make the unfamiliar familiar, but there is no need with what is always and already familiar. And surely there is nothing more familiar than my very experience, my own seeing of green!" <!-- should keep this objection as is, but some of the strangeness in zombie's argument could be drawn out beforehand by clarifying it's terms / what it is saying -->
+"That was not my point, zombie. I meant that nobody related to me the *seeing of green*. And yet seeing green is something and not nothing to me <!--; why, even before I knew that what I was seeing was properly called "green," this unnamed phenomenon that I encountered could be called familiar to me -->. <!--does something need to be named in order to be familiar? could be fleshed out before this...or this point could just be addressed under 'nothing more familiar than own experience' --> And this seems perfectly reasonable! For it is fine enough to relate things to one another in order to make the unfamiliar familiar, but there is no need with what is always and already familiar. And surely there is nothing more familiar than my very experience, my own seeing of green!" <!-- should keep this objection as is, but some of the strangeness in zombie's argument could be drawn out beforehand by clarifying it's terms / what it is saying -->
 
 
 ### Leftovers
 
 <!-- "Perhaps," suggested the chair, "the fact that you cannot understand this meaning of likeness is only further proof that you are, indeed, a zombie." -->
 
-<!-- "This is a very peculiar kind of likeness, then," the zombie responded. "It seems that this 'something it is like' is coherent only to people who already understand 'what it is like.' When you say that there is 'something it is like' to experience greenness, you suppose that other people who have experienced greenness will say, 'Aha! I know what that was like.' Am I to understand that there is *nothing else* it is like, which, by analogy, might serve to explain this likeness to someone such as myself, who is not so confident in assuming that I know the kind of likeness you are talking about. -->
+<!-- "This is a very peculiar kind of likeness, then," the zombie responded. "It seems that this 'something it is like' is coherent only to people who already understand 'what it is like.' When you say that there is 'something it is like' to experience greenness, you suppose that other people who have experienced greenness will say, 'Aha! I know what that was like.' Am I to understand that there is * nothing else * it is like, which, by analogy, might serve to explain this likeness to someone such as myself, who is not so confident in assuming that I know the kind of likeness you are talking about. -->
 
 -----------
 
 ## Familiarity of first-person experience
+
+"That is a curious assumption, Chair. Perhaps it is only curious to me, to whom the seeing of green is naturally unfamiliar. But if indeed there is nothing more familiar to you than your own experience, it is strange that we make such liberal use of metaphor and analogy in relating it."
+
+"What are you referring to, zombie?" asked the Chancellor.
+
+"Surely, what you refer to as 'sense impressions' are a part of your experience?"
+
+"Absolutely. It is only through our sense impressions, after all, that we can behold the green of the apple."
+
+"And as such, our sense impressions should be among the kinds of things that are *naturally* familiar to us, yes?
+
+"Indeed."
+
+"Yet was it not one of your forebears, Cleanthes, that related the nature of sense impressions to us? Does not the very name echo his theory, that the mind could be likened to the *impressions* left by a stamp in wax?"[^1]
+
+[^1]: Cleanthes.
+
+"I am familiar with this, and it may be that this is where the term originated, though we often forget the original theory in favor of practical necessity, and because it was refuted by his successor."
+
+"That may be for the best, but if it is the case, then the analogy has been an enduring one indeed! Can we agree to this, regardless of whether or not the analogy remains sound today?"
+
+"It has certainly lasted long. What is your point, zombie? Why this talk of analogy?"
+
+"It seems to me that there are two requirements in order to successfully relate one thing to another: first, that the things in question be sufficiently alike (and in the right way) for the analogy to be instructive, and second, that one of the pair be familiar to those whom it is related to, so that its by familiarity, the unfamiliar may be illuminated. Is this not so?"
+
+"This seems reasonable enough."
+
+"Well then, it would seem that, at least in the time of Cleanthes, that aspect of our experience which we now call 'sense impressions' must have been *less* familiar than the impressions left by a stamp in wax. Else, the analogy would have been quite unwarranted, and Chrysippus' refutation even more so! Surely, then, our sense impressions cannot be included among the those things which are naturally familiar to us, unless stamped wax is as well. But if sense impressions are not naturally familiar to us---but, indeed, had to be made so through analogy---then what *should* we regard as naturally familiar?"
+
+[[pause]]
+
+"You must be wrong about something, zombie. It is simply absurd that stamped wax could be more familiar to anyone than their own sense impressions. Do we not come to know the stamped wax *through* our sense impressions?"
+
+"That is a question for you and your kind, Chair. But it may be that we did go wrong somewhere in getting here. Could it be in the function of analogy? Or perhaps all of our word are too imprecise, and we must start again from the beginning."
+
+"We don't have time for that, zombie. Perhaps, we can amend your terms. This notion of familiarity, for one, seems strange to me. You seem to be assuming that our sense impressions, before they were called thus, must have been unfamiliar. Yet could it not be that our sense impressions *were* familiar to us, prior to Cleanthes---as familiar as anything can be---and yet they merely lacked a *name*? For certainly, what is unnamed may still be familiar, for we have often learned the name of something with which we already had an intimate acquaintance. Indeed, I can hardly name a fraction of the birds which flit by the window of my study and carry my attention with them into the clouds, and yet we have numberless times made that journey, those very birds and I. Their arrival never surprises, and their chirping to me is no less familiar than the feel of my chair and the tombs on my desk."
+
+"Perhaps you do not know the name that the ornithologists have given them. Yet it seems to me that you are at least familiar with them under the broader name of 'birds.' And you have even applied a more specific name of your own invention: Those Very Birds. Is it not through these names that they are familiar to you? It is certainly through such names that you have related to me These Very Birds. Perhaps, ignorant of these names, you would still manage to devise something else for them. But we ought not to speculate so far. It is enough to note that the names you have given these birds serve to make them familiar to you *in some way*---that is, *as* birds, or as Those Very Birds who's particular business is to flit past your window."
+
+"This is reasonable enough."
+
+"Yet in what way were Those Very Birds familiar to you *before* you gave them such a splendid name?"
+
+"Just as birds. Any old birds."
+
+"And in what way would they be familiar to you if you did not know to call them birds?"
+
+"I'm tempted to accuse you again of not making sense, zombie. I suppose I would know them as darts of sounds and color or...just somethings. But this question bothers me in the way it is asked."
+
+"And perhaps it should. I don't expect a clear answer from you. I ask this simply to note how unfamiliar these very familiar things become when they lose their names. Perhaps these birds were still familiar in a way---perhaps they were not *nothing* to you, and took on the guise of something else familiar---yet what exactly this Something Else is remains hard to say. Now that they are familiar to you and me both as Those Very Birds, it is as if they have never been anything else. We can only speak of them *as* Those Very Birds, but we cannot say what Those Very Birds were *like* before they became Those Very Birds, except that they were 
+
+...it seems that you simply want to say that there was something that these birds were *like* before you noticed them as birds---like whistling, colorful darts, as you suggested. So we can suppose that even unnamed things may have a certain *likeness*, and that by it they may still be related to others. This is to say that they are *relatable*; are something and not mere nothing. 
+
+<!-- could anything be related if nothing had a name? -->
+<!-- consciousness of something is consciousness of its likeness; consciousness itself is simply the fact that things have a likeness -->
+
+...perhaps it is that naming something *makes* that very unnamed something unfamiliar---that it was not so unfamiliar before it was named---but at least it is sufficient to note that, once it is named, the unnamed-something becomes *quite* unfamiliar.
+
+"I suppose this is true."
+
+"And so the name still serves to relate the thing---to make the unfamiliar familiar---either by making the named familiar, or by making the unnamed unfamiliar."
+
+"So it would seem that Cleanthes, in making the analogy through which we could name the sense impressions, related to us the nature of the sense impressions, and thereby made them, at least, *more* familiar than they had been without a name."
+
+"It would seems so."
+
+"If so, then what remains of that category you were speaking of: those things which are naturally familiar to us, and the familiarity of which requires no relating?"
+
+"I am not sure, but it is not ruled out as a possibility. Perhaps our sense impressions are not among those things which are naturally familiar. Or perhaps they are, and yet that natural familiarity a rather weak sort, so that something external like stamped wax could shed light on it. But it seems to me, zombie, that there must be *something* which is familiar prior to the activity of relating. For if everything unfamiliar is *only* made familiar by being related, then there must already be something familiar to relate it to! So we must suppose at least *some* primordial familiarity before anything can be related."
+
+<!-- want to say that nothing is familiar outside of relating / relations it bears with other things. nevertheless we need to start with * some * innate familiarity, otherwise nothing can ever become familiar. So there needs to be some unrelated familiarity...but unless * that very * unrelated familiarity has a name, there is no point in trying to point out what it is. and in order for it to have a name, it would need to  contain itself as a category. so "phenomenal events" are not innately familiar, since they must be named in order to be familiar as such. there is just some innate familiarity...likeness of things that precedes their relating / their having names -->
+
+"A fair point Chair! I fear that we have run up against the hard edges of our terms, and that this is perhaps the consequence of going about things so unsystematically. Yet let us carry on (there is no turning back now!) and admit there must be some primordial familiarity. Yet this may be of a very limited sort. Is it reasonable to suggest that the full extent of this familiarity is as such: 'in the beginning, there was something and not nothing.' For in order for things to be related, there must be something *relatable*, but beyond this we can say nothing.
+
+"Indeed, this primordial familiarity is familiar at all then it must be something and not nothing. But what 'something' could we be talking about here, except for the *something* that it is like to be a conscious being---to have experience of any sort---the immediacy of phenomenal existence?"
+
+"Surely, this primordial something is not the sort of thing we can name. (Heaven help us if we already have! For naming, we have said, is a way of relating <!-- how? this should be clarified. naming makes something coherent as a thing; this makes it something, not nothing; it makes it something that * can be * related...does naming precede relating? naming requires (or creates) at least some real likeness among things, a sameness and difference...which are required by (and established through) the relating of things -->
+
+"Surely, this primordial something is not the sort of thing we can name! For doing so, we have said, would make it *more* familiar, and this is precisely what we should avoid if we want to stay true to it's primordiality. It is enough that there is something and not nothing---that the relating of things *is* possible---but to go further and call it consciousness would be to... I would like to call it the world, but it is only the world in a certain sense, as the source of all things *in* the world."
+
+"It is perhaps like a mirror; we do not *see* the mirror, but we only know "there is a mirror there" because we see what it *reflects*. But look at me, pretending to relate it by what it is *like*! I will say no more."
+
+<!-- if it can't be related, then it is nothing at all and totally unfamiliar... this doesn't work -->
+
+"I suspect you are being deliberately obscure zombie, to hide the circles that you speak in. What a fool I am, looking for truth in a zombies words, like trying to divine meaning in in the random rumblings of a great machinery."
+
+<!-- "Oh let's not stop now!" the Chancelor squalked. -->
+
+Chair: "It is simply obvious to anyone with a mind that there is something it is *like* to have experiences, and that there is something *immediately familiar* to our own experiences. That I am having the experience I am having; this is clear to me, and it not something that anyone else could know in the same way."
+
+"Not when you relate it like that," frowned the zombie. "'I am having the experience that I am having' is clearly true, yet it conveys nothing. If you insist on only speaking in such a way, then what you call your 'experiences' very well may remain private and unknowable. But I think you can do better, so I implore you---for me, a humble zombie, who has know other means of understanding such a thing---tell me: what is it *like* to behold the green of the apple?"
 
 -----------
 
@@ -181,31 +272,26 @@ The Chancellor frowned, "We will hear it out until we get to the bottom of this.
 
 __"When I say that this apple is *like* that ivy, am I not referring to precisely what it is *like* to behold both the apple and the ivy---that is, this 'greenness?'__ <!-- is this just saying that sameness/difference is only determined through consciousness, or through comparison of conscious experiences? if so, seems like a weak insight --> Is this not right, Chancellor? I ask honestly, as I certainly cannot tell from my own experience."
 
-"Of course," the Chancellor replied, "the apple and the ivy are both green; that is how they are like each other."
+"Of course," the Chancellor replied, "the apple and the ivy are both green; that is how they are alike."
 
-"Is it a mere coincidence, then, that through this first meaning of likeness we discover the meaning of the second? That their shared property (greenness) is in fact what it is like to behold both of them? [[Or is it this *first* likeness that the philosophers actually mean when they talk of what it is *like* to see green."]]
-OR
-[["Are you implying that 'what it is like to see green'---our conscious experience of greenness---is an *external* relation of similarity between *external* objects?"
+"Is it a mere coincidence, then, that through this first meaning of likeness we discover the meaning of the second? That the way in which these things are alike (their greenness) is in fact what it is like to behold both of them? Or is it this *first* likeness that the philosophers actually mean when they talk of what it is *like* to see green."
 
-"What a fascinating theory, Chair! How very interesting."]][[LATER?]]
-
-"Surely, zombie, it can't be so simple," [[Chancellor]]. "For there are many more ways that your apple and ivy are alike than mere greenness: they are both types of vegetation, both living things. The likeness that you are proposing is far too broad to satisfy what the philosophers are after."
-
-"Of course, you are right, Chancellor...
-"That may be Chancellor, and certainly it helps that there are many more green things than apples and ivy. I would not know what was green and what was not if the likeness of the apple and ivy had not also been extended (by way of the philosophers) to onion-grass and pond-scum, frogs and grasshoppers, jade and emerald (although I understand that these are subject to change). The more things that I learned to call 'green,' the more differences I found between them, and the clearer my understanding of 'greenness' became. There are many ways that apples and ivy may be compared, but there seems to be only one way in which all green things are alike---and this, it seems quite simple, is their greenness. Now that I know how all these things are alike, I can encounter greenness in the world."
+"That may be Chancellor, and certainly it helps that there are many more green things than apples and ivy. I would not know what was green and what was not if the likeness of the apple and ivy had not also been extended, by the philosophers relating it, to onion-grass and pond-scum, frogs and grasshoppers, jade and emerald (although I understand that these are subject to change). The more things that I learned to call 'green,' the more differences I found between them, and the clearer my understanding of 'greenness' became. There are many ways that apples and ivy may be compared, but there seems to be only one way in which all green things are alike---and this, it seems quite simple, is their greenness. Now that I know how all these things are alike, I can encounter greenness in the world."
 
 [[objection, includes idea that there is some feeling, some innate impression that *is* greenness, more than their likeness]]
 
-[[possibly right after objection
-"If you could *try* to explain this phenomena, this feeling to me---for I so dearly want to know---what does it feel *like* to see green?"
+-----------
+## Interrogation of the Philosophers
 
-The zombie addressed this question to the crowd of philosophers behind it. They murmered among eachother and then fell silent. Finally, one offered:
+"If you could *try* to explain this phenomena, this feeling to me---for I so dearly want to know---what is it *like* to see green?"
 
-"Green feels calm."
+The zombie addressed this question to the crowd of philosophers behind it. They murmered among themselves and then fell silent. Finally, one offered:
+
+"Green is calm."
 
 "Yes, calm and cool", suggested another.
 
-"It feels safe, comfortable."
+"It is safe, comfortable."
 
 "Like home."
 
@@ -227,15 +313,35 @@ The Chair said nothing.
 
 "Yes, red is loving, passionate."
 
-"Sacrifice and bloodletting." [Chancellor]
+"Sacrifice and bloodletting," suggested the Chancellor.
 
-"Rage." [Chair]
+"Rage," muttered the Chair.
 
 "Ah," the zombie closed its eyes and smiled, "thank you. That is what I had hoped."
 
 "Why do you smile, zombie?"
 
-"For you have just described to me what red and green are *like* by relating it to things that are red and green! Do you not see? The calm and comfort of green, you take from the pastures and vales, the slow blowing of branches and the light rustle of leaves. Meanwhile, the alarm that you ascribe to red, this comes from the sight of blood. For passion you recall a lover's blush; for rage, the flustered face of the loser in one of your debates. The Chair has helpfully demonstrated this by reddening his own."
+"For you have just related what it is like to see red and green! You have let even me, a blind zombie, peer through your eyes."
+
+"Preposterous. What we have just related---this is not the same as *actually beholding* green or red."
+
+- actually beholding things only possible *through* their relations; we are *using* pastures, vales, etc. in order to behold 'green'---if green hadn't been related through such things, it would be unfamiliar / nothing to us
+- what is important is that, by relating such things, the philosophers have made 'green' *familiar* to the zombie
+- are the others (pastures, vales, etc.) things that the zombie is familiar with? insofar as he *understands* what the philosophers are talking about, yes. perhaps philosophers can object (he shouldn't be familiar with *anything*, being a zombie), and he can get into that (the possibility of having nothing familiar, zombie world is not conceivable / incoherent).
+
+**from outline**: Zombie points out that there is much in common in what the philosophers say ‘seeing green’ is like to them. suggests it would be sensible to speak of what ‘green is like’ in general---as a public phenomenon.
+
+"There is so much in common in what how you each relate these colors---so much that i cannot fathom how this could be unless you all were drawing on a shared, public phenomenon."
+
+"The calm and comfort of green, you take from the pastures and vales, the slow blowing of branches and the light rustle of leaves. The alarm that you ascribe to red---this comes from the sight of blood. For passion you recall a lover's blush; for rage, the flustered face of the loser in one of your debates. The Chair has helpfully demonstrated this by reddening his own."
+
+"In this way, you have shown me not just what it is like to behold green, but what green *is*: a public phenomenon, an acceptable way in which the world can be *related*. 
+
+"Surely this is a very zombified understanding of green---to the extent that a zombified *understanding* is possible at all. We may have just related to you *that* there is such a phenomenon as green, and a little bit about how it manifests, but without a phenomenal experience, there is no way you could grasp *why* these things are green. Understanding that such things *are* green is the understanding available to a capable achromat. But such things only *are* green because of what it is like to behold them---don't is alike about all these different beholdings."
+
+-----------
+
+### Leftovers
 
 "What does this really prove, zombie?"
 
@@ -313,3 +419,4 @@ The Chair said nothing.
 As one of its students later put it, the zombie possessed quite a "taste for brains"....
 
 The zombie (after eight years as an adjunct) finally achieved tenure, and lived out the rest of its years picking the brains of thinkers across the world.
+
