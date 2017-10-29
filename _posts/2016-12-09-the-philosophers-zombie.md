@@ -105,7 +105,10 @@ The Chancellor frowned, "We will hear it out until we get to the bottom of this.
 
 "Certainly. I must lack consciousness, since I have never understood how the philosophers speak of it. Whenever we perform for the townsfolk, the philosophers hold up an apple and ask me to try and feel its 'greenness.' What is this 'greenness?' I have often questioned them along these lines, and have pressed them to clarify what they mean so that I may better search for it within my own experience (or lack thereof). I can tell that the apple is, in a sense, *like* the green ivy that grows outside my cell, but this does not seem to satisfy them when they ask whether there is *something it is like* to behold the green of the apple.
 
-"It seems, then, that what it is *like* to see green is *unlike* anything else, including the actual act of seeing green. And this is a very peculiar use of analogous 'like.' In my brief time in this world, I have gathered that, usually, when people ask what something 'is like,' they expect one to be relate it to something with which they are familiar. <!-- oof pronouns -->  In this way, people make the unfamiliar familiar by *bringing it close*. And it is for this same intimating power of analogy that the poets make use of it to sharpen the imagination of their audience into a finer likeness of their own."
+"It seems, then, that what it is *like* to see green is *unlike* anything else, including the actual act of seeing green. And this is a very peculiar use of analogous 'like.' In my brief time in this world, I have gathered that, usually, when people ask what something 'is like,' they expect one to be relate it to them, by relating it to something with which they are familiar. <!-- oof pronouns -->  In this way, people make the unfamiliar familiar by *bringing it close*. And it is for this same intimating power of analogy that the poets make use of it to sharpen the imagination of their audience into a finer likeness of their own."
+
+<!-- include above -->
+"What is *alike* must be *related* in some way."
 
 ------------
 
@@ -118,7 +121,7 @@ The Chancellor frowned, "We will hear it out until we get to the bottom of this.
 
 "When we speak of what it is *like* to behold the green of the apple, it is simply to say that <!-- to behold --> the green of the apple is something to us, and not nothing."
 
-"Ah, thank you for enlightening me, your humble creation! Might you just entertain me a moment, and consider together whether this technical meaning you have cited is in fact a second, separate meaning of the term <!--inhabiting the same word by an unfortunate coincidence, as two minds in one body--> or whether this meaning in fact derives from and follows behind the first. I will try to do this without creating any technical meanings of my own, and further confusing the whole affair!
+"Ah, thank you for enlightening me, your humble creation! Might you just entertain me a moment, and consider together whether this technical meaning you have cited is in fact a second, separate meaning of the term <!--inhabiting the same word by an unfortunate coincidence, as two minds in one body--> or whether this meaning in fact derives from and follows behind the first. <!-- I will try to do this without creating any technical meanings of my own, and further confusing the whole affair! --> I hope you will forgive me if I attempt this with my own simple vocabulary, for I have not been long enough in this world to master the *technique*of technical meanings."
 
 "Let me ask you this: if something is familiar to some, this means that it can *become* familiar to others, yes?"
 
@@ -166,6 +169,8 @@ The Chancellor frowned, "We will hear it out until we get to the bottom of this.
 
 
 ### Leftovers
+
+"...the like and unlike established through likes and dislikes."
 
 <!-- "Perhaps," suggested the chair, "the fact that you cannot understand this meaning of likeness is only further proof that you are, indeed, a zombie." -->
 
@@ -276,16 +281,16 @@ __"When I say that this apple is *like* that ivy, am I not referring to precisel
 
 "Is it a mere coincidence, then, that through this first meaning of likeness we discover the meaning of the second? That the way in which these things are alike (their greenness) is in fact what it is like to behold both of them? Or is it this *first* likeness that the philosophers actually mean when they talk of what it is *like* to see green."
 
-"That may be Chancellor, and certainly it helps that there are many more green things than apples and ivy. I would not know what was green and what was not if the likeness of the apple and ivy had not also been extended, by the philosophers relating it, to onion-grass and pond-scum, frogs and grasshoppers, jade and emerald (although I understand that these are subject to change). The more things that I learned to call 'green,' the more differences I found between them, and the clearer my understanding of 'greenness' became. There are many ways that apples and ivy may be compared, but there seems to be only one way in which all green things are alike---and this, it seems quite simple, is their greenness. Now that I know how all these things are alike, I can encounter greenness in the world."
+"That may be Chancellor, and certainly it helps that there are many more green things than apples and ivy. I would not know what was green and what was not if the likeness of the apple and ivy had not also been extended, by the philosophers relating it, to onion-grass and pond-scum, frogs and grasshoppers, jade and emerald (although I understand that these are subject to change). The more things that I learned to call 'green,' the more differences I found between them, and the clearer my understanding of 'greenness' became. There are many ways that apples and ivy may be compared, but there seems to be only one way in which all green things are alike---and this, it seems quite simple, is precisely what it is *like* to behold green. Now that I understand how all these things are alike, I can encounter greenness in the world."
 
 [[objection, includes idea that there is some feeling, some innate impression that *is* greenness, more than their likeness]]
 
 -----------
 ## Interrogation of the Philosophers
 
-"If you could *try* to explain this phenomena, this feeling to me---for I so dearly want to know---what is it *like* to see green?"
+"If you could *try* to explain this phenomenon, this feeling to me---for I so dearly want to know---what is it *like* to see green?"
 
-The zombie addressed this question to the crowd of philosophers behind it. They murmered among themselves and then fell silent. Finally, one offered:
+The zombie addressed this question to the crowd of philosophers behind it. They murmured among themselves and then fell silent. Finally, one offered:
 
 "Green is calm."
 
@@ -331,7 +336,7 @@ The Chair said nothing.
 
 **from outline**: Zombie points out that there is much in common in what the philosophers say ‘seeing green’ is like to them. suggests it would be sensible to speak of what ‘green is like’ in general---as a public phenomenon.
 
-"There is so much in common in what how you each relate these colors---so much that i cannot fathom how this could be unless you all were drawing on a shared, public phenomenon."
+"There is so much in common in how you each relate these colors---so much that i cannot fathom how this could be unless you were all drawing on a shared, public phenomenon."
 
 "The calm and comfort of green, you take from the pastures and vales, the slow blowing of branches and the light rustle of leaves. The alarm that you ascribe to red---this comes from the sight of blood. For passion you recall a lover's blush; for rage, the flustered face of the loser in one of your debates. The Chair has helpfully demonstrated this by reddening his own."
 
