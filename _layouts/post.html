@@ -23,6 +23,22 @@ layout: default
         Written on {{ page.date | date: "%B %e, %Y" }}
     </div>
 
+    {% if page.sources %}
+        <div>
+            <h2>Sources</h2>
+            <ul>
+                {% assign source-list = page.sources | sort: "name" %}
+                {% for source in source-list %}
+                <li>{{ source.author }}, 
+                    <a href="{{ source.link }}">
+                        {{ source.title }}
+                    </a>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+    {% endif %}
+
     <h2 id="comments-heading">Comments</h2>
 
 <!--
